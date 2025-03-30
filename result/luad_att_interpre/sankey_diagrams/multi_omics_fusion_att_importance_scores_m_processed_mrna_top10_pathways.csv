@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Degradation of beta-catenin by the destruction complex,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,ROS and RNS production in phagocytes,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Intraflagellar transport,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,tRNA Aminoacylation,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Cell-extracellular matrix interactions,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Collagen biosynthesis and modifying enzymes,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Aflatoxin activation and detoxification,mrna,layer_2,5.5115533
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Aflatoxin activation and detoxification,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Cell-extracellular matrix interactions,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,tRNA Aminoacylation,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,ROS and RNS production in phagocytes,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Intraflagellar transport,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Degradation of beta-catenin by the destruction complex,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Collagen biosynthesis and modifying enzymes,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,5.135726
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Diseases of DNA repair,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Biological oxidations,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,O2/CO2 exchange in erythrocytes,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Diseases of hemostasis,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Reversible hydration of carbon dioxide,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Ion channel transport,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Metabolism of porphyrins,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Metabolism of nucleotides,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,RNA Polymerase II Transcription,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Diseases of the neuronal system,mrna,layer_3,3.9159877
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Cell-extracellular matrix interactions,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,tRNA Aminoacylation,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Aflatoxin activation and detoxification,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Degradation of beta-catenin by the destruction complex,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Intraflagellar transport,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,ROS and RNS production in phagocytes,mrna,layer_2,3.7495847
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,ROS and RNS production in phagocytes,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Intraflagellar transport,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Aflatoxin activation and detoxification,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Degradation of beta-catenin by the destruction complex,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,tRNA Aminoacylation,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Cell-extracellular matrix interactions,mrna,layer_2,3.3306644
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,tRNA Aminoacylation,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Cell-extracellular matrix interactions,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Aflatoxin activation and detoxification,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,ROS and RNS production in phagocytes,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Intraflagellar transport,mrna,layer_2,2.868753
+Retinoid cycle disease events,mrna,layer_1,2.6996298,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Aflatoxin activation and detoxification,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,ROS and RNS production in phagocytes,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Intraflagellar transport,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,tRNA Aminoacylation,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Cell-extracellular matrix interactions,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.6996298
+Retinoid cycle disease events,mrna,layer_1,2.6996298,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.6996298
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,ROS and RNS production in phagocytes,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Intraflagellar transport,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Cell-extracellular matrix interactions,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,tRNA Aminoacylation,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,Aflatoxin activation and detoxification,mrna,layer_2,2.6283133
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,2.6283133,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.6283133
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Aflatoxin activation and detoxification,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Intraflagellar transport,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,ROS and RNS production in phagocytes,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,tRNA Aminoacylation,mrna,layer_2,2.4896839
+Dissolution of Fibrin Clot,mrna,layer_1,2.4896839,Cell-extracellular matrix interactions,mrna,layer_2,2.4896839
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Aflatoxin activation and detoxification,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,ROS and RNS production in phagocytes,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Intraflagellar transport,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,Cell-extracellular matrix interactions,mrna,layer_2,2.4547951
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,2.4547951,tRNA Aminoacylation,mrna,layer_2,2.4547951
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Degradation of beta-catenin by the destruction complex,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Cell-extracellular matrix interactions,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,tRNA Aminoacylation,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Intraflagellar transport,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,ROS and RNS production in phagocytes,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Aflatoxin activation and detoxification,mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.441772
+Reduction of cytosolic Ca++ levels,mrna,layer_1,2.441772,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.441772
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,RNA Polymerase II Transcription,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Diseases of the neuronal system,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Biological oxidations,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Diseases of DNA repair,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Metabolism of nucleotides,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Metabolism of porphyrins,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Ion channel transport,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Reversible hydration of carbon dioxide,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Diseases of hemostasis,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,O2/CO2 exchange in erythrocytes,mrna,layer_3,2.1599991
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Reversible hydration of carbon dioxide,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Ion channel transport,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,RNA Polymerase II Transcription,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Diseases of the neuronal system,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Biological oxidations,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Diseases of DNA repair,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Metabolism of porphyrins,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Metabolism of nucleotides,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Diseases of hemostasis,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,O2/CO2 exchange in erythrocytes,mrna,layer_3,2.1352499
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Diseases of the neuronal system,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,RNA Polymerase II Transcription,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Metabolism of nucleotides,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Metabolism of porphyrins,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Diseases of hemostasis,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,O2/CO2 exchange in erythrocytes,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Diseases of DNA repair,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Biological oxidations,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Reversible hydration of carbon dioxide,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Ion channel transport,mrna,layer_3,1.720786
+HSD3B1,mrna,input,1.7011398,Downregulation of ERBB2 signaling,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Processing and activation of SUMO,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Catecholamine biosynthesis,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Role of phospholipids in phagocytosis,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Retinoid cycle disease events,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Dissolution of Fibrin Clot,mrna,layer_1,1.7011398
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Biological oxidations,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Diseases of DNA repair,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,O2/CO2 exchange in erythrocytes,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Diseases of hemostasis,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Metabolism of nucleotides,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Metabolism of porphyrins,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,RNA Polymerase II Transcription,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Diseases of the neuronal system,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Ion channel transport,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Reversible hydration of carbon dioxide,mrna,layer_3,1.6843464
+Intraflagellar transport,mrna,layer_2,1.5076594,Metabolism of porphyrins,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Metabolism of nucleotides,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Reversible hydration of carbon dioxide,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Ion channel transport,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,RNA Polymerase II Transcription,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Diseases of the neuronal system,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Diseases of DNA repair,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Biological oxidations,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,O2/CO2 exchange in erythrocytes,mrna,layer_3,1.5076594
+Intraflagellar transport,mrna,layer_2,1.5076594,Diseases of hemostasis,mrna,layer_3,1.5076594
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Disease,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Metabolism of RNA,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Muscle contraction,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Digestion and absorption,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Immune System,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Metabolism of proteins,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Extracellular matrix organization,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Developmental Biology,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Organelle biogenesis and maintenance,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Circadian Clock,mrna,layer_4,1.3873042
+Ion channel transport,mrna,layer_3,1.3260831,Digestion and absorption,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Muscle contraction,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Immune System,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Metabolism of proteins,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Developmental Biology,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Extracellular matrix organization,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Disease,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Metabolism of RNA,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Organelle biogenesis and maintenance,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Circadian Clock,mrna,layer_4,1.3260831
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Digestion and absorption,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Muscle contraction,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Developmental Biology,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Extracellular matrix organization,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Immune System,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Metabolism of proteins,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Organelle biogenesis and maintenance,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Circadian Clock,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Disease,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Metabolism of RNA,mrna,layer_4,1.2379097
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Muscle contraction,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Digestion and absorption,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Immune System,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Metabolism of proteins,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Developmental Biology,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Extracellular matrix organization,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Circadian Clock,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Organelle biogenesis and maintenance,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Disease,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Metabolism of RNA,mrna,layer_4,1.2232261
+KCNK18,mrna,input,1.2080522,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Downregulation of ERBB2 signaling,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Processing and activation of SUMO,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Catecholamine biosynthesis,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Role of phospholipids in phagocytosis,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Retinoid cycle disease events,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Dissolution of Fibrin Clot,mrna,layer_1,1.2080522
+SLC12A3,mrna,input,1.1983293,Downregulation of ERBB2 signaling,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Role of phospholipids in phagocytosis,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Retinoid cycle disease events,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Dissolution of Fibrin Clot,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Processing and activation of SUMO,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Catecholamine biosynthesis,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.1983293
+L1CAM,mrna,input,1.1872488,Processing and activation of SUMO,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Catecholamine biosynthesis,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Role of phospholipids in phagocytosis,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Retinoid cycle disease events,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Dissolution of Fibrin Clot,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Downregulation of ERBB2 signaling,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1872488
+TRPM1,mrna,input,1.1542009,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Catecholamine biosynthesis,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Processing and activation of SUMO,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Downregulation of ERBB2 signaling,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Role of phospholipids in phagocytosis,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Retinoid cycle disease events,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Dissolution of Fibrin Clot,mrna,layer_1,1.1542009
+GNAT1,mrna,input,1.1192735,Dissolution of Fibrin Clot,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Retinoid cycle disease events,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Role of phospholipids in phagocytosis,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Downregulation of ERBB2 signaling,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Catecholamine biosynthesis,mrna,layer_1,1.1192735
+GNAT1,mrna,input,1.1192735,Processing and activation of SUMO,mrna,layer_1,1.1192735
+GPR37L1,mrna,input,1.1115351,Downregulation of ERBB2 signaling,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Role of phospholipids in phagocytosis,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Retinoid cycle disease events,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Dissolution of Fibrin Clot,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Catecholamine biosynthesis,mrna,layer_1,1.1115351
+GPR37L1,mrna,input,1.1115351,Processing and activation of SUMO,mrna,layer_1,1.1115351
+TFDP1,mrna,input,1.0731299,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Downregulation of ERBB2 signaling,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Catecholamine biosynthesis,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Processing and activation of SUMO,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Retinoid cycle disease events,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Role of phospholipids in phagocytosis,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Dissolution of Fibrin Clot,mrna,layer_1,1.0731299
+TFDP1,mrna,input,1.0731299,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.0731299
+GATA3,mrna,input,1.0723473,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Downregulation of ERBB2 signaling,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Processing and activation of SUMO,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Catecholamine biosynthesis,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Role of phospholipids in phagocytosis,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Retinoid cycle disease events,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.0723473
+GATA3,mrna,input,1.0723473,Dissolution of Fibrin Clot,mrna,layer_1,1.0723473
+NKX2-2,mrna,input,1.0681276,Dissolution of Fibrin Clot,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Role of phospholipids in phagocytosis,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Retinoid cycle disease events,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Processing and activation of SUMO,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Catecholamine biosynthesis,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Downregulation of ERBB2 signaling,mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,1.0681276
+NKX2-2,mrna,input,1.0681276,Reduction of cytosolic Ca++ levels,mrna,layer_1,1.0681276
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Muscle contraction,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Organelle biogenesis and maintenance,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Disease,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Metabolism of RNA,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Developmental Biology,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Circadian Clock,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Metabolism of proteins,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Immune System,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Digestion and absorption,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Extracellular matrix organization,mrna,layer_4,0.9853394
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Ion channel transport,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Metabolism of porphyrins,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Metabolism of nucleotides,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Reversible hydration of carbon dioxide,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,RNA Polymerase II Transcription,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Diseases of the neuronal system,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Diseases of DNA repair,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Biological oxidations,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,Diseases of hemostasis,mrna,layer_3,0.96014196
+Degradation of beta-catenin by the destruction complex,mrna,layer_2,0.96014196,O2/CO2 exchange in erythrocytes,mrna,layer_3,0.96014196
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Biological oxidations,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Diseases of DNA repair,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,O2/CO2 exchange in erythrocytes,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Diseases of hemostasis,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Metabolism of porphyrins,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Metabolism of nucleotides,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Reversible hydration of carbon dioxide,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Ion channel transport,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,RNA Polymerase II Transcription,mrna,layer_3,0.9318541
+Reversal of alkylation damage by DNA dioxygenases,mrna,layer_2,0.9318541,Diseases of the neuronal system,mrna,layer_3,0.9318541
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Developmental Biology,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Extracellular matrix organization,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Disease,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Metabolism of RNA,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Organelle biogenesis and maintenance,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Circadian Clock,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Muscle contraction,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Digestion and absorption,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Metabolism of proteins,mrna,layer_4,0.9143241
+Diseases of the neuronal system,mrna,layer_3,0.9143241,Immune System,mrna,layer_4,0.9143241
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Diseases of the neuronal system,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,RNA Polymerase II Transcription,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Diseases of DNA repair,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Biological oxidations,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,O2/CO2 exchange in erythrocytes,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Diseases of hemostasis,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Metabolism of nucleotides,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Metabolism of porphyrins,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Ion channel transport,mrna,layer_3,0.7087636
+Cell-extracellular matrix interactions,mrna,layer_2,0.7087636,Reversible hydration of carbon dioxide,mrna,layer_3,0.7087636
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Metabolism of porphyrins,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Metabolism of nucleotides,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Reversible hydration of carbon dioxide,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Ion channel transport,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Diseases of the neuronal system,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,RNA Polymerase II Transcription,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,O2/CO2 exchange in erythrocytes,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Diseases of hemostasis,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Biological oxidations,mrna,layer_3,0.6339907
+tRNA Aminoacylation,mrna,layer_2,0.6339907,Diseases of DNA repair,mrna,layer_3,0.6339907
+Biological oxidations,mrna,layer_3,0.40189368,Disease,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Metabolism of RNA,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Developmental Biology,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Extracellular matrix organization,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Metabolism of proteins,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Immune System,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Digestion and absorption,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Muscle contraction,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Organelle biogenesis and maintenance,mrna,layer_4,0.40189368
+Biological oxidations,mrna,layer_3,0.40189368,Circadian Clock,mrna,layer_4,0.40189368
+Diseases of DNA repair,mrna,layer_3,0.33538255,Immune System,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Metabolism of proteins,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Developmental Biology,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Extracellular matrix organization,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Disease,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Metabolism of RNA,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Organelle biogenesis and maintenance,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Circadian Clock,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Muscle contraction,mrna,layer_4,0.33538255
+Diseases of DNA repair,mrna,layer_3,0.33538255,Digestion and absorption,mrna,layer_4,0.33538255
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Metabolism of RNA,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Disease,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Developmental Biology,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Extracellular matrix organization,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Metabolism of proteins,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Immune System,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Digestion and absorption,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Muscle contraction,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Organelle biogenesis and maintenance,mrna,layer_4,0.3238821
+O2/CO2 exchange in erythrocytes,mrna,layer_3,0.3238821,Circadian Clock,mrna,layer_4,0.3238821
+Diseases of hemostasis,mrna,layer_3,0.2919283,Metabolism of proteins,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Immune System,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Muscle contraction,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Digestion and absorption,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Disease,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Metabolism of RNA,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Developmental Biology,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Extracellular matrix organization,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Organelle biogenesis and maintenance,mrna,layer_4,0.2919283
+Diseases of hemostasis,mrna,layer_3,0.2919283,Circadian Clock,mrna,layer_4,0.2919283

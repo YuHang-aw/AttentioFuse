@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+SNV_layer_3_24,Elastic fibre formation,layer_3,SNV,16.117575
+SNV_layer_2_69,M-decay: degradation of maternal mRNAs by maternally stored factors,layer_2,SNV,5.541074
+SNV_layer_2_68,Zygotic genome activation (ZGA),layer_2,SNV,4.3779616
+SNV_layer_1_133,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,layer_1,SNV,2.6896374
+SNV_layer_1_134,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,layer_1,SNV,2.5580614
+SNV_layer_1_135,Acetylcholine regulates insulin secretion,layer_1,SNV,2.2789764
+SNV_layer_2_3,FASTK family proteins regulate processing and stability of mitochondrial RNAs,layer_2,SNV,1.7056167
+SNV_layer_1_136,Free fatty acids regulate insulin secretion,layer_1,SNV,1.6611346
+SNV_layer_1_13,Antagonism of Activin by Follistatin,layer_1,SNV,1.1344457
+SNV_layer_1_23,Post-chaperonin tubulin folding pathway,layer_1,SNV,1.0702621
+SNV_layer_1_31,Response of EIF2AK4 (GCN2) to amino acid deficiency,layer_1,SNV,1.0382856
+SNV_layer_2_13,Neurotransmitter receptors and postsynaptic signal transmission,layer_2,SNV,1.0349644
+SNV_layer_1_83,Glycogen breakdown (glycogenolysis),layer_1,SNV,0.9845211
+SNV_input_8223,TP53,input,SNV,0.87824124
+SNV_layer_3_5,"Plasma lipoprotein assembly, remodeling, and clearance",layer_3,SNV,0.8660008
+SNV_layer_1_78,BBSome-mediated cargo-targeting to cilium,layer_1,SNV,0.85504776
+SNV_input_8408,TTN,input,SNV,0.8319866
+SNV_input_4774,MUC16,input,SNV,0.82636964
+SNV_input_6981,RYR2,input,SNV,0.81284267
+SNV_input_8784,XIRP2,input,SNV,0.7272863
+SNV_input_4037,KRAS,input,SNV,0.7212164
+SNV_input_7657,SPTA1,input,SNV,0.70587605
+SNV_input_2582,FLG,input,SNV,0.7010437
+SNV_input_5785,PCDH15,input,SNV,0.678764
+SNV_input_339,ANK2,input,SNV,0.67522174
+SNV_layer_1_608,Signaling by Hippo,layer_1,SNV,0.6573912
+SNV_layer_2_349,Signaling by NOTCH3,layer_2,SNV,0.39040858
+SNV_layer_2_25,Mitochondrial Uncoupling,layer_2,SNV,0.3840262
+SNV_layer_3_129,Nonsense-Mediated Decay (NMD),layer_3,SNV,0.37058643
+SNV_layer_2_157,Cytosolic iron-sulfur cluster assembly,layer_2,SNV,0.26271242
+SNV_layer_2_20,Signaling by ALK in cancer,layer_2,SNV,0.2526041
+SNV_layer_4_5,Extracellular matrix organization,layer_4,SNV,0.25088772
+SNV_layer_2_10,Neurotransmitter release cycle,layer_2,SNV,0.1731896
+SNV_layer_2_48,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),layer_2,SNV,0.16669
+SNV_layer_3_74,Protein repair,layer_3,SNV,0.1253109
+SNV_layer_3_10,Mitochondrial calcium ion transport,layer_3,SNV,0.120039806
+SNV_layer_3_17,Base Excision Repair,layer_3,SNV,0.09835078
+SNV_layer_3_86,Myogenesis,layer_3,SNV,0.09220128
+SNV_layer_4_27,Sensory Perception,layer_4,SNV,0.090555824
+SNV_layer_3_67,Platelet homeostasis,layer_3,SNV,0.081703864
+SNV_layer_4_24,Digestion and absorption,layer_4,SNV,0.070439994
+SNV_layer_3_99,Mitochondrial protein import,layer_3,SNV,0.059216034
+SNV_layer_3_104,Cilium Assembly,layer_3,SNV,0.057939507
+SNV_layer_4_2,Developmental Biology,layer_4,SNV,0.0074106366
+SNV_layer_4_3,Metabolism,layer_4,SNV,0.0018639409
+SNV_layer_4_1,Neuronal System,layer_4,SNV,0.0008724084
+SNV_layer_4_20,DNA Repair,layer_4,SNV,0.0008674481
+SNV_layer_4_14,Muscle contraction,layer_4,SNV,0.0008563995
+SNV_layer_4_9,Disease,layer_4,SNV,0.00075941416
+SNV_layer_4_13,Metabolism of proteins,layer_4,SNV,0.0006581745

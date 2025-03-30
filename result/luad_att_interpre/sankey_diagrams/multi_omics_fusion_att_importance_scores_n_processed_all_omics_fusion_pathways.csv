@@ -1,0 +1,301 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+AKT phosphorylates targets in the cytosol,CNV,layer_1,12.719019,Signaling by ERBB2,CNV,layer_2,12.719019
+AKT phosphorylates targets in the cytosol,CNV,layer_1,12.719019,Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,12.719019
+AKT phosphorylates targets in the cytosol,CNV,layer_1,12.719019,Mitochondrial protein import,CNV,layer_2,12.719019
+AKT phosphorylates targets in the cytosol,CNV,layer_1,12.719019,Mitotic Spindle Checkpoint,CNV,layer_2,12.719019
+AKT phosphorylates targets in the cytosol,CNV,layer_1,12.719019,G1/S DNA Damage Checkpoints,CNV,layer_2,12.719019
+Peptide chain elongation,mrna,layer_1,9.755493,trans-Golgi Network Vesicle Budding,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Mitochondrial translation,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Signaling by ERBB4,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Signaling by FGFR,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,9.755493
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Signaling by ERBB4,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Mitochondrial translation,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,trans-Golgi Network Vesicle Budding,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Signaling by FGFR,mrna,layer_2,9.268203
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Signaling by ERBB4,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,trans-Golgi Network Vesicle Budding,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Signaling by FGFR,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Mitochondrial translation,mrna,layer_2,8.956236
+Mitochondrial translation,mrna,layer_2,8.768768,Innate Immune System,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Mitochondrial RNA degradation,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Invadopodia formation,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,SLC-mediated transmembrane transport,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Elastic fibre formation,mrna,layer_3,8.768768
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Metabolism,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Cellular responses to stimuli,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Developmental Biology,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Reproduction,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Transport of small molecules,SNV,layer_4,8.552235
+G alpha (s) signalling events,mrna,layer_1,8.451381,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Signaling by ERBB4,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,trans-Golgi Network Vesicle Budding,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Mitochondrial translation,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Signaling by FGFR,mrna,layer_2,8.451381
+Signaling by Hippo,mrna,layer_1,7.7498856,Signaling by ERBB4,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Mitochondrial translation,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,trans-Golgi Network Vesicle Budding,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Signaling by FGFR,mrna,layer_2,7.7498856
+Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,7.601614,Mitotic Spindle Checkpoint,CNV,layer_2,7.601614
+Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,7.601614,G1/S DNA Damage Checkpoints,CNV,layer_2,7.601614
+Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,7.601614,Mitochondrial protein import,CNV,layer_2,7.601614
+Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,7.601614,Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,7.601614
+Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,7.601614,Signaling by ERBB2,CNV,layer_2,7.601614
+Amino acids regulate mTORC1,CNV,layer_1,7.585529,Mitochondrial protein import,CNV,layer_2,7.585529
+Amino acids regulate mTORC1,CNV,layer_1,7.585529,G1/S DNA Damage Checkpoints,CNV,layer_2,7.585529
+Amino acids regulate mTORC1,CNV,layer_1,7.585529,Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,7.585529
+Amino acids regulate mTORC1,CNV,layer_1,7.585529,Signaling by ERBB2,CNV,layer_2,7.585529
+Amino acids regulate mTORC1,CNV,layer_1,7.585529,Mitotic Spindle Checkpoint,CNV,layer_2,7.585529
+Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,7.1635475,Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,7.1635475
+Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,7.1635475,Signaling by ERBB2,CNV,layer_2,7.1635475
+Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,7.1635475,Mitochondrial protein import,CNV,layer_2,7.1635475
+Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,7.1635475,Mitotic Spindle Checkpoint,CNV,layer_2,7.1635475
+Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,7.1635475,G1/S DNA Damage Checkpoints,CNV,layer_2,7.1635475
+Mitochondrial protein import,CNV,layer_2,7.100907,Ion channel transport,CNV,layer_3,7.100907
+Mitochondrial protein import,CNV,layer_2,7.100907,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,7.100907
+Mitochondrial protein import,CNV,layer_2,7.100907,Meiosis,CNV,layer_3,7.100907
+Mitochondrial protein import,CNV,layer_2,7.100907,Chaperone Mediated Autophagy,CNV,layer_3,7.100907
+Mitochondrial protein import,CNV,layer_2,7.100907,Epigenetic regulation of gene expression,CNV,layer_3,7.100907
+ERBB2 Activates PTK6 Signaling,CNV,layer_1,7.0017896,Mitotic Spindle Checkpoint,CNV,layer_2,7.0017896
+ERBB2 Activates PTK6 Signaling,CNV,layer_1,7.0017896,Mitochondrial protein import,CNV,layer_2,7.0017896
+ERBB2 Activates PTK6 Signaling,CNV,layer_1,7.0017896,G1/S DNA Damage Checkpoints,CNV,layer_2,7.0017896
+ERBB2 Activates PTK6 Signaling,CNV,layer_1,7.0017896,Signaling by ERBB2,CNV,layer_2,7.0017896
+ERBB2 Activates PTK6 Signaling,CNV,layer_1,7.0017896,Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,7.0017896
+Signaling by FGFR,mrna,layer_2,5.3198357,Invadopodia formation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Mitochondrial RNA degradation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Elastic fibre formation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Innate Immune System,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,SLC-mediated transmembrane transport,mrna,layer_3,5.3198357
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Costimulation by the CD28 family,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Cellular response to hypoxia,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Cellular Senescence,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Protein repair,SNV,layer_2,4.7018595
+G1/S DNA Damage Checkpoints,CNV,layer_2,4.4516015,Meiosis,CNV,layer_3,4.4516015
+G1/S DNA Damage Checkpoints,CNV,layer_2,4.4516015,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,4.4516015
+G1/S DNA Damage Checkpoints,CNV,layer_2,4.4516015,Ion channel transport,CNV,layer_3,4.4516015
+G1/S DNA Damage Checkpoints,CNV,layer_2,4.4516015,Chaperone Mediated Autophagy,CNV,layer_3,4.4516015
+G1/S DNA Damage Checkpoints,CNV,layer_2,4.4516015,Epigenetic regulation of gene expression,CNV,layer_3,4.4516015
+Cellular response to hypoxia,SNV,layer_2,3.9038103,DNA Replication Pre-Initiation,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Base Excision Repair,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Cell junction organization,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Reversible hydration of carbon dioxide,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Metabolism of porphyrins,SNV,layer_3,3.9038103
+Mitotic Spindle Checkpoint,CNV,layer_2,3.7834098,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,3.7834098
+Mitotic Spindle Checkpoint,CNV,layer_2,3.7834098,Meiosis,CNV,layer_3,3.7834098
+Mitotic Spindle Checkpoint,CNV,layer_2,3.7834098,Ion channel transport,CNV,layer_3,3.7834098
+Mitotic Spindle Checkpoint,CNV,layer_2,3.7834098,Epigenetic regulation of gene expression,CNV,layer_3,3.7834098
+Mitotic Spindle Checkpoint,CNV,layer_2,3.7834098,Chaperone Mediated Autophagy,CNV,layer_3,3.7834098
+Signaling by ERBB2,CNV,layer_2,3.6448824,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,3.6448824
+Signaling by ERBB2,CNV,layer_2,3.6448824,Epigenetic regulation of gene expression,CNV,layer_3,3.6448824
+Signaling by ERBB2,CNV,layer_2,3.6448824,Chaperone Mediated Autophagy,CNV,layer_3,3.6448824
+Signaling by ERBB2,CNV,layer_2,3.6448824,Ion channel transport,CNV,layer_3,3.6448824
+Signaling by ERBB2,CNV,layer_2,3.6448824,Meiosis,CNV,layer_3,3.6448824
+Signaling by ERBB4,mrna,layer_2,3.2972925,Innate Immune System,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Invadopodia formation,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Mitochondrial RNA degradation,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,SLC-mediated transmembrane transport,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Elastic fibre formation,mrna,layer_3,3.2972925
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Mitochondrial RNA degradation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Elastic fibre formation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,SLC-mediated transmembrane transport,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Invadopodia formation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Innate Immune System,mrna,layer_3,3.23259
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Costimulation by the CD28 family,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Cellular Senescence,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Cellular response to hypoxia,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Protein repair,SNV,layer_2,3.1224267
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Protein repair,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Costimulation by the CD28 family,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Cellular Senescence,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Cellular response to hypoxia,SNV,layer_2,3.0693927
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Costimulation by the CD28 family,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Protein repair,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Cellular Senescence,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Cellular response to hypoxia,SNV,layer_2,2.8736591
+Cellular Senescence,SNV,layer_2,2.8264062,Base Excision Repair,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,DNA Replication Pre-Initiation,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Metabolism of porphyrins,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Reversible hydration of carbon dioxide,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Cell junction organization,SNV,layer_3,2.8264062
+Innate Immune System,mrna,layer_3,2.7005868,Cell-Cell communication,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Digestion and absorption,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Organelle biogenesis and maintenance,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Transport of small molecules,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Metabolism,mrna,layer_4,2.7005868
+Ion channel transport,CNV,layer_3,2.6784925,Extracellular matrix organization,CNV,layer_4,2.6784925
+Ion channel transport,CNV,layer_3,2.6784925,Gene expression (Transcription),CNV,layer_4,2.6784925
+Ion channel transport,CNV,layer_3,2.6784925,Circadian Clock,CNV,layer_4,2.6784925
+Ion channel transport,CNV,layer_3,2.6784925,Chromatin organization,CNV,layer_4,2.6784925
+Ion channel transport,CNV,layer_3,2.6784925,DNA Repair,CNV,layer_4,2.6784925
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Cellular response to hypoxia,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Cellular Senescence,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Costimulation by the CD28 family,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Protein repair,SNV,layer_2,2.6448452
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Innate Immune System,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Mitochondrial RNA degradation,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Elastic fibre formation,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,SLC-mediated transmembrane transport,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Invadopodia formation,mrna,layer_3,2.6200352
+Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,2.4762864,Chaperone Mediated Autophagy,CNV,layer_3,2.4762864
+Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,2.4762864,Ion channel transport,CNV,layer_3,2.4762864
+Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,2.4762864,Epigenetic regulation of gene expression,CNV,layer_3,2.4762864
+Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,2.4762864,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,2.4762864
+Phase 1 - inactivation of fast Na+ channels,CNV,layer_2,2.4762864,Meiosis,CNV,layer_3,2.4762864
+Base Excision Repair,SNV,layer_3,2.287638,Reproduction,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Developmental Biology,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Cellular responses to stimuli,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Metabolism,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Transport of small molecules,SNV,layer_4,2.287638
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Reproduction,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Transport of small molecules,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Developmental Biology,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Metabolism,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Cellular responses to stimuli,SNV,layer_4,2.2248077
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Cellular responses to stimuli,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Reproduction,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Metabolism,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Transport of small molecules,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Developmental Biology,SNV,layer_4,2.129928
+Cell junction organization,SNV,layer_3,1.7747111,Reproduction,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Developmental Biology,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Cellular responses to stimuli,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Transport of small molecules,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Metabolism,SNV,layer_4,1.7747111
+Protein repair,SNV,layer_2,1.7100661,Metabolism of porphyrins,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Reversible hydration of carbon dioxide,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Base Excision Repair,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,DNA Replication Pre-Initiation,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Cell junction organization,SNV,layer_3,1.7100661
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Base Excision Repair,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,DNA Replication Pre-Initiation,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Reversible hydration of carbon dioxide,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Cell junction organization,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Metabolism of porphyrins,SNV,layer_3,1.6723665
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Cell junction organization,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Reversible hydration of carbon dioxide,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Metabolism of porphyrins,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Base Excision Repair,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,DNA Replication Pre-Initiation,SNV,layer_3,1.5027369
+Meiosis,CNV,layer_3,1.4412332,Gene expression (Transcription),CNV,layer_4,1.4412332
+Meiosis,CNV,layer_3,1.4412332,Circadian Clock,CNV,layer_4,1.4412332
+Meiosis,CNV,layer_3,1.4412332,Chromatin organization,CNV,layer_4,1.4412332
+Meiosis,CNV,layer_3,1.4412332,Extracellular matrix organization,CNV,layer_4,1.4412332
+Meiosis,CNV,layer_3,1.4412332,DNA Repair,CNV,layer_4,1.4412332
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1448022,DNA Repair,CNV,layer_4,1.1448022
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1448022,Gene expression (Transcription),CNV,layer_4,1.1448022
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1448022,Circadian Clock,CNV,layer_4,1.1448022
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1448022,Extracellular matrix organization,CNV,layer_4,1.1448022
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1448022,Chromatin organization,CNV,layer_4,1.1448022
+Chaperone Mediated Autophagy,CNV,layer_3,0.96052957,Chromatin organization,CNV,layer_4,0.96052957
+Chaperone Mediated Autophagy,CNV,layer_3,0.96052957,Extracellular matrix organization,CNV,layer_4,0.96052957
+Chaperone Mediated Autophagy,CNV,layer_3,0.96052957,DNA Repair,CNV,layer_4,0.96052957
+Chaperone Mediated Autophagy,CNV,layer_3,0.96052957,Gene expression (Transcription),CNV,layer_4,0.96052957
+Chaperone Mediated Autophagy,CNV,layer_3,0.96052957,Circadian Clock,CNV,layer_4,0.96052957
+RPS4Y1,mrna,input,0.93352044,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Signaling by Hippo,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,G alpha (s) signalling events,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Peptide chain elongation,mrna,layer_1,0.93352044
+GSTM1,mrna,input,0.9177601,Peptide chain elongation,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,G alpha (s) signalling events,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Signaling by Hippo,mrna,layer_1,0.9177601
+Elastic fibre formation,mrna,layer_3,0.91622835,Transport of small molecules,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Metabolism,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Organelle biogenesis and maintenance,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Digestion and absorption,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Cell-Cell communication,mrna,layer_4,0.91622835
+TP53,SNV,input,0.9093888,Mitochondrial translation elongation,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Agmatine biosynthesis,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Dissolution of Fibrin Clot,SNV,layer_1,0.9093888
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Organelle biogenesis and maintenance,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Cell-Cell communication,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Transport of small molecules,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Metabolism,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Digestion and absorption,mrna,layer_4,0.9091531
+TTN,SNV,input,0.9017182,Agmatine biosynthesis,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Mitochondrial translation elongation,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Dissolution of Fibrin Clot,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.9017182
+CLDN10,mrna,input,0.88517916,G alpha (s) signalling events,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Peptide chain elongation,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Signaling by Hippo,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.88517916
+MUC16,SNV,input,0.87839246,Agmatine biosynthesis,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Mitochondrial translation elongation,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Dissolution of Fibrin Clot,SNV,layer_1,0.87839246
+KDM5D,mrna,input,0.87311095,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Peptide chain elongation,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,G alpha (s) signalling events,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Signaling by Hippo,mrna,layer_1,0.87311095
+UTY,mrna,input,0.87271327,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Peptide chain elongation,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,G alpha (s) signalling events,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Signaling by Hippo,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.87271327
+RYR2,SNV,input,0.8547991,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Agmatine biosynthesis,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Mitochondrial translation elongation,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Dissolution of Fibrin Clot,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.8547991
+Invadopodia formation,mrna,layer_3,0.8486458,Transport of small molecules,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Metabolism,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Digestion and absorption,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Organelle biogenesis and maintenance,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Cell-Cell communication,mrna,layer_4,0.8486458
+Epigenetic regulation of gene expression,CNV,layer_3,0.8271499,Gene expression (Transcription),CNV,layer_4,0.8271499
+Epigenetic regulation of gene expression,CNV,layer_3,0.8271499,Chromatin organization,CNV,layer_4,0.8271499
+Epigenetic regulation of gene expression,CNV,layer_3,0.8271499,Extracellular matrix organization,CNV,layer_4,0.8271499
+Epigenetic regulation of gene expression,CNV,layer_3,0.8271499,DNA Repair,CNV,layer_4,0.8271499
+Epigenetic regulation of gene expression,CNV,layer_3,0.8271499,Circadian Clock,CNV,layer_4,0.8271499
+CLEC4G,CNV,input,0.7992292,Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,0.7992292
+CLEC4G,CNV,input,0.7992292,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.7992292
+CLEC4G,CNV,input,0.7992292,Amino acids regulate mTORC1,CNV,layer_1,0.7992292
+CLEC4G,CNV,input,0.7992292,Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,0.7992292
+CLEC4G,CNV,input,0.7992292,ERBB2 Activates PTK6 Signaling,CNV,layer_1,0.7992292
+STXBP2,CNV,input,0.7983854,Amino acids regulate mTORC1,CNV,layer_1,0.7983854
+MCEMP1,CNV,input,0.7983854,Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,0.7983854
+STXBP2,CNV,input,0.7983854,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.7983854
+PCP2,CNV,input,0.7983854,Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,0.7983854
+PET100,CNV,input,0.7983854,Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,0.7983854
+PCP2,CNV,input,0.7983854,Amino acids regulate mTORC1,CNV,layer_1,0.7983854
+PCP2,CNV,input,0.7983854,Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,0.7983854
+PET100,CNV,input,0.7983854,Amino acids regulate mTORC1,CNV,layer_1,0.7983854
+PET100,CNV,input,0.7983854,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.7983854
+PET100,CNV,input,0.7983854,Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,0.7983854
+PET100,CNV,input,0.7983854,ERBB2 Activates PTK6 Signaling,CNV,layer_1,0.7983854
+PCP2,CNV,input,0.7983854,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.7983854
+PCP2,CNV,input,0.7983854,ERBB2 Activates PTK6 Signaling,CNV,layer_1,0.7983854
+MCEMP1,CNV,input,0.7983854,ERBB2 Activates PTK6 Signaling,CNV,layer_1,0.7983854
+STXBP2,CNV,input,0.7983854,Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,0.7983854
+MCEMP1,CNV,input,0.7983854,Amino acids regulate mTORC1,CNV,layer_1,0.7983854
+STXBP2,CNV,input,0.7983854,ERBB2 Activates PTK6 Signaling,CNV,layer_1,0.7983854
+STXBP2,CNV,input,0.7983854,Acetylcholine inhibits contraction of outer hair cells,CNV,layer_1,0.7983854
+MCEMP1,CNV,input,0.7983854,Retrograde transport at the Trans-Golgi-Network,CNV,layer_1,0.7983854
+MCEMP1,CNV,input,0.7983854,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.7983854
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Cell-Cell communication,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Digestion and absorption,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Organelle biogenesis and maintenance,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Metabolism,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Transport of small molecules,mrna,layer_4,0.79652244
+SPTA1,SNV,input,0.77065295,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Agmatine biosynthesis,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Mitochondrial translation elongation,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Dissolution of Fibrin Clot,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.77065295

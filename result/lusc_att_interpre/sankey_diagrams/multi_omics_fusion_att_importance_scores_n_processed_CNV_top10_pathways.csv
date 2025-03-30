@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+SDK interactions,CNV,layer_1,6.277917,Signaling by VEGF,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,The retinoid cycle in cones (daylight vision),CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,Azathioprine ADME,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,Beta-catenin independent WNT signaling,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,Presynaptic depolarization and calcium channel opening,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,G2/M Checkpoints,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,6.277917
+SDK interactions,CNV,layer_1,6.277917,Signaling by PDGF,CNV,layer_2,6.277917
+Signaling by PDGF,CNV,layer_2,2.1119068,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Macroautophagy,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Signaling by GPCR,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Synthesis of DNA,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Nucleotide Excision Repair,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Invadopodia formation,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,DNA Damage Reversal,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Response to metal ions,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Peroxisomal protein import,CNV,layer_3,2.1119068
+Signaling by PDGF,CNV,layer_2,2.1119068,Azathioprine ADME,CNV,layer_3,2.1119068
+Protein repair,CNV,layer_1,1.6238905,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Signaling by PDGF,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Azathioprine ADME,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Beta-catenin independent WNT signaling,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,The retinoid cycle in cones (daylight vision),CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Signaling by VEGF,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,Presynaptic depolarization and calcium channel opening,CNV,layer_2,1.6238905
+Protein repair,CNV,layer_1,1.6238905,G2/M Checkpoints,CNV,layer_2,1.6238905
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Presynaptic depolarization and calcium channel opening,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,G2/M Checkpoints,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Signaling by PDGF,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Beta-catenin independent WNT signaling,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Azathioprine ADME,CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,The retinoid cycle in cones (daylight vision),CNV,layer_2,1.0622523
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,1.0622523,Signaling by VEGF,CNV,layer_2,1.0622523
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Signaling by PDGF,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,The retinoid cycle in cones (daylight vision),CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Signaling by VEGF,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,G2/M Checkpoints,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Presynaptic depolarization and calcium channel opening,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Beta-catenin independent WNT signaling,CNV,layer_2,1.0443113
+Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,1.0443113,Azathioprine ADME,CNV,layer_2,1.0443113
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Circadian Clock,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Immune System,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Cellular responses to stimuli,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Drug ADME,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,DNA Repair,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Transport of small molecules,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Sensory Perception,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Cell Cycle,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Hemostasis,CNV,layer_4,0.88054943
+Nucleotide Excision Repair,CNV,layer_3,0.88054943,Digestion and absorption,CNV,layer_4,0.88054943
+RAPGEF2,CNV,input,0.8308964,SARS-CoV Infections,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,Retinoid metabolism and transport,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,SDK interactions,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,Protein repair,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,HIV Infection,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,Formation of the posterior neural plate,CNV,layer_1,0.8308964
+RAPGEF2,CNV,input,0.8308964,G2/M Transition,CNV,layer_1,0.8308964
+MTNR1A,CNV,input,0.81487536,G2/M Transition,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,Retinoid metabolism and transport,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,SARS-CoV Infections,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,SDK interactions,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,HIV Infection,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,Protein repair,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.81487536
+MTNR1A,CNV,input,0.81487536,Formation of the posterior neural plate,CNV,layer_1,0.81487536
+GUCY1A3,CNV,input,0.81426525,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,Protein repair,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,G2/M Transition,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,SDK interactions,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,HIV Infection,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,SARS-CoV Infections,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,Formation of the posterior neural plate,CNV,layer_1,0.81426525
+GUCY1A3,CNV,input,0.81426525,Retinoid metabolism and transport,CNV,layer_1,0.81426525
+NOCT,CNV,input,0.8124129,Formation of the posterior neural plate,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,Retinoid metabolism and transport,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,G2/M Transition,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,SDK interactions,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,Protein repair,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,SARS-CoV Infections,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8124129
+NOCT,CNV,input,0.8124129,HIV Infection,CNV,layer_1,0.8124129
+TDO2,CNV,input,0.8101576,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,Retinoid metabolism and transport,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,G2/M Transition,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,SARS-CoV Infections,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,G2/M Transition,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,Formation of the posterior neural plate,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,HIV Infection,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,Formation of the posterior neural plate,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,HIV Infection,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,Retinoid metabolism and transport,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,SARS-CoV Infections,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,SDK interactions,CNV,layer_1,0.8101576
+CTSO,CNV,input,0.8101576,Protein repair,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,SDK interactions,CNV,layer_1,0.8101576
+TDO2,CNV,input,0.8101576,Protein repair,CNV,layer_1,0.8101576
+GUCY1B3,CNV,input,0.80951047,Formation of the posterior neural plate,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,SDK interactions,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,Protein repair,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,G2/M Transition,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,SARS-CoV Infections,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,Retinoid metabolism and transport,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.80951047
+GUCY1B3,CNV,input,0.80951047,HIV Infection,CNV,layer_1,0.80951047
+FGB,CNV,input,0.80914265,SDK interactions,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,Protein repair,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,Formation of the posterior neural plate,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,G2/M Transition,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,SARS-CoV Infections,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,Retinoid metabolism and transport,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.80914265
+FGB,CNV,input,0.80914265,HIV Infection,CNV,layer_1,0.80914265
+FGG,CNV,input,0.8089133,SARS-CoV Infections,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,Retinoid metabolism and transport,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,HIV Infection,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,G2/M Transition,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,Formation of the posterior neural plate,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,SDK interactions,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,Protein repair,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.8089133
+FGG,CNV,input,0.8089133,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.8089133
+FGA,CNV,input,0.80887514,G2/M Transition,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,Formation of the posterior neural plate,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,Formation of WDR5-containing histone-modifying complexes,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,Retinoid metabolism and transport,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,SARS-CoV Infections,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,SDK interactions,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,Protein repair,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,HIV Infection,CNV,layer_1,0.80887514
+FGA,CNV,input,0.80887514,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.80887514
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,DNA Damage Reversal,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Response to metal ions,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Azathioprine ADME,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Peroxisomal protein import,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Macroautophagy,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Synthesis of DNA,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Signaling by GPCR,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Nucleotide Excision Repair,CNV,layer_3,0.7762631
+HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.7762631,Invadopodia formation,CNV,layer_3,0.7762631
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Synthesis of DNA,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Signaling by GPCR,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Azathioprine ADME,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Peroxisomal protein import,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Response to metal ions,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,DNA Damage Reversal,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Invadopodia formation,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Nucleotide Excision Repair,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.7293185
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7293185,Macroautophagy,CNV,layer_3,0.7293185
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Azathioprine ADME,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Beta-catenin independent WNT signaling,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Signaling by VEGF,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,G2/M Checkpoints,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Signaling by PDGF,CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.65085256
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.65085256,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.65085256
+HIV Infection,CNV,layer_1,0.62277627,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,G2/M Checkpoints,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Azathioprine ADME,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Beta-catenin independent WNT signaling,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Signaling by PDGF,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Signaling by VEGF,CNV,layer_2,0.62277627
+HIV Infection,CNV,layer_1,0.62277627,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.62277627
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Signaling by VEGF,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Signaling by PDGF,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,G2/M Checkpoints,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Beta-catenin independent WNT signaling,CNV,layer_2,0.59517443
+Formation of the posterior neural plate,CNV,layer_1,0.59517443,Azathioprine ADME,CNV,layer_2,0.59517443
+G2/M Transition,CNV,layer_1,0.5294259,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,G2/M Checkpoints,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,Beta-catenin independent WNT signaling,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,Azathioprine ADME,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,Signaling by VEGF,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,Signaling by PDGF,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.5294259
+G2/M Transition,CNV,layer_1,0.5294259,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.5294259
+SARS-CoV Infections,CNV,layer_1,0.5039303,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Signaling by VEGF,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Signaling by PDGF,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Azathioprine ADME,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Beta-catenin independent WNT signaling,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,G2/M Checkpoints,CNV,layer_2,0.5039303
+SARS-CoV Infections,CNV,layer_1,0.5039303,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.5039303
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,HuR (ELAVL1) binds and stabilizes mRNA,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Signaling by PDGF,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Azathioprine ADME,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Beta-catenin independent WNT signaling,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,G2/M Checkpoints,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,Signaling by VEGF,CNV,layer_2,0.4936379
+Retinoid metabolism and transport,CNV,layer_1,0.4936379,The retinoid cycle in cones (daylight vision),CNV,layer_2,0.4936379
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Signaling by GPCR,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Synthesis of DNA,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Macroautophagy,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Peroxisomal protein import,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Azathioprine ADME,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Nucleotide Excision Repair,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Invadopodia formation,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,DNA Damage Reversal,CNV,layer_3,0.48245603
+Fcgamma receptor (FCGR) dependent phagocytosis,CNV,layer_2,0.48245603,Response to metal ions,CNV,layer_3,0.48245603
+Invadopodia formation,CNV,layer_3,0.43503958,Circadian Clock,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Immune System,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Sensory Perception,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Cell Cycle,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Digestion and absorption,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Hemostasis,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,DNA Repair,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Transport of small molecules,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Drug ADME,CNV,layer_4,0.43503958
+Invadopodia formation,CNV,layer_3,0.43503958,Cellular responses to stimuli,CNV,layer_4,0.43503958
+Signaling by VEGF,CNV,layer_2,0.4204194,DNA Damage Reversal,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Response to metal ions,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Peroxisomal protein import,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Azathioprine ADME,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Macroautophagy,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Nucleotide Excision Repair,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Invadopodia formation,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Synthesis of DNA,CNV,layer_3,0.4204194
+Signaling by VEGF,CNV,layer_2,0.4204194,Signaling by GPCR,CNV,layer_3,0.4204194
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Nucleotide Excision Repair,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Invadopodia formation,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Peroxisomal protein import,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Azathioprine ADME,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,DNA Damage Reversal,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Response to metal ions,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Signaling by GPCR,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Synthesis of DNA,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.2735673
+The retinoid cycle in cones (daylight vision),CNV,layer_2,0.2735673,Macroautophagy,CNV,layer_3,0.2735673
+Azathioprine ADME,CNV,layer_2,0.26850277,DNA Damage Reversal,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Response to metal ions,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Nucleotide Excision Repair,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Invadopodia formation,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Azathioprine ADME,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Peroxisomal protein import,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Macroautophagy,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Signaling by GPCR,CNV,layer_3,0.26850277
+Azathioprine ADME,CNV,layer_2,0.26850277,Synthesis of DNA,CNV,layer_3,0.26850277
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Nucleotide Excision Repair,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Invadopodia formation,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Response to metal ions,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,DNA Damage Reversal,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Peroxisomal protein import,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Azathioprine ADME,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Macroautophagy,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Signaling by GPCR,CNV,layer_3,0.25400996
+Beta-catenin independent WNT signaling,CNV,layer_2,0.25400996,Synthesis of DNA,CNV,layer_3,0.25400996
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Nucleotide Excision Repair,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Invadopodia formation,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,DNA Damage Reversal,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Response to metal ions,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Peroxisomal protein import,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Azathioprine ADME,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Signaling by GPCR,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Synthesis of DNA,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.2289974
+Presynaptic depolarization and calcium channel opening,CNV,layer_2,0.2289974,Macroautophagy,CNV,layer_3,0.2289974
+G2/M Checkpoints,CNV,layer_2,0.22524852,Synthesis of DNA,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Signaling by GPCR,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Nucleotide Excision Repair,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Invadopodia formation,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Macroautophagy,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Azathioprine ADME,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Peroxisomal protein import,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,Response to metal ions,CNV,layer_3,0.22524852
+G2/M Checkpoints,CNV,layer_2,0.22524852,DNA Damage Reversal,CNV,layer_3,0.22524852
+DNA Damage Reversal,CNV,layer_3,0.18159088,Sensory Perception,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Cell Cycle,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Hemostasis,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Digestion and absorption,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Drug ADME,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Cellular responses to stimuli,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Circadian Clock,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Immune System,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,DNA Repair,CNV,layer_4,0.18159088
+DNA Damage Reversal,CNV,layer_3,0.18159088,Transport of small molecules,CNV,layer_4,0.18159088
+Response to metal ions,CNV,layer_3,0.17088261,Hemostasis,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Digestion and absorption,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Sensory Perception,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Cell Cycle,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,DNA Repair,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Transport of small molecules,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Cellular responses to stimuli,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Drug ADME,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Circadian Clock,CNV,layer_4,0.17088261
+Response to metal ions,CNV,layer_3,0.17088261,Immune System,CNV,layer_4,0.17088261
+Peroxisomal protein import,CNV,layer_3,0.167366,Digestion and absorption,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Hemostasis,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Cell Cycle,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Sensory Perception,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Immune System,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Circadian Clock,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Transport of small molecules,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,DNA Repair,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Drug ADME,CNV,layer_4,0.167366
+Peroxisomal protein import,CNV,layer_3,0.167366,Cellular responses to stimuli,CNV,layer_4,0.167366
+Azathioprine ADME,CNV,layer_3,0.11746551,Digestion and absorption,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Hemostasis,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,DNA Repair,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Transport of small molecules,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Cellular responses to stimuli,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Drug ADME,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Circadian Clock,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Immune System,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Sensory Perception,CNV,layer_4,0.11746551
+Azathioprine ADME,CNV,layer_3,0.11746551,Cell Cycle,CNV,layer_4,0.11746551
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,DNA Repair,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Transport of small molecules,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Cellular responses to stimuli,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Drug ADME,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Circadian Clock,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Immune System,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Cell Cycle,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Sensory Perception,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Hemostasis,CNV,layer_4,0.11308778
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,CNV,layer_3,0.11308778,Digestion and absorption,CNV,layer_4,0.11308778
+Macroautophagy,CNV,layer_3,0.107894935,Drug ADME,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Cellular responses to stimuli,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Cell Cycle,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Sensory Perception,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Immune System,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Circadian Clock,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Hemostasis,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Digestion and absorption,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,Transport of small molecules,CNV,layer_4,0.107894935
+Macroautophagy,CNV,layer_3,0.107894935,DNA Repair,CNV,layer_4,0.107894935
+Signaling by GPCR,CNV,layer_3,0.10699398,Transport of small molecules,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,DNA Repair,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Hemostasis,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Digestion and absorption,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Drug ADME,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Cellular responses to stimuli,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Circadian Clock,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Immune System,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Sensory Perception,CNV,layer_4,0.10699398
+Signaling by GPCR,CNV,layer_3,0.10699398,Cell Cycle,CNV,layer_4,0.10699398
+Synthesis of DNA,CNV,layer_3,0.09306366,Digestion and absorption,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Hemostasis,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Transport of small molecules,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,DNA Repair,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Drug ADME,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Cellular responses to stimuli,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Circadian Clock,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Immune System,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Sensory Perception,CNV,layer_4,0.09306366
+Synthesis of DNA,CNV,layer_3,0.09306366,Cell Cycle,CNV,layer_4,0.09306366

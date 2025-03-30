@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,eNOS activation,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Serine biosynthesis,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,NOSTRIN mediated eNOS trafficking,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Neurotransmitter release cycle,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Neurotransmitter clearance,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Chaperonin-mediated protein folding,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Signaling by FGFR in disease,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,5.447405
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Digestion and absorption,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Chromatin organization,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Transport of small molecules,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Cell Cycle,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Metabolism,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Circadian Clock,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Developmental Biology,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Extracellular matrix organization,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Programmed Cell Death,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Protein localization,CNV,layer_4,5.332334
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Miscellaneous transport and binding events,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Signaling by Leptin,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,SLC-mediated transmembrane transport,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Invadopodia formation,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Degradation of the extracellular matrix,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Fibronectin matrix formation,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Nervous system development,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,LGI-ADAM interactions,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Ion channel transport,CNV,layer_3,4.982194
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Developmental Biology,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Extracellular matrix organization,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Programmed Cell Death,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Protein localization,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Cell Cycle,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Transport of small molecules,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Circadian Clock,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Metabolism,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Chromatin organization,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Digestion and absorption,CNV,layer_4,2.1182709
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,NOSTRIN mediated eNOS trafficking,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Serine biosynthesis,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,eNOS activation,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Signaling by FGFR in disease,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Neurotransmitter clearance,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Chaperonin-mediated protein folding,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Neurotransmitter release cycle,CNV,layer_2,2.0938783
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,SLC-mediated transmembrane transport,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Invadopodia formation,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Miscellaneous transport and binding events,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Signaling by Leptin,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Ion channel transport,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,LGI-ADAM interactions,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Nervous system development,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Degradation of the extracellular matrix,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Fibronectin matrix formation,CNV,layer_3,1.9645789
+eNOS activation,CNV,layer_2,1.8626292,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Nervous system development,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Ion channel transport,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,LGI-ADAM interactions,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Degradation of the extracellular matrix,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Fibronectin matrix formation,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,SLC-mediated transmembrane transport,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Invadopodia formation,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Signaling by Leptin,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Miscellaneous transport and binding events,CNV,layer_3,1.8626292
+Serine biosynthesis,CNV,layer_2,1.5816581,Signaling by Leptin,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Miscellaneous transport and binding events,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Degradation of the extracellular matrix,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Fibronectin matrix formation,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,LGI-ADAM interactions,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Ion channel transport,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,SLC-mediated transmembrane transport,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Invadopodia formation,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Nervous system development,CNV,layer_3,1.5816581
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Signaling by FGFR in disease,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Neurotransmitter release cycle,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,eNOS activation,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Serine biosynthesis,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Neurotransmitter clearance,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Chaperonin-mediated protein folding,CNV,layer_2,1.5675408
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Chaperonin-mediated protein folding,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Neurotransmitter clearance,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Signaling by FGFR in disease,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,eNOS activation,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Serine biosynthesis,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Neurotransmitter release cycle,CNV,layer_2,1.3414931
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Fibronectin matrix formation,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Degradation of the extracellular matrix,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,LGI-ADAM interactions,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Ion channel transport,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Nervous system development,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Invadopodia formation,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,SLC-mediated transmembrane transport,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Signaling by Leptin,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Miscellaneous transport and binding events,CNV,layer_3,1.3137981
+Histidine catabolism,CNV,layer_1,1.2390094,eNOS activation,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Serine biosynthesis,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Neurotransmitter release cycle,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Signaling by FGFR in disease,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Chaperonin-mediated protein folding,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Neurotransmitter clearance,CNV,layer_2,1.2390094
+Regulation of Complement cascade,CNV,layer_1,1.1188638,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Signaling by FGFR in disease,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Neurotransmitter clearance,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Chaperonin-mediated protein folding,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Neurotransmitter release cycle,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,Serine biosynthesis,CNV,layer_2,1.1188638
+Regulation of Complement cascade,CNV,layer_1,1.1188638,eNOS activation,CNV,layer_2,1.1188638
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Chaperonin-mediated protein folding,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Neurotransmitter clearance,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,eNOS activation,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Serine biosynthesis,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Signaling by FGFR in disease,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Neurotransmitter release cycle,CNV,layer_2,1.1118166
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,1.1118166,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.1118166
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Neurotransmitter release cycle,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Signaling by FGFR in disease,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,eNOS activation,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Serine biosynthesis,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Chaperonin-mediated protein folding,CNV,layer_2,1.1052105
+Inhibition of DNA recombination at telomere,CNV,layer_1,1.1052105,Neurotransmitter clearance,CNV,layer_2,1.1052105
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Neurotransmitter release cycle,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Signaling by FGFR in disease,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Chaperonin-mediated protein folding,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Neurotransmitter clearance,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,eNOS activation,CNV,layer_2,1.0849036
+Interleukin-7 signaling,CNV,layer_1,1.0849036,Serine biosynthesis,CNV,layer_2,1.0849036
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Neurotransmitter clearance,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Chaperonin-mediated protein folding,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Signaling by FGFR in disease,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,eNOS activation,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Serine biosynthesis,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,Neurotransmitter release cycle,CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.0672839
+Signaling by ROBO receptors,CNV,layer_1,1.0672839,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.0672839
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Extracellular matrix organization,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Developmental Biology,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Circadian Clock,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Metabolism,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Chromatin organization,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Digestion and absorption,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Cell Cycle,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Transport of small molecules,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Protein localization,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Programmed Cell Death,CNV,layer_4,0.8932734
+Signaling by Leptin,CNV,layer_3,0.89106035,Chromatin organization,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Digestion and absorption,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Developmental Biology,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Extracellular matrix organization,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Circadian Clock,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Metabolism,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Programmed Cell Death,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Protein localization,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Transport of small molecules,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Cell Cycle,CNV,layer_4,0.89106035
+FASLG,CNV,input,0.79586786,Amino acids regulate mTORC1,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Interleukin-7 signaling,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Signaling by ROBO receptors,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,ABC transporters in lipid homeostasis,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Histidine catabolism,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Regulation of Complement cascade,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79586786
+RGSL1,CNV,input,0.79434747,Signaling by ROBO receptors,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Amino acids regulate mTORC1,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Regulation of Complement cascade,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Histidine catabolism,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,ABC transporters in lipid homeostasis,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Interleukin-7 signaling,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79434747
+DHX9,CNV,input,0.79429585,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Histidine catabolism,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Interleukin-7 signaling,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Regulation of Complement cascade,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Interleukin-7 signaling,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Signaling by ROBO receptors,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Amino acids regulate mTORC1,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,ABC transporters in lipid homeostasis,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Signaling by ROBO receptors,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,ABC transporters in lipid homeostasis,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Regulation of Complement cascade,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Histidine catabolism,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Amino acids regulate mTORC1,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79429585
+TSEN15,CNV,input,0.7941866,Interleukin-7 signaling,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Signaling by ROBO receptors,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Inhibition of DNA recombination at telomere,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Histidine catabolism,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Regulation of Complement cascade,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,ABC transporters in lipid homeostasis,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Amino acids regulate mTORC1,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Apoptosis induced DNA fragmentation,CNV,layer_1,0.7941866
+RGS16,CNV,input,0.79392916,Interleukin-7 signaling,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Signaling by ROBO receptors,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Amino acids regulate mTORC1,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,ABC transporters in lipid homeostasis,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Histidine catabolism,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Regulation of Complement cascade,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Interleukin-7 signaling,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Signaling by ROBO receptors,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,ABC transporters in lipid homeostasis,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Histidine catabolism,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Regulation of Complement cascade,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Amino acids regulate mTORC1,CNV,layer_1,0.79392916
+RGS16,CNV,input,0.79392916,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Interleukin-7 signaling,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Signaling by ROBO receptors,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Amino acids regulate mTORC1,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79392916
+RGS8,CNV,input,0.79392916,ABC transporters in lipid homeostasis,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Histidine catabolism,CNV,layer_1,0.79392916
+RNASEL,CNV,input,0.79392916,Regulation of Complement cascade,CNV,layer_1,0.79392916
+TNR,CNV,input,0.7935528,Interleukin-7 signaling,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Signaling by ROBO receptors,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,ABC transporters in lipid homeostasis,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Apoptosis induced DNA fragmentation,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Amino acids regulate mTORC1,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Inhibition of DNA recombination at telomere,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Histidine catabolism,CNV,layer_1,0.7935528
+TNR,CNV,input,0.7935528,Regulation of Complement cascade,CNV,layer_1,0.7935528
+NPHS2,CNV,input,0.79342055,Amino acids regulate mTORC1,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Interleukin-7 signaling,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Signaling by ROBO receptors,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,ABC transporters in lipid homeostasis,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Histidine catabolism,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Regulation of Complement cascade,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,CNV,layer_1,0.79342055
+NPHS2,CNV,input,0.79342055,Inhibition of DNA recombination at telomere,CNV,layer_1,0.79342055
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,SLC-mediated transmembrane transport,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Invadopodia formation,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Signaling by Leptin,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Miscellaneous transport and binding events,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Ion channel transport,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,LGI-ADAM interactions,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Nervous system development,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Fibronectin matrix formation,CNV,layer_3,0.7881334
+Neurotransmitter release cycle,CNV,layer_2,0.7881334,Degradation of the extracellular matrix,CNV,layer_3,0.7881334
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Fibronectin matrix formation,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Degradation of the extracellular matrix,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Signaling by Leptin,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Miscellaneous transport and binding events,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,SLC-mediated transmembrane transport,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Invadopodia formation,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Nervous system development,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,Ion channel transport,CNV,layer_3,0.78053606
+Chaperonin-mediated protein folding,CNV,layer_2,0.78053606,LGI-ADAM interactions,CNV,layer_3,0.78053606
+Invadopodia formation,CNV,layer_3,0.73855776,Cell Cycle,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Transport of small molecules,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Metabolism,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Circadian Clock,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Digestion and absorption,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Chromatin organization,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Developmental Biology,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Extracellular matrix organization,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Programmed Cell Death,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Protein localization,CNV,layer_4,0.73855776
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Extracellular matrix organization,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Developmental Biology,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Chromatin organization,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Digestion and absorption,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Protein localization,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Programmed Cell Death,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Cell Cycle,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Transport of small molecules,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Metabolism,CNV,layer_4,0.7366486
+SLC-mediated transmembrane transport,CNV,layer_3,0.7366486,Circadian Clock,CNV,layer_4,0.7366486
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Signaling by Leptin,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Miscellaneous transport and binding events,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Degradation of the extracellular matrix,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Fibronectin matrix formation,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Ion channel transport,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,LGI-ADAM interactions,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Nervous system development,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,SLC-mediated transmembrane transport,CNV,layer_3,0.73539627
+Neurotransmitter clearance,CNV,layer_2,0.73539627,Invadopodia formation,CNV,layer_3,0.73539627
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Degradation of the extracellular matrix,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Fibronectin matrix formation,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Ion channel transport,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,LGI-ADAM interactions,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Miscellaneous transport and binding events,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Signaling by Leptin,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,SLC-mediated transmembrane transport,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Invadopodia formation,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,Nervous system development,CNV,layer_3,0.6735827
+Neurotransmitter uptake and metabolism In glial cells,CNV,layer_2,0.6735827,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.6735827
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Protein localization,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Programmed Cell Death,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Extracellular matrix organization,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Developmental Biology,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Metabolism,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Circadian Clock,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Digestion and absorption,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Chromatin organization,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Transport of small molecules,CNV,layer_4,0.67186874
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.67186874,Cell Cycle,CNV,layer_4,0.67186874
+Nervous system development,CNV,layer_3,0.6372815,Digestion and absorption,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Chromatin organization,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Extracellular matrix organization,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Developmental Biology,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Metabolism,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Circadian Clock,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Transport of small molecules,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Cell Cycle,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Protein localization,CNV,layer_4,0.6372815
+Nervous system development,CNV,layer_3,0.6372815,Programmed Cell Death,CNV,layer_4,0.6372815
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,LGI-ADAM interactions,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Ion channel transport,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Invadopodia formation,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,SLC-mediated transmembrane transport,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Nervous system development,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Degradation of the extracellular matrix,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Fibronectin matrix formation,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Miscellaneous transport and binding events,CNV,layer_3,0.6174855
+Signaling by FGFR in disease,CNV,layer_2,0.6174855,Signaling by Leptin,CNV,layer_3,0.6174855
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Circadian Clock,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Metabolism,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Digestion and absorption,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Chromatin organization,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Programmed Cell Death,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Protein localization,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Transport of small molecules,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Cell Cycle,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Developmental Biology,CNV,layer_4,0.29952922
+LGI-ADAM interactions,CNV,layer_3,0.29952922,Extracellular matrix organization,CNV,layer_4,0.29952922
+Ion channel transport,CNV,layer_3,0.22776748,Circadian Clock,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Metabolism,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Digestion and absorption,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Chromatin organization,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Programmed Cell Death,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Protein localization,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Cell Cycle,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Transport of small molecules,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Extracellular matrix organization,CNV,layer_4,0.22776748
+Ion channel transport,CNV,layer_3,0.22776748,Developmental Biology,CNV,layer_4,0.22776748

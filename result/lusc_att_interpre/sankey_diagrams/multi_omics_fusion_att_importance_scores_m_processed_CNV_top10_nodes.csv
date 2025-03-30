@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+CNV_layer_2_176,Diseases of Mismatch Repair (MMR),layer_2,CNV,14.7090025
+CNV_layer_1_304,Interleukin-12 family signaling,layer_1,CNV,10.269516
+CNV_layer_2_258,Transcriptional activation of mitochondrial biogenesis,layer_2,CNV,7.5940056
+CNV_layer_1_447,Defective ABCG8 causes GBD4 and sitosterolemia,layer_1,CNV,6.911196
+CNV_layer_3_101,Surfactant metabolism,layer_3,CNV,6.5695753
+CNV_layer_1_303,Interleukin-1 family signaling,layer_1,CNV,5.4609404
+CNV_layer_1_186,Melanin biosynthesis,layer_1,CNV,4.6602955
+CNV_layer_1_228,AKT phosphorylates targets in the nucleus,layer_1,CNV,4.3144255
+CNV_layer_2_118,Parasitic Infection Pathways,layer_2,CNV,4.1392837
+CNV_layer_3_103,Translation,layer_3,CNV,4.039007
+CNV_layer_1_203,VxPx cargo-targeting to cilium,layer_1,CNV,3.8837616
+CNV_layer_2_129,rRNA processing in the nucleus and cytosol,layer_2,CNV,3.5616117
+CNV_layer_1_212,HDL assembly,layer_1,CNV,3.5586855
+CNV_layer_1_210,VLDL assembly,layer_1,CNV,3.2726884
+CNV_layer_2_104,Proteasome assembly,layer_2,CNV,3.068947
+CNV_layer_1_436,Choline catabolism,layer_1,CNV,3.0550714
+CNV_layer_1_99,Interaction With Cumulus Cells And The Zona Pellucida,layer_1,CNV,2.947218
+CNV_layer_2_253,GPCR ligand binding,layer_2,CNV,2.7510967
+CNV_layer_3_48,SLC-mediated transmembrane transport,layer_3,CNV,2.7141123
+CNV_layer_2_59,mRNA Editing: A to I Conversion,layer_2,CNV,2.707764
+CNV_layer_2_261,Extrinsic Pathway of Fibrin Clot Formation,layer_2,CNV,2.4886887
+CNV_layer_3_23,Membrane Trafficking,layer_3,CNV,2.4171095
+CNV_layer_2_263,Common Pathway of Fibrin Clot Formation,layer_2,CNV,2.3902984
+CNV_layer_3_69,Epigenetic regulation of gene expression,layer_3,CNV,2.3554091
+CNV_layer_3_97,Peptide hormone metabolism,layer_3,CNV,2.3086338
+CNV_layer_2_171,Peptide hormone biosynthesis,layer_2,CNV,2.266661
+CNV_layer_4_13,Metabolism of proteins,layer_4,CNV,1.9549296
+CNV_layer_4_4,Reproduction,layer_4,CNV,1.815823
+CNV_input_790,BET1,input,CNV,1.475605
+CNV_input_3131,GNG11,input,CNV,1.4744023
+CNV_input_8879,TRDN,input,CNV,1.4449825
+CNV_input_3140,GNGT1,input,CNV,1.4162985
+CNV_input_7102,RBP3,input,CNV,1.3097768
+CNV_input_2994,GDF2,input,CNV,1.3097768
+CNV_input_1551,COL1A2,input,CNV,1.2988652
+CNV_input_2815,FPGS,input,CNV,1.2596264
+CNV_input_1243,CDK9,input,CNV,1.2596264
+CNV_input_5593,NUP93,input,CNV,1.2565496
+CNV_layer_3_52,Intracellular oxygen transport,layer_3,CNV,0.9680952
+CNV_layer_3_42,Metabolism of lipids,layer_3,CNV,0.95921826
+CNV_layer_3_94,Striated Muscle Contraction,layer_3,CNV,0.70985967
+CNV_layer_3_60,Cell Cycle Checkpoints,layer_3,CNV,0.5833047
+CNV_layer_4_7,Signal Transduction,layer_4,CNV,0.5570571
+CNV_layer_4_10,Immune System,layer_4,CNV,0.53944653
+CNV_layer_4_25,Protein localization,layer_4,CNV,0.29974288
+CNV_layer_4_17,Programmed Cell Death,layer_4,CNV,0.22509481
+CNV_layer_4_18,Vesicle-mediated transport,layer_4,CNV,0.09996519
+CNV_layer_4_20,DNA Repair,layer_4,CNV,0.052150175
+CNV_layer_4_0,Hemostasis,layer_4,CNV,0.035235286
+CNV_layer_4_21,Gene expression (Transcription),layer_4,CNV,0.013659774

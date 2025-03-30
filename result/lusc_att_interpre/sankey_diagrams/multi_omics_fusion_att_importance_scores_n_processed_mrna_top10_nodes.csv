@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+mrna_layer_1_189,Melanin biosynthesis,layer_1,mrna,1.760116
+mrna_layer_1_86,Generation of second messenger molecules,layer_1,mrna,1.2283707
+mrna_layer_1_411,Activation of the pre-replicative complex,layer_1,mrna,1.1583506
+mrna_input_5559,NKX2-5,input,mrna,0.91324323
+mrna_input_6627,PITX2,input,mrna,0.89572895
+mrna_layer_1_311,Interleukin-6 family signaling,layer_1,mrna,0.89170057
+mrna_input_186,ADH7,input,mrna,0.8830627
+mrna_input_6374,PCDH19,input,mrna,0.8796126
+mrna_input_1309,CDKN2A,input,mrna,0.87849814
+mrna_input_8480,SPRR3,input,mrna,0.8758299
+mrna_input_1617,COL11A1,input,mrna,0.8753941
+mrna_input_8828,TBC1D24,input,mrna,0.87502974
+mrna_input_6432,PDGFB,input,mrna,0.87370616
+mrna_input_4686,LRP1,input,mrna,0.8733945
+mrna_layer_1_33,Protein repair,layer_1,mrna,0.68282443
+mrna_layer_1_261,Metabolism of Angiotensinogen to Angiotensins,layer_1,mrna,0.67512184
+mrna_layer_1_150,Activation of C3 and C5,layer_1,mrna,0.6513532
+mrna_layer_1_4,Signaling by NTRK3 (TRKC),layer_1,mrna,0.57390696
+mrna_layer_1_5,Expression and Processing of Neurotrophins,layer_1,mrna,0.5057547
+mrna_layer_1_198,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),layer_1,mrna,0.50205946
+mrna_layer_2_212,ESR-mediated signaling,layer_2,mrna,0.39910072
+mrna_layer_2_85,Nephron development,layer_2,mrna,0.33558404
+mrna_layer_2_107,Replacement of protamines by nucleosomes in the male pronucleus,layer_2,mrna,0.2417699
+mrna_layer_2_189,Activation of anterior HOX genes in hindbrain development during early embryogenesis,layer_2,mrna,0.20636247
+mrna_layer_2_53,Metabolism of fat-soluble vitamins,layer_2,mrna,0.18989255
+mrna_layer_2_111,Eukaryotic Translation Elongation,layer_2,mrna,0.18321754
+mrna_layer_3_81,Keratinization,layer_3,mrna,0.16852027
+mrna_layer_2_4,Formation of paraxial mesoderm,layer_2,mrna,0.1616663
+mrna_layer_2_25,TYSND1 cleaves peroxisomal proteins,layer_2,mrna,0.14100331
+mrna_layer_3_76,Regulation of beta-cell development,layer_3,mrna,0.14043878
+mrna_layer_3_115,Response to metal ions,layer_3,mrna,0.12528269
+mrna_layer_2_196,Sphingolipid metabolism,layer_2,mrna,0.12132329
+mrna_layer_2_0,Transcriptional regulation of white adipocyte differentiation,layer_2,mrna,0.1159388
+mrna_layer_3_86,Cardiogenesis,layer_3,mrna,0.10063936
+mrna_layer_3_34,Inositol phosphate metabolism,layer_3,mrna,0.09165201
+mrna_layer_3_107,Mitochondrial protein import,layer_3,mrna,0.089523785
+mrna_layer_3_12,Deadenylation-dependent mRNA decay,layer_3,mrna,0.08480332
+mrna_layer_3_45,O2/CO2 exchange in erythrocytes,layer_3,mrna,0.08102775
+mrna_layer_3_119,Base Excision Repair,layer_3,mrna,0.07872864
+mrna_layer_3_149,Visual phototransduction,layer_3,mrna,0.07816611
+mrna_layer_4_18,Vesicle-mediated transport,layer_4,mrna,0.054556984
+mrna_layer_4_7,Signal Transduction,layer_4,mrna,0.026539268
+mrna_layer_4_4,Reproduction,layer_4,mrna,0.014396157
+mrna_layer_4_11,Organelle biogenesis and maintenance,layer_4,mrna,0.011518694
+mrna_layer_4_15,Circadian Clock,layer_4,mrna,0.001450444
+mrna_layer_4_23,Cellular responses to stimuli,layer_4,mrna,0.0007615361
+mrna_layer_4_8,Cell Cycle,layer_4,mrna,0.00073314377
+mrna_layer_4_10,Immune System,layer_4,mrna,0.00068385294
+mrna_layer_4_26,Autophagy,layer_4,mrna,0.0006826855
+mrna_layer_4_6,Cell-Cell communication,layer_4,mrna,0.00065591396

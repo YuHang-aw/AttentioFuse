@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Collagen biosynthesis and modifying enzymes,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Aflatoxin activation and detoxification,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,tRNA processing in the mitochondrion,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Signaling by Hippo,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,5.365706
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Signaling by Hippo,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,tRNA processing in the mitochondrion,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Aflatoxin activation and detoxification,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Collagen biosynthesis and modifying enzymes,SNV,layer_2,5.1374965
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Collagen biosynthesis and modifying enzymes,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Aflatoxin activation and detoxification,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,tRNA processing in the mitochondrion,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Signaling by Hippo,SNV,layer_2,4.515871
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Signaling by Hippo,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Collagen biosynthesis and modifying enzymes,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Aflatoxin activation and detoxification,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,tRNA processing in the mitochondrion,SNV,layer_2,3.9457285
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,tRNA processing in the mitochondrion,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Collagen biosynthesis and modifying enzymes,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Signaling by Hippo,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Aflatoxin activation and detoxification,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,3.679177
+GGPS1,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+TNFRSF13B,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,G alpha (s) signalling events,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Glucuronidation,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.474787
+PELI3,SNV,input,3.344403,Type I hemidesmosome assembly,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Glucuronidation,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,G alpha (s) signalling events,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Glucuronidation,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Glucuronidation,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Type I hemidesmosome assembly,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Antagonism of Activin by Follistatin,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Antagonism of Activin by Follistatin,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,3.344403
+PELI3,SNV,input,3.344403,G alpha (s) signalling events,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,G alpha (s) signalling events,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Type I hemidesmosome assembly,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Antagonism of Activin by Follistatin,SNV,layer_1,3.344403
+CCND3,SNV,input,3.344403,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.344403
+MTX1,SNV,input,3.344403,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,3.344403
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Digestion,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Fibronectin matrix formation,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Meiosis,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Nephrin family interactions,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Ion channel transport,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,ABC-family proteins mediated transport,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Synthesis of DNA,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,RNA Polymerase I Transcription,SNV,layer_3,3.1630075
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Aflatoxin activation and detoxification,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,tRNA processing in the mitochondrion,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Signaling by Hippo,SNV,layer_2,2.95281
+Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.95281,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.95281
+Signaling by Hippo,SNV,layer_2,2.9253187,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,RNA Polymerase I Transcription,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Meiosis,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Nephrin family interactions,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Ion channel transport,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Digestion,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Fibronectin matrix formation,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Synthesis of DNA,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,ABC-family proteins mediated transport,SNV,layer_3,2.9253187
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Aflatoxin activation and detoxification,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,tRNA processing in the mitochondrion,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Signaling by Hippo,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,2.842104
+Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.842104,Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.842104
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Meiosis,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,ABC-family proteins mediated transport,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Digestion,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Ion channel transport,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Nephrin family interactions,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,RNA Polymerase I Transcription,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Fibronectin matrix formation,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Synthesis of DNA,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.6212556
+Synthesis of DNA,SNV,layer_3,2.6077116,Neuronal System,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Hemostasis,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Autophagy,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Drug ADME,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Metabolism,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Metabolism of proteins,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Programmed Cell Death,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Developmental Biology,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Signal Transduction,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Organelle biogenesis and maintenance,SNV,layer_4,2.6077116
+CBX4,SNV,input,2.5516267,Type I hemidesmosome assembly,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Glucuronidation,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Transport of Mature mRNAs Derived from Intronless Transcripts,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,G alpha (s) signalling events,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Antagonism of Activin by Follistatin,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Post-chaperonin tubulin folding pathway,SNV,layer_1,2.5516267
+CBX4,SNV,input,2.5516267,Serotonin Neurotransmitter Release Cycle,SNV,layer_1,2.5516267
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Digestion,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Synthesis of DNA,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,ABC-family proteins mediated transport,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Fibronectin matrix formation,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Meiosis,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Nephrin family interactions,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Ion channel transport,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,RNA Polymerase I Transcription,SNV,layer_3,2.4754577
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Signaling by Hippo,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Aflatoxin activation and detoxification,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,2.3689857
+Regulation of actin dynamics for phagocytic cup formation,SNV,layer_1,2.3689857,tRNA processing in the mitochondrion,SNV,layer_2,2.3689857
+G alpha (s) signalling events,SNV,layer_1,2.3417013,tRNA processing in the mitochondrion,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Signaling by Hippo,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Aflatoxin activation and detoxification,SNV,layer_2,2.3417013
+G alpha (s) signalling events,SNV,layer_1,2.3417013,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3417013
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Fibronectin matrix formation,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Synthesis of DNA,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,ABC-family proteins mediated transport,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Digestion,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Ion channel transport,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Nephrin family interactions,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Meiosis,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,RNA Polymerase I Transcription,SNV,layer_3,2.3281958
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Digestion,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Synthesis of DNA,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,ABC-family proteins mediated transport,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,RNA Polymerase I Transcription,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Fibronectin matrix formation,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Nephrin family interactions,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Meiosis,SNV,layer_3,2.239131
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.239131,Ion channel transport,SNV,layer_3,2.239131
+Glucuronidation,SNV,layer_1,2.2318995,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,Signaling by Hippo,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,tRNA processing in the mitochondrion,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,Aflatoxin activation and detoxification,SNV,layer_2,2.2318995
+Glucuronidation,SNV,layer_1,2.2318995,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,2.2318995
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Metabolism,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Organelle biogenesis and maintenance,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Signal Transduction,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Neuronal System,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Programmed Cell Death,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Metabolism of proteins,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Developmental Biology,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Drug ADME,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Autophagy,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Hemostasis,SNV,layer_4,2.0158865
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Nephrin family interactions,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Meiosis,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Fibronectin matrix formation,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,RNA Polymerase I Transcription,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Ion channel transport,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,ABC-family proteins mediated transport,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Digestion,SNV,layer_3,1.5843726
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,SNV,layer_2,1.5843726,Synthesis of DNA,SNV,layer_3,1.5843726
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Developmental Biology,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Metabolism,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Drug ADME,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Autophagy,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Hemostasis,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Neuronal System,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Metabolism of proteins,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Programmed Cell Death,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Signal Transduction,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Organelle biogenesis and maintenance,SNV,layer_4,1.5753723
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Fibronectin matrix formation,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Meiosis,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Digestion,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,ABC-family proteins mediated transport,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Synthesis of DNA,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,RNA Polymerase I Transcription,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Nephrin family interactions,SNV,layer_3,1.5642328
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",SNV,layer_2,1.5642328,Ion channel transport,SNV,layer_3,1.5642328
+Digestion,SNV,layer_3,1.4445627,Hemostasis,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Drug ADME,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Metabolism of proteins,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Metabolism,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Organelle biogenesis and maintenance,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Neuronal System,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Programmed Cell Death,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Developmental Biology,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Signal Transduction,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Autophagy,SNV,layer_4,1.4445627
+Ion channel transport,SNV,layer_3,1.4344095,Autophagy,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Metabolism of proteins,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Programmed Cell Death,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Drug ADME,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Metabolism,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Developmental Biology,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Neuronal System,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Organelle biogenesis and maintenance,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Signal Transduction,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Hemostasis,SNV,layer_4,1.4344095
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Synthesis of DNA,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Fibronectin matrix formation,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Meiosis,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Nephrin family interactions,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Ion channel transport,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Digestion,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,ABC-family proteins mediated transport,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,RNA Polymerase I Transcription,SNV,layer_3,1.1123307
+Neurotransmitter uptake and metabolism In glial cells,SNV,layer_2,1.1123307,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,1.1123307
+Nephrin family interactions,SNV,layer_3,1.0856321,Autophagy,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Drug ADME,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Organelle biogenesis and maintenance,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Signal Transduction,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Neuronal System,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Hemostasis,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Programmed Cell Death,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Metabolism of proteins,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Metabolism,SNV,layer_4,1.0856321
+Nephrin family interactions,SNV,layer_3,1.0856321,Developmental Biology,SNV,layer_4,1.0856321
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Ion channel transport,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Nephrin family interactions,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Meiosis,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Fibronectin matrix formation,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Digestion,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,ABC-family proteins mediated transport,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Synthesis of DNA,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,1.0736017
+tRNA processing in the mitochondrion,SNV,layer_2,1.0736017,RNA Polymerase I Transcription,SNV,layer_3,1.0736017
+Meiosis,SNV,layer_3,1.0299466,Signal Transduction,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Developmental Biology,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Autophagy,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Hemostasis,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Neuronal System,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Organelle biogenesis and maintenance,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Drug ADME,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Metabolism,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Metabolism of proteins,SNV,layer_4,1.0299466
+Meiosis,SNV,layer_3,1.0299466,Programmed Cell Death,SNV,layer_4,1.0299466
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Signal Transduction,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Developmental Biology,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Autophagy,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Hemostasis,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Neuronal System,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Organelle biogenesis and maintenance,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Drug ADME,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Metabolism,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Metabolism of proteins,SNV,layer_4,0.97309065
+Fibronectin matrix formation,SNV,layer_3,0.97309065,Programmed Cell Death,SNV,layer_4,0.97309065
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Drug ADME,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Metabolism,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Hemostasis,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Autophagy,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Developmental Biology,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Signal Transduction,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Organelle biogenesis and maintenance,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Neuronal System,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Metabolism of proteins,SNV,layer_4,0.63719845
+RNA Polymerase I Transcription,SNV,layer_3,0.63719845,Programmed Cell Death,SNV,layer_4,0.63719845
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Neuronal System,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Organelle biogenesis and maintenance,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Drug ADME,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Metabolism,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Hemostasis,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Autophagy,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Metabolism of proteins,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Programmed Cell Death,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Developmental Biology,SNV,layer_4,0.2606946
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_3,0.2606946,Signal Transduction,SNV,layer_4,0.2606946

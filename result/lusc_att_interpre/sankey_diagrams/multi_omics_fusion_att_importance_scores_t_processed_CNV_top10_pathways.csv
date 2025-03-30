@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Protein repair,CNV,layer_1,3.3116498,Threonine catabolism,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Azathioprine ADME,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,TCR signaling,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Class I MHC mediated antigen processing & presentation,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Neurotransmitter release cycle,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Branched-chain amino acid catabolism,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Specification of the neural plate border,CNV,layer_2,3.3116498
+Heme signaling,CNV,layer_1,2.550514,Threonine catabolism,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Azathioprine ADME,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,TCR signaling,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Branched-chain amino acid catabolism,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Neurotransmitter release cycle,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Specification of the neural plate border,CNV,layer_2,2.550514
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Specification of the neural plate border,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Azathioprine ADME,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Threonine catabolism,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,TCR signaling,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Neurotransmitter release cycle,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Branched-chain amino acid catabolism,CNV,layer_2,2.4231083
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Azathioprine ADME,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Threonine catabolism,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,TCR signaling,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Neurotransmitter release cycle,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Branched-chain amino acid catabolism,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Specification of the neural plate border,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.4121141
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Mitochondrial RNA degradation,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Transmission across Electrical Synapses ,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Cardiac conduction,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Cilium Assembly,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Peroxisomal protein import,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Laminin interactions,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Collagen formation,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,LGI-ADAM interactions,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Class I peroxisomal membrane protein import,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Invadopodia formation,CNV,layer_3,1.5934303
+Invadopodia formation,CNV,layer_3,1.5381664,Developmental Biology,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Sensory Perception,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Extracellular matrix organization,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Metabolism of proteins,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Autophagy,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Organelle biogenesis and maintenance,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Hemostasis,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Circadian Clock,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,DNA Repair,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Vesicle-mediated transport,CNV,layer_4,1.5381664
+SDK interactions,CNV,layer_1,1.5257174,Specification of the neural plate border,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Neurotransmitter release cycle,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Branched-chain amino acid catabolism,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Threonine catabolism,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Azathioprine ADME,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,TCR signaling,CNV,layer_2,1.5257174
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Branched-chain amino acid catabolism,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Neurotransmitter release cycle,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,TCR signaling,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Specification of the neural plate border,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Azathioprine ADME,CNV,layer_2,1.3203226
+Transcriptional regulation by small RNAs,CNV,layer_1,1.3203226,Threonine catabolism,CNV,layer_2,1.3203226
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Class I peroxisomal membrane protein import,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Invadopodia formation,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,LGI-ADAM interactions,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Collagen formation,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Peroxisomal protein import,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Laminin interactions,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Transmission across Electrical Synapses ,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Mitochondrial RNA degradation,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Cilium Assembly,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Cardiac conduction,CNV,layer_3,1.2434442
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Hemostasis,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Circadian Clock,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Sensory Perception,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Developmental Biology,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Extracellular matrix organization,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Metabolism of proteins,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,DNA Repair,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Vesicle-mediated transport,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Autophagy,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Organelle biogenesis and maintenance,CNV,layer_4,1.2227539
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Neurotransmitter release cycle,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Branched-chain amino acid catabolism,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,TCR signaling,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Specification of the neural plate border,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Threonine catabolism,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Azathioprine ADME,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.1659741
+Formation of the posterior neural plate,CNV,layer_1,1.1659741,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.1659741
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Extracellular matrix organization,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Metabolism of proteins,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,DNA Repair,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Vesicle-mediated transport,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Developmental Biology,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Sensory Perception,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Organelle biogenesis and maintenance,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Autophagy,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Circadian Clock,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Hemostasis,CNV,layer_4,1.1171663
+Specification of the neural plate border,CNV,layer_2,1.0660768,Class I peroxisomal membrane protein import,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Invadopodia formation,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Cilium Assembly,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Cardiac conduction,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Mitochondrial RNA degradation,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Transmission across Electrical Synapses ,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Collagen formation,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,LGI-ADAM interactions,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Peroxisomal protein import,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Laminin interactions,CNV,layer_3,1.0660768
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Peroxisomal protein import,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Laminin interactions,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Collagen formation,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,LGI-ADAM interactions,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Class I peroxisomal membrane protein import,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Invadopodia formation,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Cardiac conduction,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Cilium Assembly,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Transmission across Electrical Synapses ,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Mitochondrial RNA degradation,CNV,layer_3,1.0044355
+GTF2H2,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,PERK regulates gene expression,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Attachment of GPI anchor to uPAR,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Signaling by NTRK3 (TRKC),CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Formation of the posterior neural plate,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Transcriptional regulation by small RNAs,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Formation of the posterior neural plate,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Signaling by NTRK3 (TRKC),CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Attachment of GPI anchor to uPAR,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,PERK regulates gene expression,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Attachment of GPI anchor to uPAR,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,PERK regulates gene expression,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Formation of the posterior neural plate,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Signaling by NTRK3 (TRKC),CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Transcriptional regulation by small RNAs,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Transcriptional regulation by small RNAs,CNV,layer_1,0.90467757
+CDC25A,CNV,input,0.8951812,Estrogen-dependent gene expression,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Formation of the posterior neural plate,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Signaling by NTRK3 (TRKC),CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,PERK regulates gene expression,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Attachment of GPI anchor to uPAR,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,SDK interactions,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Transcriptional regulation by small RNAs,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Heme signaling,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Protein repair,CNV,layer_1,0.8951812
+UTP15,CNV,input,0.88464177,PERK regulates gene expression,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Attachment of GPI anchor to uPAR,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,SDK interactions,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Transcriptional regulation by small RNAs,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Estrogen-dependent gene expression,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Heme signaling,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Protein repair,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Signaling by NTRK3 (TRKC),CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Formation of the posterior neural plate,CNV,layer_1,0.88464177
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Specification of the neural plate border,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Azathioprine ADME,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Threonine catabolism,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,TCR signaling,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Branched-chain amino acid catabolism,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Neurotransmitter release cycle,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,Class I MHC mediated antigen processing & presentation,CNV,layer_2,0.88304275
+Signaling by NTRK3 (TRKC),CNV,layer_1,0.88304275,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.88304275
+ARHGEF28,CNV,input,0.878809,PERK regulates gene expression,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Attachment of GPI anchor to uPAR,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Signaling by NTRK3 (TRKC),CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Formation of the posterior neural plate,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Transcriptional regulation by small RNAs,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,SDK interactions,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Protein repair,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Heme signaling,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.878809
+ARHGEF28,CNV,input,0.878809,Estrogen-dependent gene expression,CNV,layer_1,0.878809
+RPS23,CNV,input,0.8786087,SDK interactions,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Transcriptional regulation by small RNAs,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Protein repair,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Heme signaling,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Estrogen-dependent gene expression,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Signaling by NTRK3 (TRKC),CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Formation of the posterior neural plate,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,Attachment of GPI anchor to uPAR,CNV,layer_1,0.8786087
+RPS23,CNV,input,0.8786087,PERK regulates gene expression,CNV,layer_1,0.8786087
+Threonine catabolism,CNV,layer_2,0.8493982,Collagen formation,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,LGI-ADAM interactions,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Cilium Assembly,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Cardiac conduction,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Class I peroxisomal membrane protein import,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Invadopodia formation,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Laminin interactions,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Peroxisomal protein import,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Mitochondrial RNA degradation,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Transmission across Electrical Synapses ,CNV,layer_3,0.8493982
+MCCC2,CNV,input,0.8450273,Heme signaling,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Protein repair,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,PERK regulates gene expression,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Attachment of GPI anchor to uPAR,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Formation of the posterior neural plate,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Signaling by NTRK3 (TRKC),CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,SDK interactions,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Transcriptional regulation by small RNAs,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8450273
+MCCC2,CNV,input,0.8450273,Estrogen-dependent gene expression,CNV,layer_1,0.8450273
+MTNR1A,CNV,input,0.83716786,SDK interactions,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Transcriptional regulation by small RNAs,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Heme signaling,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Protein repair,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Estrogen-dependent gene expression,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Formation of the posterior neural plate,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Signaling by NTRK3 (TRKC),CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,Attachment of GPI anchor to uPAR,CNV,layer_1,0.83716786
+MTNR1A,CNV,input,0.83716786,PERK regulates gene expression,CNV,layer_1,0.83716786
+SCAMP1,CNV,input,0.83051044,SDK interactions,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Transcriptional regulation by small RNAs,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Estrogen-dependent gene expression,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Formation of the posterior neural plate,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Signaling by NTRK3 (TRKC),CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Heme signaling,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Protein repair,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,PERK regulates gene expression,CNV,layer_1,0.83051044
+SCAMP1,CNV,input,0.83051044,Attachment of GPI anchor to uPAR,CNV,layer_1,0.83051044
+Azathioprine ADME,CNV,layer_2,0.81691855,Collagen formation,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,LGI-ADAM interactions,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Mitochondrial RNA degradation,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Transmission across Electrical Synapses ,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Peroxisomal protein import,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Laminin interactions,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Cardiac conduction,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Cilium Assembly,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Class I peroxisomal membrane protein import,CNV,layer_3,0.81691855
+Azathioprine ADME,CNV,layer_2,0.81691855,Invadopodia formation,CNV,layer_3,0.81691855
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Threonine catabolism,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Azathioprine ADME,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,TCR signaling,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Class I MHC mediated antigen processing & presentation,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Specification of the neural plate border,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Neurotransmitter release cycle,CNV,layer_2,0.8022617
+Attachment of GPI anchor to uPAR,CNV,layer_1,0.8022617,Branched-chain amino acid catabolism,CNV,layer_2,0.8022617
+PERK regulates gene expression,CNV,layer_1,0.7913885,Branched-chain amino acid catabolism,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Neurotransmitter release cycle,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Azathioprine ADME,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Threonine catabolism,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Specification of the neural plate border,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Class I MHC mediated antigen processing & presentation,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,TCR signaling,CNV,layer_2,0.7913885
+PERK regulates gene expression,CNV,layer_1,0.7913885,Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.7913885
+TCR signaling,CNV,layer_2,0.75160366,LGI-ADAM interactions,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Collagen formation,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Class I peroxisomal membrane protein import,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Invadopodia formation,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Peroxisomal protein import,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Laminin interactions,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Mitochondrial RNA degradation,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Transmission across Electrical Synapses ,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Cardiac conduction,CNV,layer_3,0.75160366
+TCR signaling,CNV,layer_2,0.75160366,Cilium Assembly,CNV,layer_3,0.75160366
+Collagen formation,CNV,layer_3,0.6706505,DNA Repair,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Vesicle-mediated transport,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Developmental Biology,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Extracellular matrix organization,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Hemostasis,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Circadian Clock,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Sensory Perception,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Organelle biogenesis and maintenance,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Metabolism of proteins,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Autophagy,CNV,layer_4,0.6706505
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Class I peroxisomal membrane protein import,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Cilium Assembly,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Cardiac conduction,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Mitochondrial RNA degradation,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Laminin interactions,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Invadopodia formation,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,LGI-ADAM interactions,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Collagen formation,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Transmission across Electrical Synapses ,CNV,layer_3,0.58682907
+Transcriptional regulation of brown and beige adipocyte differentiation,CNV,layer_2,0.58682907,Peroxisomal protein import,CNV,layer_3,0.58682907
+Laminin interactions,CNV,layer_3,0.54454464,Autophagy,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Metabolism of proteins,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Hemostasis,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Organelle biogenesis and maintenance,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,DNA Repair,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Vesicle-mediated transport,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Developmental Biology,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Sensory Perception,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Extracellular matrix organization,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Circadian Clock,CNV,layer_4,0.54454464
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Mitochondrial RNA degradation,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Transmission across Electrical Synapses ,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Invadopodia formation,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Laminin interactions,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Cardiac conduction,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Cilium Assembly,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Peroxisomal protein import,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Class I peroxisomal membrane protein import,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,Collagen formation,CNV,layer_3,0.45749784
+Branched-chain amino acid catabolism,CNV,layer_2,0.45749784,LGI-ADAM interactions,CNV,layer_3,0.45749784
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Invadopodia formation,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Mitochondrial RNA degradation,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Cilium Assembly,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Cardiac conduction,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Collagen formation,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Transmission across Electrical Synapses ,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Laminin interactions,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Peroxisomal protein import,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,Class I peroxisomal membrane protein import,CNV,layer_3,0.3932484
+Neurotransmitter release cycle,CNV,layer_2,0.3932484,LGI-ADAM interactions,CNV,layer_3,0.3932484
+Peroxisomal protein import,CNV,layer_3,0.22344375,Metabolism of proteins,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Extracellular matrix organization,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Hemostasis,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Circadian Clock,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Autophagy,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Organelle biogenesis and maintenance,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Developmental Biology,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Sensory Perception,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,DNA Repair,CNV,layer_4,0.22344375
+Peroxisomal protein import,CNV,layer_3,0.22344375,Vesicle-mediated transport,CNV,layer_4,0.22344375
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Developmental Biology,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Sensory Perception,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Extracellular matrix organization,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Metabolism of proteins,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Vesicle-mediated transport,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,DNA Repair,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Circadian Clock,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Hemostasis,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Organelle biogenesis and maintenance,CNV,layer_4,0.18448462
+Transmission across Electrical Synapses ,CNV,layer_3,0.18448462,Autophagy,CNV,layer_4,0.18448462
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Autophagy,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Organelle biogenesis and maintenance,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Sensory Perception,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Developmental Biology,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Vesicle-mediated transport,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,DNA Repair,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Extracellular matrix organization,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Metabolism of proteins,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Circadian Clock,CNV,layer_4,0.101683445
+Mitochondrial RNA degradation,CNV,layer_3,0.101683445,Hemostasis,CNV,layer_4,0.101683445
+Cilium Assembly,CNV,layer_3,0.09288944,Hemostasis,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Circadian Clock,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,DNA Repair,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Vesicle-mediated transport,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Autophagy,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Organelle biogenesis and maintenance,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Sensory Perception,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Developmental Biology,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Metabolism of proteins,CNV,layer_4,0.09288944
+Cilium Assembly,CNV,layer_3,0.09288944,Extracellular matrix organization,CNV,layer_4,0.09288944
+Cardiac conduction,CNV,layer_3,0.082478896,Hemostasis,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Circadian Clock,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Autophagy,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Organelle biogenesis and maintenance,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Developmental Biology,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Sensory Perception,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,DNA Repair,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Vesicle-mediated transport,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Extracellular matrix organization,CNV,layer_4,0.082478896
+Cardiac conduction,CNV,layer_3,0.082478896,Metabolism of proteins,CNV,layer_4,0.082478896

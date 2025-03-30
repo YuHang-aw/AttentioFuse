@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+mrna_layer_3_13,Ion channel transport,layer_3,mrna,5.5886364
+mrna_layer_3_7,SLC-mediated transmembrane transport,layer_3,mrna,3.0687068
+mrna_layer_2_16,Hh mutants abrogate ligand secretion,layer_2,mrna,2.5215478
+mrna_layer_1_26,ABC transporters in lipid homeostasis,layer_1,mrna,2.2069402
+mrna_layer_2_33,Phase I - Functionalization of compounds,layer_2,mrna,2.1254325
+mrna_layer_1_65,Scavenging by Class A Receptors,layer_1,mrna,1.9182488
+mrna_layer_2_32,Phase II - Conjugation of compounds,layer_2,mrna,1.4811367
+mrna_layer_2_34,Aflatoxin activation and detoxification,layer_2,mrna,1.4406036
+mrna_layer_1_64,Choline catabolism,layer_1,mrna,1.4101385
+mrna_layer_1_280,Degradation of GLI1 by the proteasome,layer_1,mrna,1.2735677
+mrna_layer_1_215,Heme signaling,layer_1,mrna,1.2062472
+mrna_layer_1_66,FCGR activation,layer_1,mrna,1.1131965
+mrna_layer_1_62,Histidine catabolism,layer_1,mrna,0.932827
+mrna_input_8919,TFF1,input,mrna,0.9219679
+mrna_layer_1_269,"Synthesis of IP2, IP, and Ins in the cytosol",layer_1,mrna,0.9217366
+mrna_input_7667,RPS4Y1,input,mrna,0.921486
+mrna_input_7993,SHH,input,mrna,0.9201105
+mrna_input_5265,MUC5AC,input,mrna,0.9115459
+mrna_input_3191,GJB3,input,mrna,0.90566784
+mrna_input_7636,RPP40,input,mrna,0.90545857
+mrna_input_3344,GPR35,input,mrna,0.9017317
+mrna_input_7160,PTRH2,input,mrna,0.9014334
+mrna_layer_1_220,Smooth Muscle Contraction,layer_1,mrna,0.9006234
+mrna_input_8546,SSBP1,input,mrna,0.8980267
+mrna_input_5579,NME1,input,mrna,0.89759773
+mrna_layer_1_68,Role of phospholipids in phagocytosis,layer_1,mrna,0.86485994
+mrna_layer_2_117,Transcriptional regulation by small RNAs,layer_2,mrna,0.8163062
+mrna_layer_2_26,Respiratory electron transport,layer_2,mrna,0.5992232
+mrna_layer_2_25,Mitochondrial Uncoupling,layer_2,mrna,0.48587382
+mrna_layer_2_17,Oncogenic MAPK signaling,layer_2,mrna,0.3900337
+mrna_layer_2_147,Specification of the neural plate border,layer_2,mrna,0.29689276
+mrna_layer_3_11,Intracellular oxygen transport,layer_3,mrna,0.28100255
+mrna_layer_2_30,Reversal of alkylation damage by DNA dioxygenases,layer_2,mrna,0.2573004
+mrna_layer_4_9,Disease,layer_4,mrna,0.2121821
+mrna_layer_3_116,Diseases of programmed cell death,layer_3,mrna,0.1600018
+mrna_layer_3_45,Metabolism of vitamins and cofactors,layer_3,mrna,0.14657539
+mrna_layer_3_47,Biological oxidations,layer_3,mrna,0.13002793
+mrna_layer_3_71,"Platelet activation, signaling and aggregation",layer_3,mrna,0.12199582
+mrna_layer_3_72,Peptide hormone metabolism,layer_3,mrna,0.10191118
+mrna_layer_3_108,Chromosome Maintenance,layer_3,mrna,0.0949331
+mrna_layer_4_2,Developmental Biology,layer_4,mrna,0.08769724
+mrna_layer_3_48,Cytosolic iron-sulfur cluster assembly,layer_3,mrna,0.08702922
+mrna_layer_4_15,Circadian Clock,layer_4,mrna,0.00488555
+mrna_layer_4_22,Metabolism of RNA,layer_4,mrna,0.001000501
+mrna_layer_4_7,Signal Transduction,layer_4,mrna,0.00066468434
+mrna_layer_4_16,Chromatin organization,layer_4,mrna,0.0006409611
+mrna_layer_4_25,Protein localization,layer_4,mrna,0.0006202969
+mrna_layer_4_28,Drug ADME,layer_4,mrna,0.0006017313
+mrna_layer_4_12,Transport of small molecules,layer_4,mrna,0.00059531245
+mrna_layer_4_11,Organelle biogenesis and maintenance,layer_4,mrna,0.0005901474

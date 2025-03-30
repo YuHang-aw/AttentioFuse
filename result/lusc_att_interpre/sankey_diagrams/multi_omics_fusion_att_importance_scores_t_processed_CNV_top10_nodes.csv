@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+CNV_layer_1_32,Protein repair,layer_1,CNV,3.3116498
+CNV_layer_1_254,Heme signaling,layer_1,CNV,2.550514
+CNV_layer_1_11,Synthesis of dolichyl-phosphate mannose,layer_1,CNV,2.4231083
+CNV_layer_1_507,Estrogen-dependent gene expression,layer_1,CNV,2.4121141
+CNV_layer_2_18,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",layer_2,CNV,1.5934303
+CNV_layer_3_7,Invadopodia formation,layer_3,CNV,1.5381664
+CNV_layer_1_610,SDK interactions,layer_1,CNV,1.5257174
+CNV_layer_4_0,Hemostasis,layer_4,CNV,1.396658
+CNV_layer_1_525,Transcriptional regulation by small RNAs,layer_1,CNV,1.3203226
+CNV_layer_2_210,Class I MHC mediated antigen processing & presentation,layer_2,CNV,1.2434442
+CNV_layer_3_109,Class I peroxisomal membrane protein import,layer_3,CNV,1.2227539
+CNV_layer_1_26,Formation of the posterior neural plate,layer_1,CNV,1.1659741
+CNV_layer_3_80,LGI-ADAM interactions,layer_3,CNV,1.1171663
+CNV_layer_2_9,Specification of the neural plate border,layer_2,CNV,1.0660768
+CNV_layer_2_17,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,layer_2,CNV,1.0044355
+CNV_input_5609,OCLN,input,CNV,0.90467757
+CNV_input_8043,SMN1,input,CNV,0.90467757
+CNV_input_3316,GTF2H2,input,CNV,0.90467757
+CNV_input_1183,CDC25A,input,CNV,0.8951812
+CNV_input_9266,UTP15,input,CNV,0.88464177
+CNV_layer_1_4,Signaling by NTRK3 (TRKC),layer_1,CNV,0.88304275
+CNV_input_515,ARHGEF28,input,CNV,0.878809
+CNV_input_7387,RPS23,input,CNV,0.8786087
+CNV_layer_2_303,Threonine catabolism,layer_2,CNV,0.8493982
+CNV_input_4658,MCCC2,input,CNV,0.8450273
+CNV_input_5058,MTNR1A,input,CNV,0.83716786
+CNV_input_7508,SCAMP1,input,CNV,0.83051044
+CNV_layer_2_15,Azathioprine ADME,layer_2,CNV,0.81691855
+CNV_layer_1_13,Attachment of GPI anchor to uPAR,layer_1,CNV,0.8022617
+CNV_layer_1_16,PERK regulates gene expression,layer_1,CNV,0.7913885
+CNV_layer_2_205,TCR signaling,layer_2,CNV,0.75160366
+CNV_layer_4_15,Circadian Clock,layer_4,CNV,0.7045401
+CNV_layer_3_1,Collagen formation,layer_3,CNV,0.6706505
+CNV_layer_2_1,Transcriptional regulation of brown and beige adipocyte differentiation,layer_2,CNV,0.58682907
+CNV_layer_3_5,Laminin interactions,layer_3,CNV,0.54454464
+CNV_layer_4_20,DNA Repair,layer_4,CNV,0.5413296
+CNV_layer_2_298,Branched-chain amino acid catabolism,layer_2,CNV,0.45749784
+CNV_layer_2_146,Neurotransmitter release cycle,layer_2,CNV,0.3932484
+CNV_layer_3_108,Peroxisomal protein import,layer_3,CNV,0.22344375
+CNV_layer_3_62,Transmission across Electrical Synapses ,layer_3,CNV,0.18448462
+CNV_layer_3_19,Mitochondrial RNA degradation,layer_3,CNV,0.101683445
+CNV_layer_3_9,Cilium Assembly,layer_3,CNV,0.09288944
+CNV_layer_3_96,Cardiac conduction,layer_3,CNV,0.082478896
+CNV_layer_4_18,Vesicle-mediated transport,layer_4,CNV,0.031981178
+CNV_layer_4_2,Developmental Biology,layer_4,CNV,0.022341141
+CNV_layer_4_27,Sensory Perception,layer_4,CNV,0.016561983
+CNV_layer_4_5,Extracellular matrix organization,layer_4,CNV,0.011483251
+CNV_layer_4_13,Metabolism of proteins,layer_4,CNV,0.0018889641
+CNV_layer_4_26,Autophagy,layer_4,CNV,0.0016675055
+CNV_layer_4_11,Organelle biogenesis and maintenance,layer_4,CNV,0.000777116

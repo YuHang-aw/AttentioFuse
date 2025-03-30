@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Elastic fibre formation,SNV,layer_3,16.117575,Metabolism,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Neuronal System,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,DNA Repair,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Extracellular matrix organization,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Sensory Perception,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Developmental Biology,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Disease,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Metabolism of proteins,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Muscle contraction,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Digestion and absorption,SNV,layer_4,16.117575
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Nonsense-Mediated Decay (NMD),SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Cilium Assembly,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Mitochondrial protein import,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Elastic fibre formation,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Mitochondrial calcium ion transport,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Base Excision Repair,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Protein repair,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Myogenesis,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Platelet homeostasis,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,5.541074
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Protein repair,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Base Excision Repair,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Mitochondrial calcium ion transport,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Nonsense-Mediated Decay (NMD),SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Elastic fibre formation,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Myogenesis,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Cilium Assembly,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Platelet homeostasis,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Mitochondrial protein import,SNV,layer_3,4.3779616
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Signaling by NOTCH3,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Mitochondrial Uncoupling,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Zygotic genome activation (ZGA),SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Signaling by ALK in cancer,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Neurotransmitter release cycle,SNV,layer_2,2.6896374
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Neurotransmitter release cycle,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Signaling by ALK in cancer,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Mitochondrial Uncoupling,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Signaling by NOTCH3,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Zygotic genome activation (ZGA),SNV,layer_2,2.5580614
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Neurotransmitter release cycle,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Signaling by ALK in cancer,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Zygotic genome activation (ZGA),SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Mitochondrial Uncoupling,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Signaling by NOTCH3,SNV,layer_2,2.2789764
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Myogenesis,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Platelet homeostasis,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Elastic fibre formation,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Protein repair,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Nonsense-Mediated Decay (NMD),SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Mitochondrial calcium ion transport,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Base Excision Repair,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Mitochondrial protein import,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Cilium Assembly,SNV,layer_3,1.7056167
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Zygotic genome activation (ZGA),SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Signaling by NOTCH3,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Mitochondrial Uncoupling,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Neurotransmitter release cycle,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Signaling by ALK in cancer,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,1.6611346
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Signaling by NOTCH3,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Mitochondrial Uncoupling,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Signaling by ALK in cancer,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Zygotic genome activation (ZGA),SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Neurotransmitter release cycle,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,1.1344457
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Neurotransmitter release cycle,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Zygotic genome activation (ZGA),SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Signaling by ALK in cancer,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Signaling by NOTCH3,SNV,layer_2,1.0702621
+Post-chaperonin tubulin folding pathway,SNV,layer_1,1.0702621,Mitochondrial Uncoupling,SNV,layer_2,1.0702621
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Zygotic genome activation (ZGA),SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Neurotransmitter release cycle,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Signaling by NOTCH3,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Mitochondrial Uncoupling,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Signaling by ALK in cancer,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.0382856
+Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,1.0382856,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0382856
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Cilium Assembly,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Mitochondrial protein import,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Myogenesis,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Platelet homeostasis,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Base Excision Repair,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Mitochondrial calcium ion transport,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Protein repair,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Nonsense-Mediated Decay (NMD),SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Elastic fibre formation,SNV,layer_3,1.0349644
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Zygotic genome activation (ZGA),SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Signaling by ALK in cancer,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Mitochondrial Uncoupling,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Signaling by NOTCH3,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Neurotransmitter release cycle,SNV,layer_2,0.9845211
+Glycogen breakdown (glycogenolysis),SNV,layer_1,0.9845211,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.9845211
+TP53,SNV,input,0.87824124,Free fatty acids regulate insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Signaling by Hippo,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Acetylcholine regulates insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Antagonism of Activin by Follistatin,SNV,layer_1,0.87824124
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Disease,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Metabolism of proteins,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,DNA Repair,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Muscle contraction,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Digestion and absorption,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Developmental Biology,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Extracellular matrix organization,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Sensory Perception,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Metabolism,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Neuronal System,SNV,layer_4,0.8660008
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Neurotransmitter release cycle,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Signaling by ALK in cancer,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Mitochondrial Uncoupling,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Signaling by NOTCH3,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,Zygotic genome activation (ZGA),SNV,layer_2,0.85504776
+BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.85504776,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,0.85504776
+TTN,SNV,input,0.8319866,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Free fatty acids regulate insulin secretion,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Acetylcholine regulates insulin secretion,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Signaling by Hippo,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Antagonism of Activin by Follistatin,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.8319866
+MUC16,SNV,input,0.82636964,Signaling by Hippo,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Antagonism of Activin by Follistatin,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Acetylcholine regulates insulin secretion,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Free fatty acids regulate insulin secretion,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.82636964
+RYR2,SNV,input,0.81284267,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Signaling by Hippo,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Free fatty acids regulate insulin secretion,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Antagonism of Activin by Follistatin,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Acetylcholine regulates insulin secretion,SNV,layer_1,0.81284267
+XIRP2,SNV,input,0.7272863,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Free fatty acids regulate insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Acetylcholine regulates insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Antagonism of Activin by Follistatin,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Signaling by Hippo,SNV,layer_1,0.7272863
+KRAS,SNV,input,0.7212164,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Free fatty acids regulate insulin secretion,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Acetylcholine regulates insulin secretion,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Antagonism of Activin by Follistatin,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,Signaling by Hippo,SNV,layer_1,0.7212164
+KRAS,SNV,input,0.7212164,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.7212164
+SPTA1,SNV,input,0.70587605,Antagonism of Activin by Follistatin,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Acetylcholine regulates insulin secretion,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Free fatty acids regulate insulin secretion,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.70587605
+SPTA1,SNV,input,0.70587605,Signaling by Hippo,SNV,layer_1,0.70587605
+FLG,SNV,input,0.7010437,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Free fatty acids regulate insulin secretion,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Acetylcholine regulates insulin secretion,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Signaling by Hippo,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Antagonism of Activin by Follistatin,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.7010437
+FLG,SNV,input,0.7010437,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.7010437
+PCDH15,SNV,input,0.678764,Signaling by Hippo,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Antagonism of Activin by Follistatin,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Free fatty acids regulate insulin secretion,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Acetylcholine regulates insulin secretion,SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.678764
+PCDH15,SNV,input,0.678764,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.678764
+ANK2,SNV,input,0.67522174,BBSome-mediated cargo-targeting to cilium,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Signaling by Hippo,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Post-chaperonin tubulin folding pathway,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Antagonism of Activin by Follistatin,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Free fatty acids regulate insulin secretion,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Acetylcholine regulates insulin secretion,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Response of EIF2AK4 (GCN2) to amino acid deficiency,SNV,layer_1,0.67522174
+ANK2,SNV,input,0.67522174,Glycogen breakdown (glycogenolysis),SNV,layer_1,0.67522174
+Signaling by Hippo,SNV,layer_1,0.6573912,Signaling by NOTCH3,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Mitochondrial Uncoupling,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Signaling by ALK in cancer,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Zygotic genome activation (ZGA),SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Neurotransmitter release cycle,SNV,layer_2,0.6573912
+Signaling by Hippo,SNV,layer_1,0.6573912,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.6573912
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Cilium Assembly,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Mitochondrial protein import,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Elastic fibre formation,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Base Excision Repair,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Mitochondrial calcium ion transport,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Platelet homeostasis,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Myogenesis,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Protein repair,SNV,layer_3,0.39040858
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Elastic fibre formation,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Platelet homeostasis,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Myogenesis,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Base Excision Repair,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Mitochondrial calcium ion transport,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Protein repair,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Cilium Assembly,SNV,layer_3,0.3840262
+Mitochondrial Uncoupling,SNV,layer_2,0.3840262,Mitochondrial protein import,SNV,layer_3,0.3840262
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Digestion and absorption,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Developmental Biology,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Neuronal System,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Metabolism,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Muscle contraction,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,DNA Repair,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Extracellular matrix organization,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Sensory Perception,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Disease,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Metabolism of proteins,SNV,layer_4,0.37058643
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Base Excision Repair,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Mitochondrial calcium ion transport,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Mitochondrial protein import,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Cilium Assembly,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Elastic fibre formation,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Protein repair,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Myogenesis,SNV,layer_3,0.26271242
+Cytosolic iron-sulfur cluster assembly,SNV,layer_2,0.26271242,Platelet homeostasis,SNV,layer_3,0.26271242
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Protein repair,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Elastic fibre formation,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Platelet homeostasis,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Myogenesis,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Mitochondrial calcium ion transport,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Base Excision Repair,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Cilium Assembly,SNV,layer_3,0.2526041
+Signaling by ALK in cancer,SNV,layer_2,0.2526041,Mitochondrial protein import,SNV,layer_3,0.2526041
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Platelet homeostasis,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Myogenesis,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Cilium Assembly,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Mitochondrial protein import,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Base Excision Repair,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Mitochondrial calcium ion transport,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Protein repair,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,Elastic fibre formation,SNV,layer_3,0.1731896
+Neurotransmitter release cycle,SNV,layer_2,0.1731896,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.1731896
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Myogenesis,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Platelet homeostasis,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Protein repair,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Elastic fibre formation,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Mitochondrial protein import,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Cilium Assembly,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Base Excision Repair,SNV,layer_3,0.16669
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),SNV,layer_2,0.16669,Mitochondrial calcium ion transport,SNV,layer_3,0.16669
+Protein repair,SNV,layer_3,0.1253109,Digestion and absorption,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Developmental Biology,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Metabolism,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Neuronal System,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,DNA Repair,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Muscle contraction,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Extracellular matrix organization,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Sensory Perception,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Disease,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Metabolism of proteins,SNV,layer_4,0.1253109
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Metabolism of proteins,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Disease,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Digestion and absorption,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Developmental Biology,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Extracellular matrix organization,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Sensory Perception,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,DNA Repair,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Muscle contraction,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Neuronal System,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Metabolism,SNV,layer_4,0.120039806
+Base Excision Repair,SNV,layer_3,0.09835078,Sensory Perception,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Extracellular matrix organization,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Digestion and absorption,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Developmental Biology,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Muscle contraction,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,DNA Repair,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Neuronal System,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Metabolism,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Metabolism of proteins,SNV,layer_4,0.09835078
+Base Excision Repair,SNV,layer_3,0.09835078,Disease,SNV,layer_4,0.09835078
+Myogenesis,SNV,layer_3,0.09220128,Sensory Perception,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Extracellular matrix organization,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Neuronal System,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Metabolism,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Developmental Biology,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Digestion and absorption,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,DNA Repair,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Muscle contraction,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Disease,SNV,layer_4,0.09220128
+Myogenesis,SNV,layer_3,0.09220128,Metabolism of proteins,SNV,layer_4,0.09220128
+Platelet homeostasis,SNV,layer_3,0.081703864,DNA Repair,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Muscle contraction,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Metabolism,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Neuronal System,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Metabolism of proteins,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Disease,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Sensory Perception,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Extracellular matrix organization,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Digestion and absorption,SNV,layer_4,0.081703864
+Platelet homeostasis,SNV,layer_3,0.081703864,Developmental Biology,SNV,layer_4,0.081703864
+Mitochondrial protein import,SNV,layer_3,0.059216034,Extracellular matrix organization,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Sensory Perception,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Disease,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Metabolism of proteins,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Digestion and absorption,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Developmental Biology,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,DNA Repair,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Muscle contraction,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Neuronal System,SNV,layer_4,0.059216034
+Mitochondrial protein import,SNV,layer_3,0.059216034,Metabolism,SNV,layer_4,0.059216034
+Cilium Assembly,SNV,layer_3,0.057939507,Metabolism,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Neuronal System,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Disease,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Metabolism of proteins,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Extracellular matrix organization,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Sensory Perception,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Digestion and absorption,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Developmental Biology,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,Muscle contraction,SNV,layer_4,0.057939507
+Cilium Assembly,SNV,layer_3,0.057939507,DNA Repair,SNV,layer_4,0.057939507

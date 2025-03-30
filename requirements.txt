@@ -1,0 +1,9 @@
+# requirements.txt
+
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
+seaborn
+imbalanced-learn

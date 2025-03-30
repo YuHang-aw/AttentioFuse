@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+mrna_layer_1_116,Downregulation of ERBB2 signaling,layer_1,mrna,5.5115533
+mrna_layer_1_4,Acetylcholine Neurotransmitter Release Cycle,layer_1,mrna,5.135726
+mrna_layer_2_0,Collagen biosynthesis and modifying enzymes,layer_2,mrna,3.9159877
+mrna_layer_1_225,Processing and activation of SUMO,layer_1,mrna,3.7495847
+mrna_layer_1_217,Catecholamine biosynthesis,layer_1,mrna,3.3306644
+mrna_layer_1_68,Role of phospholipids in phagocytosis,layer_1,mrna,2.868753
+mrna_layer_1_236,Retinoid cycle disease events,layer_1,mrna,2.6996298
+mrna_layer_1_201,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,layer_1,mrna,2.6283133
+mrna_layer_1_237,Dissolution of Fibrin Clot,layer_1,mrna,2.4896839
+mrna_layer_1_5,"GABA synthesis, release, reuptake and degradation",layer_1,mrna,2.4547951
+mrna_layer_1_230,Reduction of cytosolic Ca++ levels,layer_1,mrna,2.441772
+mrna_layer_2_119,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",layer_2,mrna,2.1599991
+mrna_layer_2_34,Aflatoxin activation and detoxification,layer_2,mrna,2.1352499
+mrna_layer_4_9,Disease,layer_4,mrna,1.983055
+mrna_layer_2_123,SRP-dependent cotranslational protein targeting to membrane,layer_2,mrna,1.720786
+mrna_input_3765,HSD3B1,input,mrna,1.7011398
+mrna_layer_2_129,ROS and RNS production in phagocytes,layer_2,mrna,1.6843464
+mrna_layer_2_106,Intraflagellar transport,layer_2,mrna,1.5076594
+mrna_layer_3_40,Reversible hydration of carbon dioxide,layer_3,mrna,1.3873042
+mrna_layer_3_13,Ion channel transport,layer_3,mrna,1.3260831
+mrna_layer_3_44,Metabolism of porphyrins,layer_3,mrna,1.2379097
+mrna_layer_3_42,Metabolism of nucleotides,layer_3,mrna,1.2232261
+mrna_input_4246,KCNK18,input,mrna,1.2080522
+mrna_input_8050,SLC12A3,input,mrna,1.1983293
+mrna_input_4492,L1CAM,input,mrna,1.1872488
+mrna_input_9277,TRPM1,input,mrna,1.1542009
+mrna_input_3253,GNAT1,input,mrna,1.1192735
+mrna_input_3346,GPR37L1,input,mrna,1.1115351
+mrna_input_8914,TFDP1,input,mrna,1.0731299
+mrna_input_3081,GATA3,input,mrna,1.0723473
+mrna_input_5558,NKX2-2,input,mrna,1.0681276
+mrna_layer_3_36,RNA Polymerase II Transcription,layer_3,mrna,0.9853394
+mrna_layer_2_185,Degradation of beta-catenin by the destruction complex,layer_2,mrna,0.96014196
+mrna_layer_2_30,Reversal of alkylation damage by DNA dioxygenases,layer_2,mrna,0.9318541
+mrna_layer_3_119,Diseases of the neuronal system,layer_3,mrna,0.9143241
+mrna_layer_4_22,Metabolism of RNA,layer_4,mrna,0.86094105
+mrna_layer_4_2,Developmental Biology,layer_4,mrna,0.8433417
+mrna_layer_2_8,Cell-extracellular matrix interactions,layer_2,mrna,0.7087636
+mrna_layer_2_124,tRNA Aminoacylation,layer_2,mrna,0.6339907
+mrna_layer_3_47,Biological oxidations,layer_3,mrna,0.40189368
+mrna_layer_3_118,Diseases of DNA repair,layer_3,mrna,0.33538255
+mrna_layer_3_4,O2/CO2 exchange in erythrocytes,layer_3,mrna,0.3238821
+mrna_layer_3_117,Diseases of hemostasis,layer_3,mrna,0.2919283
+mrna_layer_4_5,Extracellular matrix organization,layer_4,mrna,0.12879257
+mrna_layer_4_13,Metabolism of proteins,layer_4,mrna,0.074027866
+mrna_layer_4_10,Immune System,layer_4,mrna,0.060618095
+mrna_layer_4_24,Digestion and absorption,layer_4,mrna,0.054506354
+mrna_layer_4_14,Muscle contraction,layer_4,mrna,0.051949784
+mrna_layer_4_11,Organelle biogenesis and maintenance,layer_4,mrna,0.051625796
+mrna_layer_4_15,Circadian Clock,layer_4,mrna,0.040068183

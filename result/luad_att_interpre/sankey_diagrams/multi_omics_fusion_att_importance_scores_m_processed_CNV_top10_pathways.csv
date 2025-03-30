@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by NTRKs,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Hh mutants abrogate ligand secretion,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by ERBB2,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Pyruvate metabolism,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,ER to Golgi Anterograde Transport,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by EGFR,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by LTK,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by NOTCH3,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by VEGF,CNV,layer_2,13.475426
+Signaling by NOTCH3,CNV,layer_2,5.0235596,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Nonsense-Mediated Decay (NMD),CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,ABC-family proteins mediated transport,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,RNA Polymerase III Transcription,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Base Excision Repair,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Mitochondrial biogenesis,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,SLC-mediated transmembrane transport,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,MAPK family signaling cascades,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Cilium Assembly,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Mitochondrial calcium ion transport,CNV,layer_3,5.0235596
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,ER to Golgi Anterograde Transport,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by EGFR,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by VEGF,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by NOTCH3,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by NTRKs,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Pyruvate metabolism,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Hh mutants abrogate ligand secretion,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by LTK,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by ERBB2,CNV,layer_2,3.8938522
+Base Excision Repair,CNV,layer_3,2.8931248,Hemostasis,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Reproduction,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Sensory Perception,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Transport of small molecules,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Cell Cycle,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Protein localization,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Chromatin organization,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Cell-Cell communication,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Digestion and absorption,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Developmental Biology,CNV,layer_4,2.8931248
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by ERBB2,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Pyruvate metabolism,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Hh mutants abrogate ligand secretion,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by EGFR,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by NTRKs,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by NOTCH3,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by VEGF,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,ER to Golgi Anterograde Transport,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by LTK,CNV,layer_2,2.6601214
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Hh mutants abrogate ligand secretion,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Pyruvate metabolism,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by LTK,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,ER to Golgi Anterograde Transport,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by ERBB2,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by NTRKs,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by EGFR,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by NOTCH3,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by VEGF,CNV,layer_2,2.4014041
+Signaling by VEGF,CNV,layer_2,2.3717237,RNA Polymerase III Transcription,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Mitochondrial calcium ion transport,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Base Excision Repair,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Nonsense-Mediated Decay (NMD),CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Mitochondrial biogenesis,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Cilium Assembly,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,ABC-family proteins mediated transport,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,MAPK family signaling cascades,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,SLC-mediated transmembrane transport,CNV,layer_3,2.3717237
+Signaling by EGFR,CNV,layer_2,2.1774814,RNA Polymerase III Transcription,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Mitochondrial calcium ion transport,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,ABC-family proteins mediated transport,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Base Excision Repair,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Nonsense-Mediated Decay (NMD),CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,SLC-mediated transmembrane transport,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,MAPK family signaling cascades,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Cilium Assembly,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Mitochondrial biogenesis,CNV,layer_3,2.1774814
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by ERBB2,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Pyruvate metabolism,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Hh mutants abrogate ligand secretion,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by NTRKs,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by EGFR,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by NOTCH3,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by VEGF,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by LTK,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,ER to Golgi Anterograde Transport,CNV,layer_2,1.9433588
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,ER to Golgi Anterograde Transport,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by LTK,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by NOTCH3,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by VEGF,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Hh mutants abrogate ligand secretion,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Pyruvate metabolism,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by ERBB2,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by EGFR,CNV,layer_2,1.8195701
+NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.8195701,Signaling by NTRKs,CNV,layer_2,1.8195701
+Signaling by NTRKs,CNV,layer_2,1.8046869,Base Excision Repair,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,RNA Polymerase III Transcription,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Mitochondrial calcium ion transport,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,MAPK family signaling cascades,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,SLC-mediated transmembrane transport,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,ABC-family proteins mediated transport,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Mitochondrial biogenesis,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Cilium Assembly,CNV,layer_3,1.8046869
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Sensory Perception,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Protein localization,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Digestion and absorption,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Developmental Biology,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Cell-Cell communication,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Reproduction,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Cell Cycle,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Hemostasis,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Chromatin organization,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Transport of small molecules,CNV,layer_4,1.7979919
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Mitochondrial biogenesis,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Cilium Assembly,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,MAPK family signaling cascades,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,SLC-mediated transmembrane transport,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,RNA Polymerase III Transcription,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Mitochondrial calcium ion transport,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,ABC-family proteins mediated transport,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Base Excision Repair,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7040555
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,ER to Golgi Anterograde Transport,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by LTK,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by NOTCH3,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by VEGF,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by EGFR,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by NTRKs,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Signaling by ERBB2,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Pyruvate metabolism,CNV,layer_2,1.565146
+Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.565146,Hh mutants abrogate ligand secretion,CNV,layer_2,1.565146
+Signaling by ERBB2,CNV,layer_2,1.4964192,SLC-mediated transmembrane transport,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,MAPK family signaling cascades,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,Mitochondrial biogenesis,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,Cilium Assembly,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,Base Excision Repair,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,ABC-family proteins mediated transport,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,Mitochondrial calcium ion transport,CNV,layer_3,1.4964192
+Signaling by ERBB2,CNV,layer_2,1.4964192,RNA Polymerase III Transcription,CNV,layer_3,1.4964192
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by NTRKs,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by EGFR,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by ERBB2,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by NOTCH3,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by VEGF,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Pyruvate metabolism,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Hh mutants abrogate ligand secretion,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,Signaling by LTK,CNV,layer_2,1.4819943
+BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.4819943,ER to Golgi Anterograde Transport,CNV,layer_2,1.4819943
+Pyruvate metabolism,CNV,layer_2,1.3737468,RNA Polymerase III Transcription,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,Mitochondrial calcium ion transport,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,SLC-mediated transmembrane transport,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,MAPK family signaling cascades,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,Cilium Assembly,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,Mitochondrial biogenesis,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,ABC-family proteins mediated transport,CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.3737468
+Pyruvate metabolism,CNV,layer_2,1.3737468,Base Excision Repair,CNV,layer_3,1.3737468
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by ERBB2,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by NTRKs,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by EGFR,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by NOTCH3,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by VEGF,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,ER to Golgi Anterograde Transport,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Signaling by LTK,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Pyruvate metabolism,CNV,layer_2,1.3152801
+Amino acids regulate mTORC1,CNV,layer_1,1.3152801,Hh mutants abrogate ligand secretion,CNV,layer_2,1.3152801
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by NOTCH3,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by VEGF,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by ERBB2,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by NTRKs,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by EGFR,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Signaling by LTK,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,ER to Golgi Anterograde Transport,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Hh mutants abrogate ligand secretion,CNV,layer_2,1.3118781
+ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.3118781,Pyruvate metabolism,CNV,layer_2,1.3118781
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,Mitochondrial calcium ion transport,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,RNA Polymerase III Transcription,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,Base Excision Repair,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,ABC-family proteins mediated transport,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,SLC-mediated transmembrane transport,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,MAPK family signaling cascades,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,Cilium Assembly,CNV,layer_3,1.1710515
+Hh mutants abrogate ligand secretion,CNV,layer_2,1.1710515,Mitochondrial biogenesis,CNV,layer_3,1.1710515
+AUTS2,CNV,input,1.064971,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Amino acids regulate mTORC1,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,ABC transporters in lipid homeostasis,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.064971
+ZNF224,CNV,input,1.0550985,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Amino acids regulate mTORC1,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,ABC transporters in lipid homeostasis,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0550985
+TOMM40,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Amino acids regulate mTORC1,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Amino acids regulate mTORC1,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Amino acids regulate mTORC1,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+APOC4,CNV,input,1.0167762,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,Amino acids regulate mTORC1,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,ABC transporters in lipid homeostasis,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,ABC transporters in lipid homeostasis,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,Amino acids regulate mTORC1,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0167762
+APOC4,CNV,input,1.0167762,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0167762
+APOC2,CNV,input,1.0167762,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0167762
+RELB,CNV,input,1.0130705,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,Amino acids regulate mTORC1,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0130705
+RELB,CNV,input,1.0130705,ABC transporters in lipid homeostasis,CNV,layer_1,1.0130705
+NECTIN2,CNV,input,1.0039284,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,Regulation of HSF1-mediated heat shock response,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,ABC transporters in lipid homeostasis,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,Amino acids regulate mTORC1,CNV,layer_1,1.0039284
+NECTIN2,CNV,input,1.0039284,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,1.0039284
+GEMIN7,CNV,input,0.99597466,AKT phosphorylates targets in the cytosol,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,Glycogen breakdown (glycogenolysis),CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,Establishment of Sister Chromatid Cohesion,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,NOTCH2 intracellular domain regulates transcription,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,ABC transporters in lipid homeostasis,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,ARL13B-mediated ciliary trafficking of INPP5E,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,Amino acids regulate mTORC1,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,Regulation of HSF1-mediated heat shock response,CNV,layer_1,0.99597466
+GEMIN7,CNV,input,0.99597466,BBSome-mediated cargo-targeting to cilium,CNV,layer_1,0.99597466
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Cell Cycle,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Protein localization,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Transport of small molecules,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Chromatin organization,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Developmental Biology,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Digestion and absorption,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Sensory Perception,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Hemostasis,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Reproduction,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Cell-Cell communication,CNV,layer_4,0.95128125
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Cell-Cell communication,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Reproduction,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Transport of small molecules,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Chromatin organization,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Developmental Biology,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Digestion and absorption,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Protein localization,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Cell Cycle,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Sensory Perception,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Hemostasis,CNV,layer_4,0.8439629
+Signaling by LTK,CNV,layer_2,0.6441947,MAPK family signaling cascades,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,SLC-mediated transmembrane transport,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,RNA Polymerase III Transcription,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,Mitochondrial calcium ion transport,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,Base Excision Repair,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,Nonsense-Mediated Decay (NMD),CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,Mitochondrial biogenesis,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,Cilium Assembly,CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.6441947
+Signaling by LTK,CNV,layer_2,0.6441947,ABC-family proteins mediated transport,CNV,layer_3,0.6441947
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Digestion and absorption,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Developmental Biology,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Chromatin organization,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Transport of small molecules,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Hemostasis,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Sensory Perception,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Cell Cycle,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Protein localization,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Reproduction,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Cell-Cell communication,CNV,layer_4,0.6441749
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,Mitochondrial calcium ion transport,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,RNA Polymerase III Transcription,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,Cilium Assembly,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,Mitochondrial biogenesis,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,SLC-mediated transmembrane transport,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,MAPK family signaling cascades,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,Nonsense-Mediated Decay (NMD),CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,Base Excision Repair,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,ABC-family proteins mediated transport,CNV,layer_3,0.62964386
+ER to Golgi Anterograde Transport,CNV,layer_2,0.62964386,"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.62964386
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Reproduction,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Cell-Cell communication,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Chromatin organization,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Transport of small molecules,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Developmental Biology,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Digestion and absorption,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Sensory Perception,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Hemostasis,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Cell Cycle,CNV,layer_4,0.4422543
+MAPK family signaling cascades,CNV,layer_3,0.4422543,Protein localization,CNV,layer_4,0.4422543
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Reproduction,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Cell-Cell communication,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Transport of small molecules,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Chromatin organization,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Sensory Perception,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Hemostasis,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Digestion and absorption,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Developmental Biology,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Protein localization,CNV,layer_4,0.39616957
+Mitochondrial biogenesis,CNV,layer_3,0.39616957,Cell Cycle,CNV,layer_4,0.39616957
+Cilium Assembly,CNV,layer_3,0.367095,Sensory Perception,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Hemostasis,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Developmental Biology,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Digestion and absorption,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Chromatin organization,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Transport of small molecules,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Reproduction,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Cell-Cell communication,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Protein localization,CNV,layer_4,0.367095
+Cilium Assembly,CNV,layer_3,0.367095,Cell Cycle,CNV,layer_4,0.367095
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Cell Cycle,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Protein localization,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Chromatin organization,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Transport of small molecules,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Hemostasis,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Sensory Perception,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Digestion and absorption,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Developmental Biology,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Reproduction,CNV,layer_4,0.29342607
+"Plasma lipoprotein assembly, remodeling, and clearance",CNV,layer_3,0.29342607,Cell-Cell communication,CNV,layer_4,0.29342607
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Transport of small molecules,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Chromatin organization,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Developmental Biology,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Digestion and absorption,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Cell Cycle,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Protein localization,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Sensory Perception,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Hemostasis,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Reproduction,CNV,layer_4,0.24848773
+ABC-family proteins mediated transport,CNV,layer_3,0.24848773,Cell-Cell communication,CNV,layer_4,0.24848773

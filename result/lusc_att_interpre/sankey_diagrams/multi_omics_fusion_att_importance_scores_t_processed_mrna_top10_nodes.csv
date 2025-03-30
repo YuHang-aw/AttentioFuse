@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+mrna_layer_1_11,Synthesis of dolichyl-phosphate mannose,layer_1,mrna,3.3368754
+mrna_layer_2_132,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",layer_2,mrna,2.3676603
+mrna_layer_1_116,Class I peroxisomal membrane protein import,layer_1,mrna,2.1277492
+mrna_layer_3_51,Mitochondrial calcium ion transport,layer_3,mrna,1.575412
+mrna_layer_1_230,AKT phosphorylates targets in the cytosol,layer_1,mrna,1.4342505
+mrna_layer_2_7,Formation of the posterior neural plate,layer_2,mrna,1.3774551
+mrna_layer_2_70,ChREBP activates metabolic gene expression,layer_2,mrna,1.3654375
+mrna_layer_1_409,"Synthesis of IP2, IP, and Ins in the cytosol",layer_1,mrna,1.2809865
+mrna_layer_1_59,Inflammasomes,layer_1,mrna,1.1818775
+mrna_layer_1_220,TRAF6 mediated IRF7 activation,layer_1,mrna,1.1621664
+mrna_layer_1_233,PTEN Regulation,layer_1,mrna,1.1542865
+mrna_layer_1_229,Chromatin modifications during the maternal to zygotic transition (MZT),layer_1,mrna,1.1418636
+mrna_layer_1_619,Protein methylation,layer_1,mrna,1.1113381
+mrna_layer_1_411,Activation of the pre-replicative complex,layer_1,mrna,1.1042831
+mrna_layer_2_231,Lysosomal oligosaccharide catabolism,layer_2,mrna,1.1038301
+mrna_layer_4_8,Cell Cycle,layer_4,mrna,1.0024203
+mrna_input_8774,TALDO1,input,mrna,0.8955433
+mrna_input_973,CA12,input,mrna,0.8830236
+mrna_input_4475,KRT78,input,mrna,0.87917686
+mrna_input_3622,HIC1,input,mrna,0.8744218
+mrna_input_265,AKR1C1,input,mrna,0.8739628
+mrna_input_7913,SERPINB3,input,mrna,0.8730733
+mrna_input_3456,GTF2H2,input,mrna,0.86798596
+mrna_input_787,BAIAP2L2,input,mrna,0.86657506
+mrna_input_1309,CDKN2A,input,mrna,0.8646826
+mrna_input_1968,CYP4F3,input,mrna,0.86158043
+mrna_layer_2_125,Hedgehog 'off' state,layer_2,mrna,0.84003025
+mrna_layer_2_37,SLC transporter disorders,layer_2,mrna,0.7437031
+mrna_layer_2_202,Triglyceride metabolism,layer_2,mrna,0.70806897
+mrna_layer_3_87,Gastrulation,layer_3,mrna,0.69819427
+mrna_layer_2_147,Neurotransmitter uptake and metabolism In glial cells,layer_2,mrna,0.69347525
+mrna_layer_2_233,Blood group systems biosynthesis,layer_2,mrna,0.6778494
+mrna_layer_3_79,Activation of HOX genes during differentiation,layer_3,mrna,0.670486
+mrna_layer_3_17,mRNA Editing,layer_3,mrna,0.6230577
+mrna_layer_3_80,LGI-ADAM interactions,layer_3,mrna,0.62016845
+mrna_layer_3_59,"Cell Cycle, Mitotic",layer_3,mrna,0.61959845
+mrna_layer_2_130,LGI-ADAM interactions,layer_2,mrna,0.58329314
+mrna_layer_3_50,Miscellaneous transport and binding events,layer_3,mrna,0.36388147
+mrna_layer_3_102,Post-translational protein modification,layer_3,mrna,0.16209365
+mrna_layer_3_28,Dissolution of Fibrin Clot,layer_3,mrna,0.1503007
+mrna_layer_3_100,Protein repair,layer_3,mrna,0.1468942
+mrna_layer_4_18,Vesicle-mediated transport,layer_4,mrna,0.09149903
+mrna_layer_4_17,Programmed Cell Death,layer_4,mrna,0.06719565
+mrna_layer_4_6,Cell-Cell communication,layer_4,mrna,0.042812493
+mrna_layer_4_24,Digestion and absorption,layer_4,mrna,0.019625762
+mrna_layer_4_15,Circadian Clock,layer_4,mrna,0.008916438
+mrna_layer_4_0,Hemostasis,layer_4,mrna,0.008052447
+mrna_layer_4_26,Autophagy,layer_4,mrna,0.004363414
+mrna_layer_4_2,Developmental Biology,layer_4,mrna,0.0033482308
+mrna_layer_4_10,Immune System,layer_4,mrna,0.0032891082

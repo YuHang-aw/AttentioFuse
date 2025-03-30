@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Protein repair,SNV,layer_1,7.898846,Zygotic genome activation (ZGA),SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Protein repair,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,ChREBP activates metabolic gene expression,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Regulation of insulin secretion,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Signaling by Rho GTPases,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Rap1 signalling,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Protein ubiquitination,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,7.898846
+Protein repair,SNV,layer_2,7.472781,Reversible hydration of carbon dioxide,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Metabolism of vitamins and cofactors,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Nucleotide Excision Repair,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Peroxisomal protein import,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,DNA Replication Pre-Initiation,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Nonsense-Mediated Decay (NMD),SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Activation of HOX genes during differentiation,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Transcriptional regulation of granulopoiesis,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Platelet homeostasis,SNV,layer_3,7.472781
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Transcriptional regulation of granulopoiesis,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Activation of HOX genes during differentiation,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Platelet homeostasis,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Reversible hydration of carbon dioxide,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Metabolism of vitamins and cofactors,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Nucleotide Excision Repair,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Peroxisomal protein import,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,DNA Replication Pre-Initiation,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Nonsense-Mediated Decay (NMD),SNV,layer_3,2.041478
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Zygotic genome activation (ZGA),SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Protein repair,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Protein ubiquitination,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,ChREBP activates metabolic gene expression,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Rap1 signalling,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Signaling by Rho GTPases,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Regulation of insulin secretion,SNV,layer_2,1.9070525
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Organelle biogenesis and maintenance,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Cell Cycle,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Metabolism of proteins,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Neuronal System,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Muscle contraction,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Transport of small molecules,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Digestion and absorption,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Metabolism of RNA,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Signal Transduction,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Extracellular matrix organization,SNV,layer_4,1.9016198
+Platelet homeostasis,SNV,layer_3,1.1834747,Digestion and absorption,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Metabolism of RNA,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Transport of small molecules,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Muscle contraction,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Metabolism of proteins,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Neuronal System,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Cell Cycle,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Organelle biogenesis and maintenance,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Extracellular matrix organization,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Signal Transduction,SNV,layer_4,1.1834747
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,ChREBP activates metabolic gene expression,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Zygotic genome activation (ZGA),SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Protein repair,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Signaling by Rho GTPases,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Regulation of insulin secretion,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Protein ubiquitination,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Rap1 signalling,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.1485258
+HSPA5,SNV,input,1.0661184,Retinoid metabolism and transport,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,RET signaling,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Protein repair,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,NCAM signaling for neurite out-growth,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,MDK and PTN in ALK signaling,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,ChREBP activates metabolic gene expression,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Class I peroxisomal membrane protein import,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Reelin signalling pathway,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Unwinding of DNA,SNV,layer_1,1.0661184
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,ChREBP activates metabolic gene expression,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Zygotic genome activation (ZGA),SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Protein repair,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Protein ubiquitination,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Signaling by Rho GTPases,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Regulation of insulin secretion,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Rap1 signalling,SNV,layer_2,1.0613879
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Protein ubiquitination,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,ChREBP activates metabolic gene expression,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Protein repair,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Zygotic genome activation (ZGA),SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Regulation of insulin secretion,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Signaling by Rho GTPases,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Rap1 signalling,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.0519735
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Protein ubiquitination,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Zygotic genome activation (ZGA),SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Protein repair,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Rap1 signalling,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Regulation of insulin secretion,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,Signaling by Rho GTPases,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,ChREBP activates metabolic gene expression,SNV,layer_2,1.0056021
+Class I peroxisomal membrane protein import,SNV,layer_1,1.0056021,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.0056021
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Protein ubiquitination,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Regulation of insulin secretion,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Signaling by Rho GTPases,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Rap1 signalling,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Protein repair,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,Zygotic genome activation (ZGA),SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.91765904
+Retinoid metabolism and transport,SNV,layer_1,0.91765904,ChREBP activates metabolic gene expression,SNV,layer_2,0.91765904
+RET signaling,SNV,layer_1,0.85357684,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Rap1 signalling,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Signaling by Rho GTPases,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Regulation of insulin secretion,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Protein ubiquitination,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Protein repair,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,Zygotic genome activation (ZGA),SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.85357684
+RET signaling,SNV,layer_1,0.85357684,ChREBP activates metabolic gene expression,SNV,layer_2,0.85357684
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Metabolism of vitamins and cofactors,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Reversible hydration of carbon dioxide,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Nucleotide Excision Repair,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Peroxisomal protein import,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Platelet homeostasis,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Activation of HOX genes during differentiation,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,DNA Replication Pre-Initiation,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.8264431
+TTN,SNV,input,0.8250226,MDK and PTN in ALK signaling,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,ChREBP activates metabolic gene expression,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Protein repair,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,NCAM signaling for neurite out-growth,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Retinoid metabolism and transport,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,RET signaling,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Class I peroxisomal membrane protein import,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Unwinding of DNA,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Reelin signalling pathway,SNV,layer_1,0.8250226
+MUC16,SNV,input,0.80891997,Unwinding of DNA,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Reelin signalling pathway,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,RET signaling,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Retinoid metabolism and transport,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,MDK and PTN in ALK signaling,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,ChREBP activates metabolic gene expression,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Protein repair,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,NCAM signaling for neurite out-growth,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Class I peroxisomal membrane protein import,SNV,layer_1,0.80891997
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Platelet homeostasis,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Metabolism of vitamins and cofactors,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Reversible hydration of carbon dioxide,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,DNA Replication Pre-Initiation,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Peroxisomal protein import,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Nucleotide Excision Repair,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Activation of HOX genes during differentiation,SNV,layer_3,0.8020207
+RYR2,SNV,input,0.79244906,RET signaling,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Retinoid metabolism and transport,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Reelin signalling pathway,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Unwinding of DNA,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,MDK and PTN in ALK signaling,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,ChREBP activates metabolic gene expression,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Class I peroxisomal membrane protein import,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Protein repair,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,NCAM signaling for neurite out-growth,SNV,layer_1,0.79244906
+Reelin signalling pathway,SNV,layer_1,0.787492,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,ChREBP activates metabolic gene expression,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Protein repair,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Zygotic genome activation (ZGA),SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Protein ubiquitination,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Regulation of insulin secretion,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Signaling by Rho GTPases,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Rap1 signalling,SNV,layer_2,0.787492
+Reelin signalling pathway,SNV,layer_1,0.787492,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.787492
+SYNE1,SNV,input,0.7708104,Reelin signalling pathway,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Unwinding of DNA,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,NCAM signaling for neurite out-growth,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Protein repair,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Class I peroxisomal membrane protein import,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Retinoid metabolism and transport,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,RET signaling,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,ChREBP activates metabolic gene expression,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,MDK and PTN in ALK signaling,SNV,layer_1,0.7708104
+Unwinding of DNA,SNV,layer_1,0.76529324,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,ChREBP activates metabolic gene expression,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Rap1 signalling,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Signaling by Rho GTPases,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Regulation of insulin secretion,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Protein repair,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Zygotic genome activation (ZGA),SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Protein ubiquitination,SNV,layer_2,0.76529324
+Unwinding of DNA,SNV,layer_1,0.76529324,Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.76529324
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Metabolism of vitamins and cofactors,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Reversible hydration of carbon dioxide,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Platelet homeostasis,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Activation of HOX genes during differentiation,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,DNA Replication Pre-Initiation,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Nucleotide Excision Repair,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Peroxisomal protein import,SNV,layer_3,0.76343024
+Rap1 signalling,SNV,layer_2,0.74124694,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,DNA Replication Pre-Initiation,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Peroxisomal protein import,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Nucleotide Excision Repair,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Reversible hydration of carbon dioxide,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Metabolism of vitamins and cofactors,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Activation of HOX genes during differentiation,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Platelet homeostasis,SNV,layer_3,0.74124694
+Rap1 signalling,SNV,layer_2,0.74124694,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.74124694
+HMGB2,SNV,input,0.73757523,Reelin signalling pathway,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,Unwinding of DNA,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,Protein repair,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,NCAM signaling for neurite out-growth,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,Retinoid metabolism and transport,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,RET signaling,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,RET signaling,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Retinoid metabolism and transport,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Class I peroxisomal membrane protein import,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Reelin signalling pathway,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Unwinding of DNA,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,NCAM signaling for neurite out-growth,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,Protein repair,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,MDK and PTN in ALK signaling,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,ChREBP activates metabolic gene expression,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,MDK and PTN in ALK signaling,SNV,layer_1,0.73757523
+TTLL12,SNV,input,0.73757523,ChREBP activates metabolic gene expression,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.73757523
+HMGB2,SNV,input,0.73757523,Class I peroxisomal membrane protein import,SNV,layer_1,0.73757523
+SSTR2,SNV,input,0.6871416,Unwinding of DNA,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,Reelin signalling pathway,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,ChREBP activates metabolic gene expression,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,MDK and PTN in ALK signaling,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,NCAM signaling for neurite out-growth,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,Protein repair,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,Class I peroxisomal membrane protein import,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,RET signaling,SNV,layer_1,0.6871416
+SSTR2,SNV,input,0.6871416,Retinoid metabolism and transport,SNV,layer_1,0.6871416
+TP53,SNV,input,0.6809912,Retinoid metabolism and transport,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,RET signaling,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,Reelin signalling pathway,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,Unwinding of DNA,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,ChREBP activates metabolic gene expression,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,MDK and PTN in ALK signaling,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,NCAM signaling for neurite out-growth,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,Protein repair,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,Class I peroxisomal membrane protein import,SNV,layer_1,0.6809912
+TP53,SNV,input,0.6809912,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.6809912
+CYP2A6,SNV,input,0.66828144,ChREBP activates metabolic gene expression,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,MDK and PTN in ALK signaling,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Protein repair,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,NCAM signaling for neurite out-growth,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Retinoid metabolism and transport,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,RET signaling,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Reelin signalling pathway,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Unwinding of DNA,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.66828144
+CYP2A6,SNV,input,0.66828144,Class I peroxisomal membrane protein import,SNV,layer_1,0.66828144
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Metabolism of vitamins and cofactors,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Reversible hydration of carbon dioxide,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Nucleotide Excision Repair,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Peroxisomal protein import,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Activation of HOX genes during differentiation,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Platelet homeostasis,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,DNA Replication Pre-Initiation,SNV,layer_3,0.66118973
+Signaling by Rho GTPases,SNV,layer_2,0.66118973,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.66118973
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Signal Transduction,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Cell Cycle,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Metabolism of proteins,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Transport of small molecules,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Metabolism of RNA,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Digestion and absorption,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Organelle biogenesis and maintenance,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Neuronal System,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Extracellular matrix organization,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Muscle contraction,SNV,layer_4,0.542905
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Metabolism of RNA,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Neuronal System,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Extracellular matrix organization,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Digestion and absorption,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Metabolism of proteins,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Muscle contraction,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Organelle biogenesis and maintenance,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Cell Cycle,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Signal Transduction,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Transport of small molecules,SNV,layer_4,0.4716169
+Regulation of insulin secretion,SNV,layer_2,0.37920183,DNA Replication Pre-Initiation,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Platelet homeostasis,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Peroxisomal protein import,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Nucleotide Excision Repair,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Reversible hydration of carbon dioxide,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Metabolism of vitamins and cofactors,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Activation of HOX genes during differentiation,SNV,layer_3,0.37920183
+Regulation of insulin secretion,SNV,layer_2,0.37920183,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.37920183
+Protein ubiquitination,SNV,layer_2,0.36312467,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Platelet homeostasis,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Activation of HOX genes during differentiation,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,DNA Replication Pre-Initiation,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Metabolism of vitamins and cofactors,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Reversible hydration of carbon dioxide,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Nucleotide Excision Repair,SNV,layer_3,0.36312467
+Protein ubiquitination,SNV,layer_2,0.36312467,Peroxisomal protein import,SNV,layer_3,0.36312467
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,DNA Replication Pre-Initiation,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Reversible hydration of carbon dioxide,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Nucleotide Excision Repair,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Metabolism of vitamins and cofactors,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Activation of HOX genes during differentiation,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Platelet homeostasis,SNV,layer_3,0.334027
+Post-translational modification: synthesis of GPI-anchored proteins,SNV,layer_2,0.334027,Peroxisomal protein import,SNV,layer_3,0.334027
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Metabolism of proteins,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Muscle contraction,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Digestion and absorption,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Metabolism of RNA,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Transport of small molecules,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Organelle biogenesis and maintenance,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Cell Cycle,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Signal Transduction,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Extracellular matrix organization,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Neuronal System,SNV,layer_4,0.303492
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Neuronal System,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Metabolism of proteins,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Muscle contraction,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Transport of small molecules,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Metabolism of RNA,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Digestion and absorption,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Organelle biogenesis and maintenance,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Cell Cycle,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Extracellular matrix organization,SNV,layer_4,0.19175602
+Reversible hydration of carbon dioxide,SNV,layer_3,0.19175602,Signal Transduction,SNV,layer_4,0.19175602
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Neuronal System,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Metabolism of proteins,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Signal Transduction,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Extracellular matrix organization,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Cell Cycle,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Organelle biogenesis and maintenance,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Muscle contraction,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Transport of small molecules,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Digestion and absorption,SNV,layer_4,0.17704354
+Nucleotide Excision Repair,SNV,layer_3,0.17704354,Metabolism of RNA,SNV,layer_4,0.17704354
+Peroxisomal protein import,SNV,layer_3,0.13624287,Muscle contraction,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Transport of small molecules,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Metabolism of proteins,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Neuronal System,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Digestion and absorption,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Metabolism of RNA,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Organelle biogenesis and maintenance,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Cell Cycle,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Extracellular matrix organization,SNV,layer_4,0.13624287
+Peroxisomal protein import,SNV,layer_3,0.13624287,Signal Transduction,SNV,layer_4,0.13624287
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Organelle biogenesis and maintenance,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Cell Cycle,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Signal Transduction,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Extracellular matrix organization,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Neuronal System,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Metabolism of proteins,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Digestion and absorption,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Metabolism of RNA,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Transport of small molecules,SNV,layer_4,0.113371484
+DNA Replication Pre-Initiation,SNV,layer_3,0.113371484,Muscle contraction,SNV,layer_4,0.113371484
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Metabolism of RNA,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Digestion and absorption,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Organelle biogenesis and maintenance,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Cell Cycle,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Signal Transduction,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Extracellular matrix organization,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Neuronal System,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Metabolism of proteins,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Muscle contraction,SNV,layer_4,0.11107448
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.11107448,Transport of small molecules,SNV,layer_4,0.11107448

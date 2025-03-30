@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Lysosomal oligosaccharide catabolism,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Hedgehog 'off' state,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,SLC transporter disorders,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Triglyceride metabolism,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,LGI-ADAM interactions,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,ChREBP activates metabolic gene expression,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Blood group systems biosynthesis,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Formation of the posterior neural plate,mrna,layer_2,3.3368754
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Dissolution of Fibrin Clot,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Gastrulation,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Protein repair,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Activation of HOX genes during differentiation,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Mitochondrial calcium ion transport,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Miscellaneous transport and binding events,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,LGI-ADAM interactions,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,"Cell Cycle, Mitotic",mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Post-translational protein modification,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,mRNA Editing,mrna,layer_3,2.3676603
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Hedgehog 'off' state,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,LGI-ADAM interactions,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,ChREBP activates metabolic gene expression,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Formation of the posterior neural plate,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Lysosomal oligosaccharide catabolism,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Triglyceride metabolism,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Blood group systems biosynthesis,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,SLC transporter disorders,mrna,layer_2,2.1277492
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Circadian Clock,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Hemostasis,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Digestion and absorption,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Immune System,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Programmed Cell Death,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Cell-Cell communication,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Developmental Biology,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Autophagy,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Cell Cycle,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Vesicle-mediated transport,mrna,layer_4,1.575412
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Hedgehog 'off' state,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,SLC transporter disorders,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Triglyceride metabolism,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,ChREBP activates metabolic gene expression,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Formation of the posterior neural plate,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,LGI-ADAM interactions,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Blood group systems biosynthesis,mrna,layer_2,1.4342505
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Activation of HOX genes during differentiation,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,mRNA Editing,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,LGI-ADAM interactions,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,"Cell Cycle, Mitotic",mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Mitochondrial calcium ion transport,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Gastrulation,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Miscellaneous transport and binding events,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Post-translational protein modification,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Dissolution of Fibrin Clot,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Protein repair,mrna,layer_3,1.3774551
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Activation of HOX genes during differentiation,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,mRNA Editing,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Mitochondrial calcium ion transport,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Gastrulation,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Protein repair,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Dissolution of Fibrin Clot,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,LGI-ADAM interactions,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,"Cell Cycle, Mitotic",mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Post-translational protein modification,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Miscellaneous transport and binding events,mrna,layer_3,1.3654375
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,SLC transporter disorders,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Hedgehog 'off' state,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Formation of the posterior neural plate,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,ChREBP activates metabolic gene expression,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,LGI-ADAM interactions,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Blood group systems biosynthesis,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Triglyceride metabolism,mrna,layer_2,1.2809865
+Inflammasomes,mrna,layer_1,1.1818775,Hedgehog 'off' state,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,SLC transporter disorders,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Triglyceride metabolism,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,ChREBP activates metabolic gene expression,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Formation of the posterior neural plate,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Blood group systems biosynthesis,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,LGI-ADAM interactions,mrna,layer_2,1.1818775
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,LGI-ADAM interactions,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Blood group systems biosynthesis,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Formation of the posterior neural plate,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Triglyceride metabolism,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,SLC transporter disorders,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Hedgehog 'off' state,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,ChREBP activates metabolic gene expression,mrna,layer_2,1.1621664
+TRAF6 mediated IRF7 activation,mrna,layer_1,1.1621664,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1621664
+PTEN Regulation,mrna,layer_1,1.1542865,Blood group systems biosynthesis,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,LGI-ADAM interactions,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,Formation of the posterior neural plate,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,ChREBP activates metabolic gene expression,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,Triglyceride metabolism,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,SLC transporter disorders,mrna,layer_2,1.1542865
+PTEN Regulation,mrna,layer_1,1.1542865,Hedgehog 'off' state,mrna,layer_2,1.1542865
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Formation of the posterior neural plate,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,LGI-ADAM interactions,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Blood group systems biosynthesis,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Triglyceride metabolism,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,SLC transporter disorders,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Hedgehog 'off' state,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1418636
+Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,1.1418636,ChREBP activates metabolic gene expression,mrna,layer_2,1.1418636
+Protein methylation,mrna,layer_1,1.1113381,Blood group systems biosynthesis,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,LGI-ADAM interactions,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,SLC transporter disorders,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,Hedgehog 'off' state,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,Formation of the posterior neural plate,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,Triglyceride metabolism,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,ChREBP activates metabolic gene expression,mrna,layer_2,1.1113381
+Protein methylation,mrna,layer_1,1.1113381,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1113381
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Formation of the posterior neural plate,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,LGI-ADAM interactions,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Blood group systems biosynthesis,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Triglyceride metabolism,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,SLC transporter disorders,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Hedgehog 'off' state,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1042831
+Activation of the pre-replicative complex,mrna,layer_1,1.1042831,ChREBP activates metabolic gene expression,mrna,layer_2,1.1042831
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Mitochondrial calcium ion transport,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Gastrulation,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Activation of HOX genes during differentiation,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,mRNA Editing,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,"Cell Cycle, Mitotic",mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Miscellaneous transport and binding events,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Post-translational protein modification,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Dissolution of Fibrin Clot,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,LGI-ADAM interactions,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Protein repair,mrna,layer_3,1.1038301
+TALDO1,mrna,input,0.8955433,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,PTEN Regulation,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Class I peroxisomal membrane protein import,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Activation of the pre-replicative complex,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Protein methylation,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Inflammasomes,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8955433
+CA12,mrna,input,0.8830236,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Class I peroxisomal membrane protein import,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Protein methylation,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,PTEN Regulation,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Activation of the pre-replicative complex,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Inflammasomes,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8830236
+KRT78,mrna,input,0.87917686,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,TRAF6 mediated IRF7 activation,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Activation of the pre-replicative complex,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Protein methylation,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,PTEN Regulation,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Inflammasomes,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Class I peroxisomal membrane protein import,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.87917686
+HIC1,mrna,input,0.8744218,Activation of the pre-replicative complex,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Protein methylation,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Inflammasomes,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Class I peroxisomal membrane protein import,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,PTEN Regulation,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8744218
+AKR1C1,mrna,input,0.8739628,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Class I peroxisomal membrane protein import,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,PTEN Regulation,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Activation of the pre-replicative complex,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Protein methylation,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Inflammasomes,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8739628
+SERPINB3,mrna,input,0.8730733,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,Activation of the pre-replicative complex,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,PTEN Regulation,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,Inflammasomes,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,Protein methylation,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,Class I peroxisomal membrane protein import,mrna,layer_1,0.8730733
+SERPINB3,mrna,input,0.8730733,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8730733
+GTF2H2,mrna,input,0.86798596,Class I peroxisomal membrane protein import,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,Activation of the pre-replicative complex,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,Protein methylation,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,Inflammasomes,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,TRAF6 mediated IRF7 activation,mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.86798596
+GTF2H2,mrna,input,0.86798596,PTEN Regulation,mrna,layer_1,0.86798596
+BAIAP2L2,mrna,input,0.86657506,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,Activation of the pre-replicative complex,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,PTEN Regulation,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,Inflammasomes,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,Class I peroxisomal membrane protein import,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,Protein methylation,mrna,layer_1,0.86657506
+BAIAP2L2,mrna,input,0.86657506,TRAF6 mediated IRF7 activation,mrna,layer_1,0.86657506
+CDKN2A,mrna,input,0.8646826,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,TRAF6 mediated IRF7 activation,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,Activation of the pre-replicative complex,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,Protein methylation,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,PTEN Regulation,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,Class I peroxisomal membrane protein import,mrna,layer_1,0.8646826
+CDKN2A,mrna,input,0.8646826,Inflammasomes,mrna,layer_1,0.8646826
+CYP4F3,mrna,input,0.86158043,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,Class I peroxisomal membrane protein import,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,Protein methylation,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,Chromatin modifications during the maternal to zygotic transition (MZT),mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,Activation of the pre-replicative complex,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,PTEN Regulation,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,TRAF6 mediated IRF7 activation,mrna,layer_1,0.86158043
+CYP4F3,mrna,input,0.86158043,Inflammasomes,mrna,layer_1,0.86158043
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Activation of HOX genes during differentiation,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,mRNA Editing,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,LGI-ADAM interactions,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Gastrulation,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Protein repair,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Dissolution of Fibrin Clot,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Miscellaneous transport and binding events,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,"Cell Cycle, Mitotic",mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Mitochondrial calcium ion transport,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Post-translational protein modification,mrna,layer_3,0.84003025
+SLC transporter disorders,mrna,layer_2,0.7437031,Post-translational protein modification,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Protein repair,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Dissolution of Fibrin Clot,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Mitochondrial calcium ion transport,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Gastrulation,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Activation of HOX genes during differentiation,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,mRNA Editing,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,LGI-ADAM interactions,mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,"Cell Cycle, Mitotic",mrna,layer_3,0.7437031
+SLC transporter disorders,mrna,layer_2,0.7437031,Miscellaneous transport and binding events,mrna,layer_3,0.7437031
+Triglyceride metabolism,mrna,layer_2,0.70806897,"Cell Cycle, Mitotic",mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Miscellaneous transport and binding events,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Post-translational protein modification,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Activation of HOX genes during differentiation,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Gastrulation,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Mitochondrial calcium ion transport,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,mRNA Editing,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Protein repair,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,Dissolution of Fibrin Clot,mrna,layer_3,0.70806897
+Triglyceride metabolism,mrna,layer_2,0.70806897,LGI-ADAM interactions,mrna,layer_3,0.70806897
+Gastrulation,mrna,layer_3,0.69819427,Hemostasis,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Cell-Cell communication,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Vesicle-mediated transport,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Programmed Cell Death,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Developmental Biology,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Cell Cycle,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Circadian Clock,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Immune System,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Autophagy,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Digestion and absorption,mrna,layer_4,0.69819427
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,mRNA Editing,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Miscellaneous transport and binding events,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,"Cell Cycle, Mitotic",mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,LGI-ADAM interactions,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Post-translational protein modification,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Dissolution of Fibrin Clot,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Protein repair,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Mitochondrial calcium ion transport,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Gastrulation,mrna,layer_3,0.69347525
+Neurotransmitter uptake and metabolism In glial cells,mrna,layer_2,0.69347525,Activation of HOX genes during differentiation,mrna,layer_3,0.69347525
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Dissolution of Fibrin Clot,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Protein repair,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Post-translational protein modification,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Miscellaneous transport and binding events,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,"Cell Cycle, Mitotic",mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,LGI-ADAM interactions,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,mRNA Editing,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Activation of HOX genes during differentiation,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Gastrulation,mrna,layer_3,0.6778494
+Blood group systems biosynthesis,mrna,layer_2,0.6778494,Mitochondrial calcium ion transport,mrna,layer_3,0.6778494
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Cell-Cell communication,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Programmed Cell Death,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Vesicle-mediated transport,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Cell Cycle,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Autophagy,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Hemostasis,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Circadian Clock,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Digestion and absorption,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Developmental Biology,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Immune System,mrna,layer_4,0.670486
+mRNA Editing,mrna,layer_3,0.6230577,Developmental Biology,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Immune System,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Hemostasis,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Autophagy,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Cell Cycle,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Vesicle-mediated transport,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Programmed Cell Death,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Cell-Cell communication,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Digestion and absorption,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Circadian Clock,mrna,layer_4,0.6230577
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Autophagy,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Hemostasis,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Digestion and absorption,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Circadian Clock,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Cell-Cell communication,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Programmed Cell Death,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Developmental Biology,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Immune System,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Cell Cycle,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Vesicle-mediated transport,mrna,layer_4,0.62016845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Cell Cycle,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Vesicle-mediated transport,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Immune System,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Developmental Biology,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Autophagy,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Hemostasis,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Circadian Clock,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Digestion and absorption,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Cell-Cell communication,mrna,layer_4,0.61959845
+"Cell Cycle, Mitotic",mrna,layer_3,0.61959845,Programmed Cell Death,mrna,layer_4,0.61959845
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Gastrulation,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Mitochondrial calcium ion transport,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Miscellaneous transport and binding events,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Post-translational protein modification,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,LGI-ADAM interactions,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,"Cell Cycle, Mitotic",mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Activation of HOX genes during differentiation,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,mRNA Editing,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Dissolution of Fibrin Clot,mrna,layer_3,0.58329314
+LGI-ADAM interactions,mrna,layer_2,0.58329314,Protein repair,mrna,layer_3,0.58329314
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Vesicle-mediated transport,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Cell Cycle,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Autophagy,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Hemostasis,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Circadian Clock,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Digestion and absorption,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Developmental Biology,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Immune System,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Programmed Cell Death,mrna,layer_4,0.36388147
+Miscellaneous transport and binding events,mrna,layer_3,0.36388147,Cell-Cell communication,mrna,layer_4,0.36388147
+Post-translational protein modification,mrna,layer_3,0.16209365,Cell-Cell communication,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Programmed Cell Death,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Immune System,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Developmental Biology,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Circadian Clock,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Digestion and absorption,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Vesicle-mediated transport,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Cell Cycle,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Hemostasis,mrna,layer_4,0.16209365
+Post-translational protein modification,mrna,layer_3,0.16209365,Autophagy,mrna,layer_4,0.16209365
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Programmed Cell Death,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Cell-Cell communication,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Cell Cycle,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Vesicle-mediated transport,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Autophagy,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Hemostasis,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Circadian Clock,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Digestion and absorption,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Developmental Biology,mrna,layer_4,0.1503007
+Dissolution of Fibrin Clot,mrna,layer_3,0.1503007,Immune System,mrna,layer_4,0.1503007
+Protein repair,mrna,layer_3,0.1468942,Cell Cycle,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Vesicle-mediated transport,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Cell-Cell communication,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Programmed Cell Death,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Digestion and absorption,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Circadian Clock,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Autophagy,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Hemostasis,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Developmental Biology,mrna,layer_4,0.1468942
+Protein repair,mrna,layer_3,0.1468942,Immune System,mrna,layer_4,0.1468942

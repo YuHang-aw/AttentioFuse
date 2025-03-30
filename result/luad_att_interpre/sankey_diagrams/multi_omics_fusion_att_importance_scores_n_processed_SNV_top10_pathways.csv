@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Digestion and absorption,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Signal Transduction,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Disease,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Extracellular matrix organization,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Reproduction,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Developmental Biology,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Cellular responses to stimuli,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Metabolism,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Vesicle-mediated transport,SNV,layer_4,8.552235
+DNA Replication Pre-Initiation,SNV,layer_3,8.552235,Transport of small molecules,SNV,layer_4,8.552235
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Phase I - Functionalization of compounds,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Common Pathway of Fibrin Clot Formation,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Signaling by VEGF,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Protein repair,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Costimulation by the CD28 family,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,O-linked glycosylation,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Transcriptional regulation by small RNAs,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Cellular Senescence,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,4.7018595
+"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,4.7018595,Cellular response to hypoxia,SNV,layer_2,4.7018595
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Metabolism of porphyrins,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Reversible hydration of carbon dioxide,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Base Excision Repair,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,DNA Replication Pre-Initiation,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Cell junction organization,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,ECM proteoglycans,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Ion channel transport,SNV,layer_3,3.9038103
+Cellular response to hypoxia,SNV,layer_2,3.9038103,Apoptosis,SNV,layer_3,3.9038103
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,O-linked glycosylation,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Transcriptional regulation by small RNAs,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Protein repair,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Costimulation by the CD28 family,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Cellular response to hypoxia,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Signaling by VEGF,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Cellular Senescence,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Phase I - Functionalization of compounds,SNV,layer_2,3.1224267
+Mitochondrial translation elongation,SNV,layer_1,3.1224267,Common Pathway of Fibrin Clot Formation,SNV,layer_2,3.1224267
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Signaling by VEGF,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,O-linked glycosylation,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Transcriptional regulation by small RNAs,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Costimulation by the CD28 family,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Protein repair,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Cellular Senescence,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Cellular response to hypoxia,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Phase I - Functionalization of compounds,SNV,layer_2,3.0693927
+Agmatine biosynthesis,SNV,layer_1,3.0693927,Common Pathway of Fibrin Clot Formation,SNV,layer_2,3.0693927
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,O-linked glycosylation,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Signaling by VEGF,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Cellular Senescence,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Cellular response to hypoxia,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Common Pathway of Fibrin Clot Formation,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Phase I - Functionalization of compounds,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Transcriptional regulation by small RNAs,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Protein repair,SNV,layer_2,2.8736591
+Regulation of ornithine decarboxylase (ODC),SNV,layer_1,2.8736591,Costimulation by the CD28 family,SNV,layer_2,2.8736591
+Cellular Senescence,SNV,layer_2,2.8264062,Cell junction organization,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Ion channel transport,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Metabolism of porphyrins,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Reversible hydration of carbon dioxide,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,DNA Replication Pre-Initiation,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Base Excision Repair,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Apoptosis,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,ECM proteoglycans,SNV,layer_3,2.8264062
+Cellular Senescence,SNV,layer_2,2.8264062,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,2.8264062
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Signaling by VEGF,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,O-linked glycosylation,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Costimulation by the CD28 family,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Protein repair,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Cellular Senescence,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Cellular response to hypoxia,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Phase I - Functionalization of compounds,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Common Pathway of Fibrin Clot Formation,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.6448452
+Dissolution of Fibrin Clot,SNV,layer_1,2.6448452,Transcriptional regulation by small RNAs,SNV,layer_2,2.6448452
+Base Excision Repair,SNV,layer_3,2.287638,Digestion and absorption,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Transport of small molecules,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Extracellular matrix organization,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Disease,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Vesicle-mediated transport,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Signal Transduction,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Metabolism,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Cellular responses to stimuli,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Developmental Biology,SNV,layer_4,2.287638
+Base Excision Repair,SNV,layer_3,2.287638,Reproduction,SNV,layer_4,2.287638
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Cellular response to hypoxia,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Cellular Senescence,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Common Pathway of Fibrin Clot Formation,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Phase I - Functionalization of compounds,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Signaling by VEGF,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,O-linked glycosylation,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Transcriptional regulation by small RNAs,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Costimulation by the CD28 family,SNV,layer_2,2.2330525
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,2.2330525,Protein repair,SNV,layer_2,2.2330525
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Reproduction,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Metabolism,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Transport of small molecules,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Digestion and absorption,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Disease,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Extracellular matrix organization,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Vesicle-mediated transport,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Signal Transduction,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Cellular responses to stimuli,SNV,layer_4,2.2248077
+Metabolism of porphyrins,SNV,layer_3,2.2248077,Developmental Biology,SNV,layer_4,2.2248077
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Common Pathway of Fibrin Clot Formation,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Phase I - Functionalization of compounds,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Signaling by VEGF,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,O-linked glycosylation,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Protein repair,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Costimulation by the CD28 family,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Cellular Senescence,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Cellular response to hypoxia,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Transcriptional regulation by small RNAs,SNV,layer_2,2.153466
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,2.153466,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,2.153466
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Reproduction,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Transport of small molecules,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Cellular responses to stimuli,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Developmental Biology,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Metabolism,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Digestion and absorption,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Vesicle-mediated transport,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Signal Transduction,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Disease,SNV,layer_4,2.129928
+Reversible hydration of carbon dioxide,SNV,layer_3,2.129928,Extracellular matrix organization,SNV,layer_4,2.129928
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Transcriptional regulation by small RNAs,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,O-linked glycosylation,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Signaling by VEGF,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Phase I - Functionalization of compounds,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Protein repair,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Costimulation by the CD28 family,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Cellular response to hypoxia,SNV,layer_2,1.9314581
+ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,1.9314581,Cellular Senescence,SNV,layer_2,1.9314581
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Transcriptional regulation by small RNAs,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Costimulation by the CD28 family,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Protein repair,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Cellular response to hypoxia,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Cellular Senescence,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,O-linked glycosylation,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Signaling by VEGF,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.87736
+Transcriptional Regulation by NPAS4,SNV,layer_1,1.87736,Phase I - Functionalization of compounds,SNV,layer_2,1.87736
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Phase I - Functionalization of compounds,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Signaling by VEGF,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,O-linked glycosylation,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Transcriptional regulation by small RNAs,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Costimulation by the CD28 family,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Protein repair,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Cellular Senescence,SNV,layer_2,1.8404098
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,1.8404098,Cellular response to hypoxia,SNV,layer_2,1.8404098
+Cell junction organization,SNV,layer_3,1.7747111,Cellular responses to stimuli,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Metabolism,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Disease,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Extracellular matrix organization,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Developmental Biology,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Reproduction,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Digestion and absorption,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Transport of small molecules,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Vesicle-mediated transport,SNV,layer_4,1.7747111
+Cell junction organization,SNV,layer_3,1.7747111,Signal Transduction,SNV,layer_4,1.7747111
+Protein repair,SNV,layer_2,1.7100661,Apoptosis,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Cell junction organization,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Ion channel transport,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,ECM proteoglycans,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,DNA Replication Pre-Initiation,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Base Excision Repair,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Metabolism of porphyrins,SNV,layer_3,1.7100661
+Protein repair,SNV,layer_2,1.7100661,Reversible hydration of carbon dioxide,SNV,layer_3,1.7100661
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Apoptosis,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,DNA Replication Pre-Initiation,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Base Excision Repair,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,ECM proteoglycans,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Cell junction organization,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Ion channel transport,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Metabolism of porphyrins,SNV,layer_3,1.6723665
+Costimulation by the CD28 family,SNV,layer_2,1.6723665,Reversible hydration of carbon dioxide,SNV,layer_3,1.6723665
+Ion channel transport,SNV,layer_3,1.5277139,Signal Transduction,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Vesicle-mediated transport,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Metabolism,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Cellular responses to stimuli,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Developmental Biology,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Reproduction,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Transport of small molecules,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Digestion and absorption,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Disease,SNV,layer_4,1.5277139
+Ion channel transport,SNV,layer_3,1.5277139,Extracellular matrix organization,SNV,layer_4,1.5277139
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Ion channel transport,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Cell junction organization,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Base Excision Repair,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,DNA Replication Pre-Initiation,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Reversible hydration of carbon dioxide,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Metabolism of porphyrins,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,ECM proteoglycans,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Apoptosis,SNV,layer_3,1.5027369
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_2,1.5027369,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.5027369
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Reversible hydration of carbon dioxide,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Metabolism of porphyrins,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,DNA Replication Pre-Initiation,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Base Excision Repair,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Cell junction organization,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Ion channel transport,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Apoptosis,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,ECM proteoglycans,SNV,layer_3,1.4516683
+Transcriptional regulation by small RNAs,SNV,layer_2,1.4516683,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.4516683
+O-linked glycosylation,SNV,layer_2,1.3597305,DNA Replication Pre-Initiation,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Base Excision Repair,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Reversible hydration of carbon dioxide,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Metabolism of porphyrins,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Cell junction organization,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Ion channel transport,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Apoptosis,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,ECM proteoglycans,SNV,layer_3,1.3597305
+O-linked glycosylation,SNV,layer_2,1.3597305,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.3597305
+Signaling by VEGF,SNV,layer_2,1.3266171,Cell junction organization,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Ion channel transport,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Apoptosis,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,DNA Replication Pre-Initiation,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Base Excision Repair,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Metabolism of porphyrins,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Reversible hydration of carbon dioxide,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,ECM proteoglycans,SNV,layer_3,1.3266171
+Signaling by VEGF,SNV,layer_2,1.3266171,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.3266171
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,ECM proteoglycans,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Apoptosis,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,DNA Replication Pre-Initiation,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Base Excision Repair,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Metabolism of porphyrins,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Reversible hydration of carbon dioxide,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Cell junction organization,SNV,layer_3,1.2680371
+Phase I - Functionalization of compounds,SNV,layer_2,1.2680371,Ion channel transport,SNV,layer_3,1.2680371
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,ECM proteoglycans,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,DNA Replication Pre-Initiation,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Base Excision Repair,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Cell junction organization,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Ion channel transport,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Apoptosis,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Reversible hydration of carbon dioxide,SNV,layer_3,1.254468
+Common Pathway of Fibrin Clot Formation,SNV,layer_2,1.254468,Metabolism of porphyrins,SNV,layer_3,1.254468
+TP53,SNV,input,0.9093888,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Mitochondrial translation elongation,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Transcriptional Regulation by NPAS4,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Agmatine biosynthesis,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Dissolution of Fibrin Clot,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.9093888
+TP53,SNV,input,0.9093888,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.9093888
+TTN,SNV,input,0.9017182,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Agmatine biosynthesis,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Mitochondrial translation elongation,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Transcriptional Regulation by NPAS4,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.9017182
+TTN,SNV,input,0.9017182,Dissolution of Fibrin Clot,SNV,layer_1,0.9017182
+MUC16,SNV,input,0.87839246,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Transcriptional Regulation by NPAS4,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Mitochondrial translation elongation,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Dissolution of Fibrin Clot,SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.87839246
+MUC16,SNV,input,0.87839246,Agmatine biosynthesis,SNV,layer_1,0.87839246
+RYR2,SNV,input,0.8547991,Mitochondrial translation elongation,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Dissolution of Fibrin Clot,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Transcriptional Regulation by NPAS4,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,Agmatine biosynthesis,SNV,layer_1,0.8547991
+RYR2,SNV,input,0.8547991,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.8547991
+Apoptosis,SNV,layer_3,0.82667017,Metabolism,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Vesicle-mediated transport,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Digestion and absorption,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Reproduction,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Cellular responses to stimuli,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Developmental Biology,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Transport of small molecules,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Extracellular matrix organization,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Disease,SNV,layer_4,0.82667017
+Apoptosis,SNV,layer_3,0.82667017,Signal Transduction,SNV,layer_4,0.82667017
+SPTA1,SNV,input,0.77065295,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Mitochondrial translation elongation,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Agmatine biosynthesis,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Dissolution of Fibrin Clot,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.77065295
+SPTA1,SNV,input,0.77065295,Transcriptional Regulation by NPAS4,SNV,layer_1,0.77065295
+KRAS,SNV,input,0.7652671,Transcriptional Regulation by NPAS4,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,Dissolution of Fibrin Clot,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,Agmatine biosynthesis,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,Mitochondrial translation elongation,SNV,layer_1,0.7652671
+KRAS,SNV,input,0.7652671,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.7652671
+XIRP2,SNV,input,0.75296396,Agmatine biosynthesis,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,Dissolution of Fibrin Clot,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,Mitochondrial translation elongation,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,Transcriptional Regulation by NPAS4,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.75296396
+XIRP2,SNV,input,0.75296396,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.75296396
+FLG,SNV,input,0.74006325,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Mitochondrial translation elongation,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Dissolution of Fibrin Clot,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Agmatine biosynthesis,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Transcriptional Regulation by NPAS4,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.74006325
+FLG,SNV,input,0.74006325,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.74006325
+COL11A1,SNV,input,0.7073909,Transcriptional Regulation by NPAS4,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,Agmatine biosynthesis,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,Mitochondrial translation elongation,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,Dissolution of Fibrin Clot,SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.7073909
+COL11A1,SNV,input,0.7073909,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.7073909
+ANK2,SNV,input,0.7038414,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Agmatine biosynthesis,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Regulation of ornithine decarboxylase (ODC),SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,"Cell death signalling via NRAGE, NRIF and NADE",SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Mitochondrial translation elongation,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,ZBP1(DAI) mediated induction of type I IFNs,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Dissolution of Fibrin Clot,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,0.7038414
+ANK2,SNV,input,0.7038414,Transcriptional Regulation by NPAS4,SNV,layer_1,0.7038414
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Developmental Biology,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Metabolism,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Digestion and absorption,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Cellular responses to stimuli,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Vesicle-mediated transport,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Reproduction,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Extracellular matrix organization,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Transport of small molecules,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Disease,SNV,layer_4,0.66011107
+Binding and Uptake of Ligands by Scavenger Receptors,SNV,layer_3,0.66011107,Signal Transduction,SNV,layer_4,0.66011107
+ECM proteoglycans,SNV,layer_3,0.65772176,Vesicle-mediated transport,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Digestion and absorption,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Cellular responses to stimuli,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Signal Transduction,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Reproduction,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Developmental Biology,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Transport of small molecules,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Disease,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Extracellular matrix organization,SNV,layer_4,0.65772176
+ECM proteoglycans,SNV,layer_3,0.65772176,Metabolism,SNV,layer_4,0.65772176
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Cellular responses to stimuli,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Developmental Biology,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Vesicle-mediated transport,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Digestion and absorption,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Transport of small molecules,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Reproduction,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Signal Transduction,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Metabolism,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Disease,SNV,layer_4,0.6386781
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.6386781,Extracellular matrix organization,SNV,layer_4,0.6386781

@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Protein methylation,mrna,layer_1,17.33926,Intrinsic Pathway for Apoptosis,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,ESR-mediated signaling,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,RNA Polymerase III Transcription Initiation,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,DNA strand elongation,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Physiological factors,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Homology Directed Repair,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Signaling by FGFR,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Formation of the posterior neural plate,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Signaling by Activin,mrna,layer_2,17.33926
+Signaling by FGFR,mrna,layer_2,10.446382,Dissolution of Fibrin Clot,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Activation of HOX genes during differentiation,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Degradation of the extracellular matrix,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Macroautophagy,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Membrane Trafficking,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Aspirin ADME,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,O2/CO2 exchange in erythrocytes,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Potassium Channels,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,LGI-ADAM interactions,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Cell surface interactions at the vascular wall,mrna,layer_3,10.446382
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Physiological factors,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Homology Directed Repair,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Signaling by FGFR,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Formation of the posterior neural plate,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Signaling by Activin,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,ESR-mediated signaling,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Intrinsic Pathway for Apoptosis,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,RNA Polymerase III Transcription Initiation,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,DNA strand elongation,mrna,layer_2,7.6033797
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Homology Directed Repair,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Physiological factors,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Intrinsic Pathway for Apoptosis,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,ESR-mediated signaling,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Signaling by Activin,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,DNA strand elongation,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,RNA Polymerase III Transcription Initiation,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Formation of the posterior neural plate,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Signaling by FGFR,mrna,layer_2,7.5466514
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Membrane Trafficking,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Aspirin ADME,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Dissolution of Fibrin Clot,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Activation of HOX genes during differentiation,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,O2/CO2 exchange in erythrocytes,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Potassium Channels,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,LGI-ADAM interactions,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Cell surface interactions at the vascular wall,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Macroautophagy,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Degradation of the extracellular matrix,mrna,layer_3,5.376211
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Signaling by Activin,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Formation of the posterior neural plate,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Signaling by FGFR,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Physiological factors,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Homology Directed Repair,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Intrinsic Pathway for Apoptosis,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,ESR-mediated signaling,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,RNA Polymerase III Transcription Initiation,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,DNA strand elongation,mrna,layer_2,5.0779867
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Intrinsic Pathway for Apoptosis,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,ESR-mediated signaling,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Homology Directed Repair,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Physiological factors,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Signaling by FGFR,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Formation of the posterior neural plate,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Signaling by Activin,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,RNA Polymerase III Transcription Initiation,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,DNA strand elongation,mrna,layer_2,4.404348
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Potassium Channels,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,O2/CO2 exchange in erythrocytes,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Aspirin ADME,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Membrane Trafficking,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Cell surface interactions at the vascular wall,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,LGI-ADAM interactions,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Macroautophagy,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Degradation of the extracellular matrix,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Activation of HOX genes during differentiation,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Dissolution of Fibrin Clot,mrna,layer_3,4.2382746
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Signaling by FGFR,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Formation of the posterior neural plate,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Signaling by Activin,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,DNA strand elongation,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,RNA Polymerase III Transcription Initiation,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Physiological factors,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Homology Directed Repair,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,ESR-mediated signaling,mrna,layer_2,4.164036
+Dissolution of Fibrin Clot,mrna,layer_1,4.164036,Intrinsic Pathway for Apoptosis,mrna,layer_2,4.164036
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,ESR-mediated signaling,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Intrinsic Pathway for Apoptosis,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Signaling by FGFR,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Formation of the posterior neural plate,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Signaling by Activin,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,RNA Polymerase III Transcription Initiation,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,DNA strand elongation,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Physiological factors,mrna,layer_2,3.8938117
+Signaling by NTRK3 (TRKC),mrna,layer_1,3.8938117,Homology Directed Repair,mrna,layer_2,3.8938117
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,ESR-mediated signaling,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Intrinsic Pathway for Apoptosis,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Signaling by FGFR,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Formation of the posterior neural plate,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Signaling by Activin,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Physiological factors,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,Homology Directed Repair,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,DNA strand elongation,mrna,layer_2,3.8518105
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.8518105,RNA Polymerase III Transcription Initiation,mrna,layer_2,3.8518105
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Signaling by Activin,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,RNA Polymerase III Transcription Initiation,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,DNA strand elongation,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,ESR-mediated signaling,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Intrinsic Pathway for Apoptosis,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Formation of the posterior neural plate,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Signaling by FGFR,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Homology Directed Repair,mrna,layer_2,3.527152
+Attachment of GPI anchor to uPAR,mrna,layer_1,3.527152,Physiological factors,mrna,layer_2,3.527152
+Signaling by Activin,mrna,layer_2,3.3899,Macroautophagy,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Degradation of the extracellular matrix,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Membrane Trafficking,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Aspirin ADME,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Potassium Channels,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,O2/CO2 exchange in erythrocytes,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Dissolution of Fibrin Clot,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Activation of HOX genes during differentiation,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,LGI-ADAM interactions,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Cell surface interactions at the vascular wall,mrna,layer_3,3.3899
+ESR-mediated signaling,mrna,layer_2,3.3148167,Activation of HOX genes during differentiation,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Dissolution of Fibrin Clot,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Macroautophagy,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Degradation of the extracellular matrix,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,LGI-ADAM interactions,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Cell surface interactions at the vascular wall,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,O2/CO2 exchange in erythrocytes,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Potassium Channels,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Aspirin ADME,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Membrane Trafficking,mrna,layer_3,3.3148167
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Signaling by Activin,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,ESR-mediated signaling,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Intrinsic Pathway for Apoptosis,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Physiological factors,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Homology Directed Repair,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,DNA strand elongation,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,RNA Polymerase III Transcription Initiation,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Formation of the posterior neural plate,mrna,layer_2,3.1930323
+mRNA 3'-end processing,mrna,layer_1,3.1930323,Signaling by FGFR,mrna,layer_2,3.1930323
+CTNNA2,mrna,input,3.097976,Protein methylation,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,G alpha (i) signalling events,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Activation of the pre-replicative complex,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Dissolution of Fibrin Clot,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Signaling by NTRK3 (TRKC),mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Attachment of GPI anchor to uPAR,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,mRNA 3'-end processing,mrna,layer_1,3.097976
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Vesicle-mediated transport,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,DNA Replication,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Signal Transduction,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Cell-Cell communication,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Circadian Clock,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Hemostasis,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,DNA Repair,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Developmental Biology,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Organelle biogenesis and maintenance,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Extracellular matrix organization,mrna,layer_4,2.9644632
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,O2/CO2 exchange in erythrocytes,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Potassium Channels,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Dissolution of Fibrin Clot,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Activation of HOX genes during differentiation,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Degradation of the extracellular matrix,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Macroautophagy,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,LGI-ADAM interactions,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Cell surface interactions at the vascular wall,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Aspirin ADME,mrna,layer_3,2.8820307
+Intrinsic Pathway for Apoptosis,mrna,layer_2,2.8820307,Membrane Trafficking,mrna,layer_3,2.8820307
+CYP2A6,mrna,input,2.4629743,Signaling by NTRK3 (TRKC),mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,mRNA 3'-end processing,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Attachment of GPI anchor to uPAR,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Activation of the pre-replicative complex,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Dissolution of Fibrin Clot,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,G alpha (i) signalling events,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Protein methylation,mrna,layer_1,2.4629743
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Activation of HOX genes during differentiation,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Dissolution of Fibrin Clot,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Macroautophagy,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Degradation of the extracellular matrix,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Cell surface interactions at the vascular wall,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,LGI-ADAM interactions,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,O2/CO2 exchange in erythrocytes,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Potassium Channels,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Aspirin ADME,mrna,layer_3,2.3900688
+RNA Polymerase III Transcription Initiation,mrna,layer_2,2.3900688,Membrane Trafficking,mrna,layer_3,2.3900688
+Macroautophagy,mrna,layer_3,2.3571992,Extracellular matrix organization,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Organelle biogenesis and maintenance,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,DNA Repair,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Developmental Biology,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,DNA Replication,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Vesicle-mediated transport,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Cell-Cell communication,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Signal Transduction,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Hemostasis,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Circadian Clock,mrna,layer_4,2.3571992
+H2AC7,mrna,input,2.2777379,Signaling by NTRK3 (TRKC),mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,mRNA 3'-end processing,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Attachment of GPI anchor to uPAR,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Protein methylation,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,G alpha (i) signalling events,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Activation of the pre-replicative complex,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Dissolution of Fibrin Clot,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.2777379
+DNA strand elongation,mrna,layer_2,2.1951582,LGI-ADAM interactions,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Cell surface interactions at the vascular wall,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Dissolution of Fibrin Clot,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Activation of HOX genes during differentiation,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Degradation of the extracellular matrix,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Macroautophagy,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Potassium Channels,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,O2/CO2 exchange in erythrocytes,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Aspirin ADME,mrna,layer_3,2.1951582
+DNA strand elongation,mrna,layer_2,2.1951582,Membrane Trafficking,mrna,layer_3,2.1951582
+CYP2A7,mrna,input,2.0104306,Protein methylation,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,G alpha (i) signalling events,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Attachment of GPI anchor to uPAR,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,mRNA 3'-end processing,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Activation of the pre-replicative complex,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Dissolution of Fibrin Clot,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Signaling by NTRK3 (TRKC),mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,2.0104306
+Homology Directed Repair,mrna,layer_2,1.9224142,Dissolution of Fibrin Clot,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Activation of HOX genes during differentiation,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Membrane Trafficking,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Aspirin ADME,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Potassium Channels,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,O2/CO2 exchange in erythrocytes,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,LGI-ADAM interactions,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Cell surface interactions at the vascular wall,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Degradation of the extracellular matrix,mrna,layer_3,1.9224142
+Homology Directed Repair,mrna,layer_2,1.9224142,Macroautophagy,mrna,layer_3,1.9224142
+Physiological factors,mrna,layer_2,1.8216596,Membrane Trafficking,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Aspirin ADME,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,LGI-ADAM interactions,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Cell surface interactions at the vascular wall,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,O2/CO2 exchange in erythrocytes,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Potassium Channels,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Activation of HOX genes during differentiation,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Dissolution of Fibrin Clot,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Degradation of the extracellular matrix,mrna,layer_3,1.8216596
+Physiological factors,mrna,layer_2,1.8216596,Macroautophagy,mrna,layer_3,1.8216596
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Vesicle-mediated transport,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,DNA Replication,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Developmental Biology,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,DNA Repair,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Signal Transduction,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Cell-Cell communication,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Hemostasis,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Circadian Clock,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Extracellular matrix organization,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Organelle biogenesis and maintenance,mrna,layer_4,1.7515416
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Vesicle-mediated transport,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,DNA Replication,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Extracellular matrix organization,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Organelle biogenesis and maintenance,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,DNA Repair,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Developmental Biology,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Signal Transduction,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Cell-Cell communication,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Circadian Clock,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Hemostasis,mrna,layer_4,1.6326652
+OR2A4,mrna,input,1.6284235,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Activation of the pre-replicative complex,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,G alpha (i) signalling events,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Protein methylation,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Signaling by NTRK3 (TRKC),mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Dissolution of Fibrin Clot,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,mRNA 3'-end processing,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Attachment of GPI anchor to uPAR,mrna,layer_1,1.6284235
+H2AC18,mrna,input,1.4894989,Signaling by NTRK3 (TRKC),mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,G alpha (i) signalling events,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Protein methylation,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Attachment of GPI anchor to uPAR,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,mRNA 3'-end processing,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Activation of the pre-replicative complex,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.4894989
+H2AC18,mrna,input,1.4894989,Dissolution of Fibrin Clot,mrna,layer_1,1.4894989
+VAMP8,mrna,input,1.482718,mRNA 3'-end processing,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Attachment of GPI anchor to uPAR,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Dissolution of Fibrin Clot,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Activation of the pre-replicative complex,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Protein methylation,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,G alpha (i) signalling events,mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.482718
+VAMP8,mrna,input,1.482718,Signaling by NTRK3 (TRKC),mrna,layer_1,1.482718
+TDRD1,mrna,input,1.4424999,Attachment of GPI anchor to uPAR,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,mRNA 3'-end processing,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Activation of the pre-replicative complex,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Signaling by NTRK3 (TRKC),mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Dissolution of Fibrin Clot,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,Protein methylation,mrna,layer_1,1.4424999
+TDRD1,mrna,input,1.4424999,G alpha (i) signalling events,mrna,layer_1,1.4424999
+KRT72,mrna,input,1.4269339,Signaling by NTRK3 (TRKC),mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Activation of the pre-replicative complex,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Protein methylation,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,G alpha (i) signalling events,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,mRNA 3'-end processing,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Attachment of GPI anchor to uPAR,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Dissolution of Fibrin Clot,mrna,layer_1,1.4269339
+KRT72,mrna,input,1.4269339,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.4269339
+PEX13,mrna,input,1.4093182,Protein methylation,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,G alpha (i) signalling events,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Activation of the pre-replicative complex,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Signaling by NTRK3 (TRKC),mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Attachment of GPI anchor to uPAR,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,mRNA 3'-end processing,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Dissolution of Fibrin Clot,mrna,layer_1,1.4093182
+PEX13,mrna,input,1.4093182,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.4093182
+Potassium Channels,mrna,layer_3,1.2492425,Cell-Cell communication,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Signal Transduction,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Hemostasis,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Circadian Clock,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Developmental Biology,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,DNA Repair,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Vesicle-mediated transport,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,DNA Replication,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Organelle biogenesis and maintenance,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Extracellular matrix organization,mrna,layer_4,1.2492425
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Hemostasis,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Circadian Clock,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Organelle biogenesis and maintenance,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Extracellular matrix organization,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Signal Transduction,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Cell-Cell communication,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Developmental Biology,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,DNA Repair,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,Vesicle-mediated transport,mrna,layer_4,1.169671
+O2/CO2 exchange in erythrocytes,mrna,layer_3,1.169671,DNA Replication,mrna,layer_4,1.169671
+Aspirin ADME,mrna,layer_3,1.1608593,Vesicle-mediated transport,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,DNA Replication,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Developmental Biology,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,DNA Repair,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Organelle biogenesis and maintenance,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Extracellular matrix organization,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Hemostasis,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Circadian Clock,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Cell-Cell communication,mrna,layer_4,1.1608593
+Aspirin ADME,mrna,layer_3,1.1608593,Signal Transduction,mrna,layer_4,1.1608593
+Membrane Trafficking,mrna,layer_3,1.1350696,Cell-Cell communication,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Signal Transduction,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Circadian Clock,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Hemostasis,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Extracellular matrix organization,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Organelle biogenesis and maintenance,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,DNA Repair,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Developmental Biology,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,DNA Replication,mrna,layer_4,1.1350696
+Membrane Trafficking,mrna,layer_3,1.1350696,Vesicle-mediated transport,mrna,layer_4,1.1350696
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Circadian Clock,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Hemostasis,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Developmental Biology,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,DNA Repair,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,DNA Replication,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Vesicle-mediated transport,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Cell-Cell communication,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Signal Transduction,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Extracellular matrix organization,mrna,layer_4,0.9528638
+Cell surface interactions at the vascular wall,mrna,layer_3,0.9528638,Organelle biogenesis and maintenance,mrna,layer_4,0.9528638
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Developmental Biology,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,DNA Repair,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Cell-Cell communication,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Signal Transduction,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,DNA Replication,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Vesicle-mediated transport,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Circadian Clock,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Hemostasis,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Organelle biogenesis and maintenance,mrna,layer_4,0.9219953
+LGI-ADAM interactions,mrna,layer_3,0.9219953,Extracellular matrix organization,mrna,layer_4,0.9219953

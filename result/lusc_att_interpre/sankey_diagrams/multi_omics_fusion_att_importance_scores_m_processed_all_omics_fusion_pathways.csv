@@ -1,0 +1,301 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Unwinding of DNA,SNV,layer_1,36.949947,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Signaling by ERBB2,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Signaling by ERBB4,SNV,layer_2,36.949947
+Nucleotide Excision Repair,SNV,layer_3,33.366055,DNA Replication,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Metabolism,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Signal Transduction,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Developmental Biology,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Digestion and absorption,SNV,layer_4,33.366055
+Signaling by ERBB4,SNV,layer_2,33.235867,Metabolism of vitamins and cofactors,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Fertilization,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Deadenylation-dependent mRNA decay,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Nucleotide Excision Repair,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,tRNA processing,SNV,layer_3,33.235867
+Protein methylation,mrna,layer_1,17.33926,Signaling by Activin,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,ESR-mediated signaling,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Signaling by FGFR,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,17.33926
+Protein methylation,mrna,layer_1,17.33926,Formation of the posterior neural plate,mrna,layer_2,17.33926
+Diseases of Mismatch Repair (MMR),CNV,layer_2,14.7090025,Surfactant metabolism,CNV,layer_3,14.7090025
+Diseases of Mismatch Repair (MMR),CNV,layer_2,14.7090025,Membrane Trafficking,CNV,layer_3,14.7090025
+Diseases of Mismatch Repair (MMR),CNV,layer_2,14.7090025,Epigenetic regulation of gene expression,CNV,layer_3,14.7090025
+Diseases of Mismatch Repair (MMR),CNV,layer_2,14.7090025,Translation,CNV,layer_3,14.7090025
+Diseases of Mismatch Repair (MMR),CNV,layer_2,14.7090025,SLC-mediated transmembrane transport,CNV,layer_3,14.7090025
+Signaling by FGFR,mrna,layer_2,10.446382,Macroautophagy,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Degradation of the extracellular matrix,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Potassium Channels,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Dissolution of Fibrin Clot,mrna,layer_3,10.446382
+Signaling by FGFR,mrna,layer_2,10.446382,Activation of HOX genes during differentiation,mrna,layer_3,10.446382
+Interleukin-12 family signaling,CNV,layer_1,10.269516,rRNA processing in the nucleus and cytosol,CNV,layer_2,10.269516
+Interleukin-12 family signaling,CNV,layer_1,10.269516,Diseases of Mismatch Repair (MMR),CNV,layer_2,10.269516
+Interleukin-12 family signaling,CNV,layer_1,10.269516,Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,10.269516
+Interleukin-12 family signaling,CNV,layer_1,10.269516,Parasitic Infection Pathways,CNV,layer_2,10.269516
+Interleukin-12 family signaling,CNV,layer_1,10.269516,Proteasome assembly,CNV,layer_2,10.269516
+G alpha (i) signalling events,mrna,layer_1,7.6033797,ESR-mediated signaling,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Signaling by Activin,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Formation of the posterior neural plate,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Signaling by FGFR,mrna,layer_2,7.6033797
+G alpha (i) signalling events,mrna,layer_1,7.6033797,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,7.6033797
+Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,7.5940056,Surfactant metabolism,CNV,layer_3,7.5940056
+Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,7.5940056,Translation,CNV,layer_3,7.5940056
+Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,7.5940056,SLC-mediated transmembrane transport,CNV,layer_3,7.5940056
+Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,7.5940056,Epigenetic regulation of gene expression,CNV,layer_3,7.5940056
+Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,7.5940056,Membrane Trafficking,CNV,layer_3,7.5940056
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Signaling by Activin,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Formation of the posterior neural plate,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,Signaling by FGFR,mrna,layer_2,7.5466514
+Activation of the pre-replicative complex,mrna,layer_1,7.5466514,ESR-mediated signaling,mrna,layer_2,7.5466514
+SSR1,SNV,input,6.9477673,Digestion of dietary lipid,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Synthesis of Ketone Bodies,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Unwinding of DNA,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,AKT phosphorylates targets in the cytosol,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Transport of organic anions,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Digestion of dietary lipid,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Synthesis of Ketone Bodies,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Unwinding of DNA,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,AKT phosphorylates targets in the cytosol,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Transport of organic anions,SNV,layer_1,6.9477673
+Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,6.911196,Proteasome assembly,CNV,layer_2,6.911196
+Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,6.911196,Diseases of Mismatch Repair (MMR),CNV,layer_2,6.911196
+Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,6.911196,Parasitic Infection Pathways,CNV,layer_2,6.911196
+Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,6.911196,rRNA processing in the nucleus and cytosol,CNV,layer_2,6.911196
+Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,6.911196,Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,6.911196
+Surfactant metabolism,CNV,layer_3,6.5695753,Reproduction,CNV,layer_4,6.5695753
+Surfactant metabolism,CNV,layer_3,6.5695753,Protein localization,CNV,layer_4,6.5695753
+Surfactant metabolism,CNV,layer_3,6.5695753,Metabolism of proteins,CNV,layer_4,6.5695753
+Surfactant metabolism,CNV,layer_3,6.5695753,Signal Transduction,CNV,layer_4,6.5695753
+Surfactant metabolism,CNV,layer_3,6.5695753,Immune System,CNV,layer_4,6.5695753
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Signaling by ERBB2,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Signaling by ERBB4,SNV,layer_2,6.1929207
+Interleukin-1 family signaling,CNV,layer_1,5.4609404,rRNA processing in the nucleus and cytosol,CNV,layer_2,5.4609404
+Interleukin-1 family signaling,CNV,layer_1,5.4609404,Diseases of Mismatch Repair (MMR),CNV,layer_2,5.4609404
+Interleukin-1 family signaling,CNV,layer_1,5.4609404,Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,5.4609404
+Interleukin-1 family signaling,CNV,layer_1,5.4609404,Parasitic Infection Pathways,CNV,layer_2,5.4609404
+Interleukin-1 family signaling,CNV,layer_1,5.4609404,Proteasome assembly,CNV,layer_2,5.4609404
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Metabolism of vitamins and cofactors,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Deadenylation-dependent mRNA decay,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Fertilization,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,tRNA processing,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Nucleotide Excision Repair,SNV,layer_3,5.4256043
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Degradation of the extracellular matrix,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Potassium Channels,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Activation of HOX genes during differentiation,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Dissolution of Fibrin Clot,mrna,layer_3,5.376211
+Formation of the posterior neural plate,mrna,layer_2,5.376211,Macroautophagy,mrna,layer_3,5.376211
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Signaling by FGFR,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Signaling by Activin,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,ESR-mediated signaling,mrna,layer_2,5.0779867
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,5.0779867,Formation of the posterior neural plate,mrna,layer_2,5.0779867
+IGLV1-51,SNV,input,4.945095,Transport of organic anions,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Unwinding of DNA,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Synthesis of Ketone Bodies,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Digestion of dietary lipid,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.945095
+Melanin biosynthesis,CNV,layer_1,4.6602955,Parasitic Infection Pathways,CNV,layer_2,4.6602955
+Melanin biosynthesis,CNV,layer_1,4.6602955,rRNA processing in the nucleus and cytosol,CNV,layer_2,4.6602955
+Melanin biosynthesis,CNV,layer_1,4.6602955,Proteasome assembly,CNV,layer_2,4.6602955
+Melanin biosynthesis,CNV,layer_1,4.6602955,Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,4.6602955
+Melanin biosynthesis,CNV,layer_1,4.6602955,Diseases of Mismatch Repair (MMR),CNV,layer_2,4.6602955
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,DNA Replication,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Digestion and absorption,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Metabolism,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Signal Transduction,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Developmental Biology,SNV,layer_4,4.4983697
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Signaling by FGFR,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Formation of the posterior neural plate,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Signaling by Activin,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,ESR-mediated signaling,mrna,layer_2,4.404348
+Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,4.404348,Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.404348
+AKT phosphorylates targets in the nucleus,CNV,layer_1,4.3144255,Proteasome assembly,CNV,layer_2,4.3144255
+AKT phosphorylates targets in the nucleus,CNV,layer_1,4.3144255,Diseases of Mismatch Repair (MMR),CNV,layer_2,4.3144255
+AKT phosphorylates targets in the nucleus,CNV,layer_1,4.3144255,rRNA processing in the nucleus and cytosol,CNV,layer_2,4.3144255
+AKT phosphorylates targets in the nucleus,CNV,layer_1,4.3144255,Parasitic Infection Pathways,CNV,layer_2,4.3144255
+AKT phosphorylates targets in the nucleus,CNV,layer_1,4.3144255,Transcriptional activation of mitochondrial biogenesis,CNV,layer_2,4.3144255
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Activation of HOX genes during differentiation,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Dissolution of Fibrin Clot,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Potassium Channels,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Macroautophagy,mrna,layer_3,4.2382746
+Transcriptional regulation of brown and beige adipocyte differentiation,mrna,layer_2,4.2382746,Degradation of the extracellular matrix,mrna,layer_3,4.2382746
+Parasitic Infection Pathways,CNV,layer_2,4.1392837,Surfactant metabolism,CNV,layer_3,4.1392837
+Parasitic Infection Pathways,CNV,layer_2,4.1392837,Membrane Trafficking,CNV,layer_3,4.1392837
+Parasitic Infection Pathways,CNV,layer_2,4.1392837,Epigenetic regulation of gene expression,CNV,layer_3,4.1392837
+Parasitic Infection Pathways,CNV,layer_2,4.1392837,Translation,CNV,layer_3,4.1392837
+Parasitic Infection Pathways,CNV,layer_2,4.1392837,SLC-mediated transmembrane transport,CNV,layer_3,4.1392837
+Transport of organic anions,SNV,layer_1,4.094295,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Signaling by ERBB2,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Signaling by ERBB4,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,4.094295
+EPOR,SNV,input,4.04126,Synthesis of Ketone Bodies,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Transport of organic anions,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Unwinding of DNA,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Digestion of dietary lipid,SNV,layer_1,4.04126
+Translation,CNV,layer_3,4.039007,Metabolism of proteins,CNV,layer_4,4.039007
+Translation,CNV,layer_3,4.039007,Immune System,CNV,layer_4,4.039007
+Translation,CNV,layer_3,4.039007,Protein localization,CNV,layer_4,4.039007
+Translation,CNV,layer_3,4.039007,Signal Transduction,CNV,layer_4,4.039007
+Translation,CNV,layer_3,4.039007,Reproduction,CNV,layer_4,4.039007
+MSRB2,SNV,input,4.0186253,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Transport of organic anions,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Unwinding of DNA,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Digestion of dietary lipid,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Synthesis of Ketone Bodies,SNV,layer_1,4.0186253
+Digestion of dietary lipid,SNV,layer_1,3.8552582,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Signaling by ERBB4,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Signaling by ERBB2,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,3.8552582
+rRNA processing in the nucleus and cytosol,CNV,layer_2,3.5616117,Surfactant metabolism,CNV,layer_3,3.5616117
+rRNA processing in the nucleus and cytosol,CNV,layer_2,3.5616117,Translation,CNV,layer_3,3.5616117
+rRNA processing in the nucleus and cytosol,CNV,layer_2,3.5616117,SLC-mediated transmembrane transport,CNV,layer_3,3.5616117
+rRNA processing in the nucleus and cytosol,CNV,layer_2,3.5616117,Membrane Trafficking,CNV,layer_3,3.5616117
+rRNA processing in the nucleus and cytosol,CNV,layer_2,3.5616117,Epigenetic regulation of gene expression,CNV,layer_3,3.5616117
+Signaling by Activin,mrna,layer_2,3.3899,Potassium Channels,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Dissolution of Fibrin Clot,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Macroautophagy,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Degradation of the extracellular matrix,mrna,layer_3,3.3899
+Signaling by Activin,mrna,layer_2,3.3899,Activation of HOX genes during differentiation,mrna,layer_3,3.3899
+ESR-mediated signaling,mrna,layer_2,3.3148167,Macroautophagy,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Degradation of the extracellular matrix,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Dissolution of Fibrin Clot,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Potassium Channels,mrna,layer_3,3.3148167
+ESR-mediated signaling,mrna,layer_2,3.3148167,Activation of HOX genes during differentiation,mrna,layer_3,3.3148167
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Fertilization,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Metabolism of vitamins and cofactors,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Nucleotide Excision Repair,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,tRNA processing,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Deadenylation-dependent mRNA decay,SNV,layer_3,3.3055232
+CTNNA2,mrna,input,3.097976,Protein methylation,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,G alpha (i) signalling events,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Activation of the pre-replicative complex,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.097976
+CTNNA2,mrna,input,3.097976,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,3.097976
+Proteasome assembly,CNV,layer_2,3.068947,Surfactant metabolism,CNV,layer_3,3.068947
+Proteasome assembly,CNV,layer_2,3.068947,Epigenetic regulation of gene expression,CNV,layer_3,3.068947
+Proteasome assembly,CNV,layer_2,3.068947,Translation,CNV,layer_3,3.068947
+Proteasome assembly,CNV,layer_2,3.068947,SLC-mediated transmembrane transport,CNV,layer_3,3.068947
+Proteasome assembly,CNV,layer_2,3.068947,Membrane Trafficking,CNV,layer_3,3.068947
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Extracellular matrix organization,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Circadian Clock,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Hemostasis,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,Organelle biogenesis and maintenance,mrna,layer_4,2.9644632
+Degradation of the extracellular matrix,mrna,layer_3,2.9644632,DNA Repair,mrna,layer_4,2.9644632
+tRNA processing,SNV,layer_3,2.7448013,Developmental Biology,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,DNA Replication,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Digestion and absorption,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Signal Transduction,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Metabolism,SNV,layer_4,2.7448013
+SLC-mediated transmembrane transport,CNV,layer_3,2.7141123,Signal Transduction,CNV,layer_4,2.7141123
+SLC-mediated transmembrane transport,CNV,layer_3,2.7141123,Metabolism of proteins,CNV,layer_4,2.7141123
+SLC-mediated transmembrane transport,CNV,layer_3,2.7141123,Reproduction,CNV,layer_4,2.7141123
+SLC-mediated transmembrane transport,CNV,layer_3,2.7141123,Protein localization,CNV,layer_4,2.7141123
+SLC-mediated transmembrane transport,CNV,layer_3,2.7141123,Immune System,CNV,layer_4,2.7141123
+CYP2A6,mrna,input,2.4629743,Activation of the pre-replicative complex,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Protein methylation,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.4629743
+CYP2A6,mrna,input,2.4629743,G alpha (i) signalling events,mrna,layer_1,2.4629743
+Membrane Trafficking,CNV,layer_3,2.4171095,Reproduction,CNV,layer_4,2.4171095
+Membrane Trafficking,CNV,layer_3,2.4171095,Signal Transduction,CNV,layer_4,2.4171095
+Membrane Trafficking,CNV,layer_3,2.4171095,Protein localization,CNV,layer_4,2.4171095
+Membrane Trafficking,CNV,layer_3,2.4171095,Metabolism of proteins,CNV,layer_4,2.4171095
+Membrane Trafficking,CNV,layer_3,2.4171095,Immune System,CNV,layer_4,2.4171095
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Signaling by ERBB4,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Signaling by ERBB2,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,2.413732
+Macroautophagy,mrna,layer_3,2.3571992,Hemostasis,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Circadian Clock,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,DNA Repair,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Organelle biogenesis and maintenance,mrna,layer_4,2.3571992
+Macroautophagy,mrna,layer_3,2.3571992,Extracellular matrix organization,mrna,layer_4,2.3571992
+Epigenetic regulation of gene expression,CNV,layer_3,2.3554091,Immune System,CNV,layer_4,2.3554091
+Epigenetic regulation of gene expression,CNV,layer_3,2.3554091,Protein localization,CNV,layer_4,2.3554091
+Epigenetic regulation of gene expression,CNV,layer_3,2.3554091,Signal Transduction,CNV,layer_4,2.3554091
+Epigenetic regulation of gene expression,CNV,layer_3,2.3554091,Reproduction,CNV,layer_4,2.3554091
+Epigenetic regulation of gene expression,CNV,layer_3,2.3554091,Metabolism of proteins,CNV,layer_4,2.3554091
+H2AC7,mrna,input,2.2777379,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Activation of the pre-replicative complex,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,G alpha (i) signalling events,mrna,layer_1,2.2777379
+H2AC7,mrna,input,2.2777379,Protein methylation,mrna,layer_1,2.2777379
+CYP2A7,mrna,input,2.0104306,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,G alpha (i) signalling events,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Protein methylation,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Activation of the pre-replicative complex,mrna,layer_1,2.0104306
+CYP2A7,mrna,input,2.0104306,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,2.0104306
+Signaling by ERBB2,SNV,layer_2,2.0053294,tRNA processing,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Deadenylation-dependent mRNA decay,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Nucleotide Excision Repair,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Metabolism of vitamins and cofactors,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Fertilization,SNV,layer_3,2.0053294
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Organelle biogenesis and maintenance,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,DNA Repair,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Hemostasis,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Circadian Clock,mrna,layer_4,1.7515416
+Dissolution of Fibrin Clot,mrna,layer_3,1.7515416,Extracellular matrix organization,mrna,layer_4,1.7515416
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Hemostasis,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Circadian Clock,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Extracellular matrix organization,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,Organelle biogenesis and maintenance,mrna,layer_4,1.6326652
+Activation of HOX genes during differentiation,mrna,layer_3,1.6326652,DNA Repair,mrna,layer_4,1.6326652
+OR2A4,mrna,input,1.6284235,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Protein methylation,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Activation of the pre-replicative complex,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,G alpha (i) signalling events,mrna,layer_1,1.6284235
+OR2A4,mrna,input,1.6284235,Response of EIF2AK4 (GCN2) to amino acid deficiency,mrna,layer_1,1.6284235
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Metabolism of vitamins and cofactors,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Nucleotide Excision Repair,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,tRNA processing,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Deadenylation-dependent mRNA decay,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Fertilization,SNV,layer_3,1.5146831
+BET1,CNV,input,1.475605,Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,1.475605
+BET1,CNV,input,1.475605,Melanin biosynthesis,CNV,layer_1,1.475605
+BET1,CNV,input,1.475605,Interleukin-1 family signaling,CNV,layer_1,1.475605
+BET1,CNV,input,1.475605,AKT phosphorylates targets in the nucleus,CNV,layer_1,1.475605
+BET1,CNV,input,1.475605,Interleukin-12 family signaling,CNV,layer_1,1.475605
+GNG11,CNV,input,1.4744023,Interleukin-12 family signaling,CNV,layer_1,1.4744023
+GNG11,CNV,input,1.4744023,Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,1.4744023
+GNG11,CNV,input,1.4744023,Interleukin-1 family signaling,CNV,layer_1,1.4744023
+GNG11,CNV,input,1.4744023,Melanin biosynthesis,CNV,layer_1,1.4744023
+GNG11,CNV,input,1.4744023,AKT phosphorylates targets in the nucleus,CNV,layer_1,1.4744023
+TRDN,CNV,input,1.4449825,Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,1.4449825
+TRDN,CNV,input,1.4449825,Interleukin-12 family signaling,CNV,layer_1,1.4449825
+TRDN,CNV,input,1.4449825,Melanin biosynthesis,CNV,layer_1,1.4449825
+TRDN,CNV,input,1.4449825,AKT phosphorylates targets in the nucleus,CNV,layer_1,1.4449825
+TRDN,CNV,input,1.4449825,Interleukin-1 family signaling,CNV,layer_1,1.4449825
+GNGT1,CNV,input,1.4162985,Interleukin-12 family signaling,CNV,layer_1,1.4162985
+GNGT1,CNV,input,1.4162985,Melanin biosynthesis,CNV,layer_1,1.4162985
+GNGT1,CNV,input,1.4162985,AKT phosphorylates targets in the nucleus,CNV,layer_1,1.4162985
+GNGT1,CNV,input,1.4162985,Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,1.4162985
+GNGT1,CNV,input,1.4162985,Interleukin-1 family signaling,CNV,layer_1,1.4162985
+Fertilization,SNV,layer_3,1.4004573,DNA Replication,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Digestion and absorption,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Developmental Biology,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Signal Transduction,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Metabolism,SNV,layer_4,1.4004573
+RBP3,CNV,input,1.3097768,Defective ABCG8 causes GBD4 and sitosterolemia,CNV,layer_1,1.3097768
+RBP3,CNV,input,1.3097768,Interleukin-12 family signaling,CNV,layer_1,1.3097768
+RBP3,CNV,input,1.3097768,AKT phosphorylates targets in the nucleus,CNV,layer_1,1.3097768
+RBP3,CNV,input,1.3097768,Melanin biosynthesis,CNV,layer_1,1.3097768
+RBP3,CNV,input,1.3097768,Interleukin-1 family signaling,CNV,layer_1,1.3097768
+Potassium Channels,mrna,layer_3,1.2492425,Circadian Clock,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Hemostasis,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,DNA Repair,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Organelle biogenesis and maintenance,mrna,layer_4,1.2492425
+Potassium Channels,mrna,layer_3,1.2492425,Extracellular matrix organization,mrna,layer_4,1.2492425
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Developmental Biology,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Signal Transduction,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Metabolism,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Digestion and absorption,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,DNA Replication,SNV,layer_4,1.0108771

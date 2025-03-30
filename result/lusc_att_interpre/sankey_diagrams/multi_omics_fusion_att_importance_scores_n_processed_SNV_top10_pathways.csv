@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+MUC16,SNV,input,0.85501844,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Mitochondrial protein degradation,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Unwinding of DNA,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,G0 and Early G1,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Phase 0 - rapid depolarisation,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,Protein repair,SNV,layer_1,0.85501844
+MUC16,SNV,input,0.85501844,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.85501844
+TTN,SNV,input,0.8526961,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Mitochondrial protein degradation,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Unwinding of DNA,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Protein repair,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,G0 and Early G1,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Phase 0 - rapid depolarisation,SNV,layer_1,0.8526961
+TTN,SNV,input,0.8526961,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.8526961
+MYD88,SNV,input,0.84696454,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,G0 and Early G1,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Phase 0 - rapid depolarisation,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Protein repair,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Mitochondrial protein degradation,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.84696454
+MYD88,SNV,input,0.84696454,Unwinding of DNA,SNV,layer_1,0.84696454
+SYNE1,SNV,input,0.8421981,Phase 0 - rapid depolarisation,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Unwinding of DNA,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,G0 and Early G1,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Protein repair,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,Mitochondrial protein degradation,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.8421981
+SYNE1,SNV,input,0.8421981,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.8421981
+RYR2,SNV,input,0.8389722,Phase 0 - rapid depolarisation,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Unwinding of DNA,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,G0 and Early G1,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Protein repair,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Mitochondrial protein degradation,SNV,layer_1,0.8389722
+RYR2,SNV,input,0.8389722,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.8389722
+TP53,SNV,input,0.7582868,Phase 0 - rapid depolarisation,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,G0 and Early G1,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Unwinding of DNA,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Protein repair,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Mitochondrial protein degradation,SNV,layer_1,0.7582868
+TP53,SNV,input,0.7582868,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.7582868
+SPTA1,SNV,input,0.72007734,G0 and Early G1,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Protein repair,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Mitochondrial protein degradation,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Unwinding of DNA,SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.72007734
+SPTA1,SNV,input,0.72007734,Phase 0 - rapid depolarisation,SNV,layer_1,0.72007734
+RYR3,SNV,input,0.710041,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Protein repair,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Phase 0 - rapid depolarisation,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,G0 and Early G1,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Mitochondrial protein degradation,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.710041
+RYR3,SNV,input,0.710041,Unwinding of DNA,SNV,layer_1,0.710041
+KMT2D,SNV,input,0.69481874,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Unwinding of DNA,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Protein repair,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,G0 and Early G1,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Phase 0 - rapid depolarisation,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.69481874
+KMT2D,SNV,input,0.69481874,Mitochondrial protein degradation,SNV,layer_1,0.69481874
+CDH10,SNV,input,0.6834633,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Phase 0 - rapid depolarisation,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Mitochondrial protein degradation,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,AKT phosphorylates targets in the cytosol,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Unwinding of DNA,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,Protein repair,SNV,layer_1,0.6834633
+CDH10,SNV,input,0.6834633,G0 and Early G1,SNV,layer_1,0.6834633
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Scavenging by Class F Receptors,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,tRNA processing in the nucleus,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Platelet calcium homeostasis,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Dissolution of Fibrin Clot,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.4948604
+NOTCH2 intracellular domain regulates transcription,SNV,layer_1,0.4948604,SLC transporter disorders,SNV,layer_2,0.4948604
+Unwinding of DNA,SNV,layer_1,0.36548373,SLC transporter disorders,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Scavenging by Class F Receptors,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Dissolution of Fibrin Clot,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,Platelet calcium homeostasis,SNV,layer_2,0.36548373
+Unwinding of DNA,SNV,layer_1,0.36548373,tRNA processing in the nucleus,SNV,layer_2,0.36548373
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,SLC transporter disorders,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Dissolution of Fibrin Clot,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Scavenging by Class F Receptors,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,tRNA processing in the nucleus,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Platelet calcium homeostasis,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.32762083
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_1,0.32762083,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.32762083
+Protein repair,SNV,layer_1,0.32001543,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Platelet calcium homeostasis,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Scavenging by Class F Receptors,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,SLC transporter disorders,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,tRNA processing in the nucleus,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Dissolution of Fibrin Clot,SNV,layer_2,0.32001543
+Protein repair,SNV,layer_1,0.32001543,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.32001543
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Chromosome Maintenance,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Degradation of the extracellular matrix,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Gene Silencing by RNA,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Integrin cell surface interactions,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Laminin interactions,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,RNA Polymerase III Transcription,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Signal regulatory protein family interactions,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Mitochondrial RNA degradation,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.28304157
+Dissolution of Fibrin Clot,SNV,layer_2,0.28304157,Protein-protein interactions at synapses,SNV,layer_3,0.28304157
+G0 and Early G1,SNV,layer_1,0.281467,Dissolution of Fibrin Clot,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,Platelet calcium homeostasis,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,tRNA processing in the nucleus,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,Scavenging by Class F Receptors,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,SLC transporter disorders,SNV,layer_2,0.281467
+G0 and Early G1,SNV,layer_1,0.281467,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.281467
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Scavenging by Class F Receptors,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Platelet calcium homeostasis,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,tRNA processing in the nucleus,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,SLC transporter disorders,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Dissolution of Fibrin Clot,SNV,layer_2,0.2576412
+Synthesis of glycosylphosphatidylinositol (GPI),SNV,layer_1,0.2576412,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.2576412
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,SLC transporter disorders,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Scavenging by Class F Receptors,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,tRNA processing in the nucleus,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Platelet calcium homeostasis,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.22095585
+Phase 0 - rapid depolarisation,SNV,layer_1,0.22095585,Dissolution of Fibrin Clot,SNV,layer_2,0.22095585
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Scavenging by Class F Receptors,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Platelet calcium homeostasis,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,tRNA processing in the nucleus,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,SLC transporter disorders,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Dissolution of Fibrin Clot,SNV,layer_2,0.21796247
+AKT phosphorylates targets in the cytosol,SNV,layer_1,0.21796247,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.21796247
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Platelet calcium homeostasis,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,tRNA processing in the nucleus,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Scavenging by Class F Receptors,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,Dissolution of Fibrin Clot,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.21277142
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.21277142,SLC transporter disorders,SNV,layer_2,0.21277142
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Dissolution of Fibrin Clot,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Intrinsic Pathway for Apoptosis,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Platelet calcium homeostasis,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,tRNA processing in the nucleus,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,Scavenging by Class F Receptors,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,MicroRNA (miRNA) biogenesis,SNV,layer_2,0.21269482
+Mitochondrial protein degradation,SNV,layer_1,0.21269482,SLC transporter disorders,SNV,layer_2,0.21269482
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Mitochondrial RNA degradation,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Signal regulatory protein family interactions,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Degradation of the extracellular matrix,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Laminin interactions,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Gene Silencing by RNA,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,RNA Polymerase III Transcription,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Chromosome Maintenance,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Integrin cell surface interactions,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Protein-protein interactions at synapses,SNV,layer_3,0.17851141
+Intrinsic Pathway for Apoptosis,SNV,layer_2,0.17851141,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.17851141
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Neuronal System,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Autophagy,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Cellular responses to stimuli,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Chromatin organization,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Hemostasis,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Developmental Biology,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Digestion and absorption,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Circadian Clock,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Metabolism of proteins,SNV,layer_4,0.17110755
+Mitochondrial RNA degradation,SNV,layer_3,0.17110755,Muscle contraction,SNV,layer_4,0.17110755
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Degradation of the extracellular matrix,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Laminin interactions,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,RNA Polymerase III Transcription,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Gene Silencing by RNA,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Chromosome Maintenance,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Integrin cell surface interactions,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Mitochondrial RNA degradation,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Signal regulatory protein family interactions,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.13082112
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,SNV,layer_2,0.13082112,Protein-protein interactions at synapses,SNV,layer_3,0.13082112
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Protein-protein interactions at synapses,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Chromosome Maintenance,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Integrin cell surface interactions,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Signal regulatory protein family interactions,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Mitochondrial RNA degradation,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Gene Silencing by RNA,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,RNA Polymerase III Transcription,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Laminin interactions,SNV,layer_3,0.12070301
+"Synthesis, secretion, and deacylation of Ghrelin",SNV,layer_2,0.12070301,Degradation of the extracellular matrix,SNV,layer_3,0.12070301
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Laminin interactions,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Degradation of the extracellular matrix,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Gene Silencing by RNA,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,RNA Polymerase III Transcription,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Signal regulatory protein family interactions,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Mitochondrial RNA degradation,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Integrin cell surface interactions,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Chromosome Maintenance,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Protein-protein interactions at synapses,SNV,layer_3,0.1206814
+Platelet calcium homeostasis,SNV,layer_2,0.1206814,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.1206814
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Mitochondrial RNA degradation,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Signal regulatory protein family interactions,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Degradation of the extracellular matrix,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Laminin interactions,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,RNA Polymerase III Transcription,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Gene Silencing by RNA,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Integrin cell surface interactions,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Chromosome Maintenance,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Protein-protein interactions at synapses,SNV,layer_3,0.120343715
+tRNA processing in the nucleus,SNV,layer_2,0.120343715,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.120343715
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Mitochondrial RNA degradation,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Signal regulatory protein family interactions,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Degradation of the extracellular matrix,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Laminin interactions,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,RNA Polymerase III Transcription,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Gene Silencing by RNA,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Protein-protein interactions at synapses,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Integrin cell surface interactions,SNV,layer_3,0.118529364
+Transcriptional regulation of white adipocyte differentiation,SNV,layer_2,0.118529364,Chromosome Maintenance,SNV,layer_3,0.118529364
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Hemostasis,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Developmental Biology,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Muscle contraction,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Metabolism of proteins,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Chromatin organization,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Cellular responses to stimuli,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Circadian Clock,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Digestion and absorption,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Autophagy,SNV,layer_4,0.11617867
+Signal regulatory protein family interactions,SNV,layer_3,0.11617867,Neuronal System,SNV,layer_4,0.11617867
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Laminin interactions,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Degradation of the extracellular matrix,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Signal regulatory protein family interactions,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Mitochondrial RNA degradation,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Chromosome Maintenance,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Integrin cell surface interactions,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Gene Silencing by RNA,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,RNA Polymerase III Transcription,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.11505743
+Scavenging by Class F Receptors,SNV,layer_2,0.11505743,Protein-protein interactions at synapses,SNV,layer_3,0.11505743
+SLC transporter disorders,SNV,layer_2,0.114243306,Protein-protein interactions at synapses,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Mitochondrial RNA degradation,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Signal regulatory protein family interactions,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Integrin cell surface interactions,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Chromosome Maintenance,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Gene Silencing by RNA,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,RNA Polymerase III Transcription,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Laminin interactions,SNV,layer_3,0.114243306
+SLC transporter disorders,SNV,layer_2,0.114243306,Degradation of the extracellular matrix,SNV,layer_3,0.114243306
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Developmental Biology,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Hemostasis,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Chromatin organization,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Cellular responses to stimuli,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Circadian Clock,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Digestion and absorption,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Muscle contraction,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Metabolism of proteins,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Neuronal System,SNV,layer_4,0.11251826
+Degradation of the extracellular matrix,SNV,layer_3,0.11251826,Autophagy,SNV,layer_4,0.11251826
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Chromosome Maintenance,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Integrin cell surface interactions,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Protein-protein interactions at synapses,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Degradation of the extracellular matrix,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Laminin interactions,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Signal regulatory protein family interactions,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Mitochondrial RNA degradation,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,RNA Polymerase III Transcription,SNV,layer_3,0.11043464
+MicroRNA (miRNA) biogenesis,SNV,layer_2,0.11043464,Gene Silencing by RNA,SNV,layer_3,0.11043464
+Laminin interactions,SNV,layer_3,0.10133158,Digestion and absorption,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Circadian Clock,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Neuronal System,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Autophagy,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Cellular responses to stimuli,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Chromatin organization,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Developmental Biology,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Hemostasis,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Metabolism of proteins,SNV,layer_4,0.10133158
+Laminin interactions,SNV,layer_3,0.10133158,Muscle contraction,SNV,layer_4,0.10133158
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Cellular responses to stimuli,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Chromatin organization,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Muscle contraction,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Metabolism of proteins,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Hemostasis,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Developmental Biology,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Digestion and absorption,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Circadian Clock,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Neuronal System,SNV,layer_4,0.099703416
+RNA Polymerase III Transcription,SNV,layer_3,0.099703416,Autophagy,SNV,layer_4,0.099703416
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Autophagy,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Neuronal System,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Muscle contraction,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Metabolism of proteins,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Developmental Biology,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Hemostasis,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Circadian Clock,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Digestion and absorption,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Chromatin organization,SNV,layer_4,0.08056171
+Gene Silencing by RNA,SNV,layer_3,0.08056171,Cellular responses to stimuli,SNV,layer_4,0.08056171
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Cellular responses to stimuli,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Chromatin organization,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Hemostasis,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Developmental Biology,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Metabolism of proteins,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Muscle contraction,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Autophagy,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Neuronal System,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Circadian Clock,SNV,layer_4,0.080182016
+Integrin cell surface interactions,SNV,layer_3,0.080182016,Digestion and absorption,SNV,layer_4,0.080182016
+Chromosome Maintenance,SNV,layer_3,0.073869675,Chromatin organization,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Cellular responses to stimuli,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Developmental Biology,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Hemostasis,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Autophagy,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Neuronal System,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Circadian Clock,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Digestion and absorption,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Muscle contraction,SNV,layer_4,0.073869675
+Chromosome Maintenance,SNV,layer_3,0.073869675,Metabolism of proteins,SNV,layer_4,0.073869675
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Muscle contraction,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Metabolism of proteins,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Autophagy,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Neuronal System,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Circadian Clock,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Digestion and absorption,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Developmental Biology,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Hemostasis,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Chromatin organization,SNV,layer_4,0.071973704
+Protein-protein interactions at synapses,SNV,layer_3,0.071973704,Cellular responses to stimuli,SNV,layer_4,0.071973704
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Autophagy,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Neuronal System,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Circadian Clock,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Digestion and absorption,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Developmental Biology,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Hemostasis,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Metabolism of proteins,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Muscle contraction,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Chromatin organization,SNV,layer_4,0.07195138
+Cytosolic iron-sulfur cluster assembly,SNV,layer_3,0.07195138,Cellular responses to stimuli,SNV,layer_4,0.07195138

@@ -1,0 +1,301 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Elastic fibre formation,SNV,layer_3,16.117575,Sensory Perception,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Extracellular matrix organization,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Digestion and absorption,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Developmental Biology,SNV,layer_4,16.117575
+Elastic fibre formation,SNV,layer_3,16.117575,Metabolism,SNV,layer_4,16.117575
+Ion channel transport,mrna,layer_3,5.5886364,Developmental Biology,mrna,layer_4,5.5886364
+Ion channel transport,mrna,layer_3,5.5886364,Metabolism of RNA,mrna,layer_4,5.5886364
+Ion channel transport,mrna,layer_3,5.5886364,Circadian Clock,mrna,layer_4,5.5886364
+Ion channel transport,mrna,layer_3,5.5886364,Signal Transduction,mrna,layer_4,5.5886364
+Ion channel transport,mrna,layer_3,5.5886364,Disease,mrna,layer_4,5.5886364
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Nonsense-Mediated Decay (NMD),SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Elastic fibre formation,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Mitochondrial calcium ion transport,SNV,layer_3,5.541074
+M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,5.541074,Protein repair,SNV,layer_3,5.541074
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Serine biosynthesis,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,eNOS activation,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,NOSTRIN mediated eNOS trafficking,CNV,layer_2,5.447405
+Amino acids regulate mTORC1,CNV,layer_1,5.447405,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,5.447405
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Developmental Biology,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Protein localization,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Programmed Cell Death,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Extracellular matrix organization,CNV,layer_4,5.332334
+Degradation of the extracellular matrix,CNV,layer_3,5.332334,Cell Cycle,CNV,layer_4,5.332334
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Degradation of the extracellular matrix,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Signaling by Leptin,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Fibronectin matrix formation,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Miscellaneous transport and binding events,CNV,layer_3,4.982194
+NOSTRIN mediated eNOS trafficking,CNV,layer_2,4.982194,Invadopodia formation,CNV,layer_3,4.982194
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Nonsense-Mediated Decay (NMD),SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Elastic fibre formation,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Protein repair,SNV,layer_3,4.3779616
+Zygotic genome activation (ZGA),SNV,layer_2,4.3779616,Mitochondrial calcium ion transport,SNV,layer_3,4.3779616
+SLC-mediated transmembrane transport,mrna,layer_3,3.0687068,Disease,mrna,layer_4,3.0687068
+SLC-mediated transmembrane transport,mrna,layer_3,3.0687068,Developmental Biology,mrna,layer_4,3.0687068
+SLC-mediated transmembrane transport,mrna,layer_3,3.0687068,Signal Transduction,mrna,layer_4,3.0687068
+SLC-mediated transmembrane transport,mrna,layer_3,3.0687068,Metabolism of RNA,mrna,layer_4,3.0687068
+SLC-mediated transmembrane transport,mrna,layer_3,3.0687068,Circadian Clock,mrna,layer_4,3.0687068
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Signaling by NOTCH3,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.6896374
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,2.6896374,Zygotic genome activation (ZGA),SNV,layer_2,2.6896374
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Zygotic genome activation (ZGA),SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Signaling by NOTCH3,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.5580614
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,2.5580614,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.5580614
+Hh mutants abrogate ligand secretion,mrna,layer_2,2.5215478,Diseases of programmed cell death,mrna,layer_3,2.5215478
+Hh mutants abrogate ligand secretion,mrna,layer_2,2.5215478,Metabolism of vitamins and cofactors,mrna,layer_3,2.5215478
+Hh mutants abrogate ligand secretion,mrna,layer_2,2.5215478,Intracellular oxygen transport,mrna,layer_3,2.5215478
+Hh mutants abrogate ligand secretion,mrna,layer_2,2.5215478,SLC-mediated transmembrane transport,mrna,layer_3,2.5215478
+Hh mutants abrogate ligand secretion,mrna,layer_2,2.5215478,Ion channel transport,mrna,layer_3,2.5215478
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Signaling by NOTCH3,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.2789764
+Acetylcholine regulates insulin secretion,SNV,layer_1,2.2789764,Zygotic genome activation (ZGA),SNV,layer_2,2.2789764
+ABC transporters in lipid homeostasis,mrna,layer_1,2.2069402,Aflatoxin activation and detoxification,mrna,layer_2,2.2069402
+ABC transporters in lipid homeostasis,mrna,layer_1,2.2069402,Transcriptional regulation by small RNAs,mrna,layer_2,2.2069402
+ABC transporters in lipid homeostasis,mrna,layer_1,2.2069402,Phase II - Conjugation of compounds,mrna,layer_2,2.2069402
+ABC transporters in lipid homeostasis,mrna,layer_1,2.2069402,Hh mutants abrogate ligand secretion,mrna,layer_2,2.2069402
+ABC transporters in lipid homeostasis,mrna,layer_1,2.2069402,Phase I - Functionalization of compounds,mrna,layer_2,2.2069402
+Phase I - Functionalization of compounds,mrna,layer_2,2.1254325,Diseases of programmed cell death,mrna,layer_3,2.1254325
+Phase I - Functionalization of compounds,mrna,layer_2,2.1254325,Ion channel transport,mrna,layer_3,2.1254325
+Phase I - Functionalization of compounds,mrna,layer_2,2.1254325,Metabolism of vitamins and cofactors,mrna,layer_3,2.1254325
+Phase I - Functionalization of compounds,mrna,layer_2,2.1254325,Intracellular oxygen transport,mrna,layer_3,2.1254325
+Phase I - Functionalization of compounds,mrna,layer_2,2.1254325,SLC-mediated transmembrane transport,mrna,layer_3,2.1254325
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Developmental Biology,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Extracellular matrix organization,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Programmed Cell Death,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Cell Cycle,CNV,layer_4,2.1182709
+Fibronectin matrix formation,CNV,layer_3,2.1182709,Protein localization,CNV,layer_4,2.1182709
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,eNOS activation,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,NOSTRIN mediated eNOS trafficking,CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,2.0938783
+Apoptosis induced DNA fragmentation,CNV,layer_1,2.0938783,Serine biosynthesis,CNV,layer_2,2.0938783
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Invadopodia formation,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Fibronectin matrix formation,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Miscellaneous transport and binding events,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Degradation of the extracellular matrix,CNV,layer_3,1.9645789
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.9645789,Signaling by Leptin,CNV,layer_3,1.9645789
+Scavenging by Class A Receptors,mrna,layer_1,1.9182488,Transcriptional regulation by small RNAs,mrna,layer_2,1.9182488
+Scavenging by Class A Receptors,mrna,layer_1,1.9182488,Hh mutants abrogate ligand secretion,mrna,layer_2,1.9182488
+Scavenging by Class A Receptors,mrna,layer_1,1.9182488,Aflatoxin activation and detoxification,mrna,layer_2,1.9182488
+Scavenging by Class A Receptors,mrna,layer_1,1.9182488,Phase I - Functionalization of compounds,mrna,layer_2,1.9182488
+Scavenging by Class A Receptors,mrna,layer_1,1.9182488,Phase II - Conjugation of compounds,mrna,layer_2,1.9182488
+eNOS activation,CNV,layer_2,1.8626292,Signaling by Leptin,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Invadopodia formation,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Miscellaneous transport and binding events,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Fibronectin matrix formation,CNV,layer_3,1.8626292
+eNOS activation,CNV,layer_2,1.8626292,Degradation of the extracellular matrix,CNV,layer_3,1.8626292
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Protein repair,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Mitochondrial calcium ion transport,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Elastic fibre formation,SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.7056167
+FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.7056167,Nonsense-Mediated Decay (NMD),SNV,layer_3,1.7056167
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Signaling by NOTCH3,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Zygotic genome activation (ZGA),SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.6611346
+Free fatty acids regulate insulin secretion,SNV,layer_1,1.6611346,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.6611346
+Serine biosynthesis,CNV,layer_2,1.5816581,Invadopodia formation,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Miscellaneous transport and binding events,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Signaling by Leptin,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Degradation of the extracellular matrix,CNV,layer_3,1.5816581
+Serine biosynthesis,CNV,layer_2,1.5816581,Fibronectin matrix formation,CNV,layer_3,1.5816581
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Serine biosynthesis,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,eNOS activation,CNV,layer_2,1.5675408
+Post-chaperonin tubulin folding pathway,CNV,layer_1,1.5675408,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.5675408
+Phase II - Conjugation of compounds,mrna,layer_2,1.4811367,SLC-mediated transmembrane transport,mrna,layer_3,1.4811367
+Phase II - Conjugation of compounds,mrna,layer_2,1.4811367,Diseases of programmed cell death,mrna,layer_3,1.4811367
+Phase II - Conjugation of compounds,mrna,layer_2,1.4811367,Intracellular oxygen transport,mrna,layer_3,1.4811367
+Phase II - Conjugation of compounds,mrna,layer_2,1.4811367,Metabolism of vitamins and cofactors,mrna,layer_3,1.4811367
+Phase II - Conjugation of compounds,mrna,layer_2,1.4811367,Ion channel transport,mrna,layer_3,1.4811367
+Aflatoxin activation and detoxification,mrna,layer_2,1.4406036,Intracellular oxygen transport,mrna,layer_3,1.4406036
+Aflatoxin activation and detoxification,mrna,layer_2,1.4406036,SLC-mediated transmembrane transport,mrna,layer_3,1.4406036
+Aflatoxin activation and detoxification,mrna,layer_2,1.4406036,Ion channel transport,mrna,layer_3,1.4406036
+Aflatoxin activation and detoxification,mrna,layer_2,1.4406036,Diseases of programmed cell death,mrna,layer_3,1.4406036
+Aflatoxin activation and detoxification,mrna,layer_2,1.4406036,Metabolism of vitamins and cofactors,mrna,layer_3,1.4406036
+Choline catabolism,mrna,layer_1,1.4101385,Phase I - Functionalization of compounds,mrna,layer_2,1.4101385
+Choline catabolism,mrna,layer_1,1.4101385,Hh mutants abrogate ligand secretion,mrna,layer_2,1.4101385
+Choline catabolism,mrna,layer_1,1.4101385,Phase II - Conjugation of compounds,mrna,layer_2,1.4101385
+Choline catabolism,mrna,layer_1,1.4101385,Transcriptional regulation by small RNAs,mrna,layer_2,1.4101385
+Choline catabolism,mrna,layer_1,1.4101385,Aflatoxin activation and detoxification,mrna,layer_2,1.4101385
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,eNOS activation,CNV,layer_2,1.3414931
+ABC transporters in lipid homeostasis,CNV,layer_1,1.3414931,Serine biosynthesis,CNV,layer_2,1.3414931
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Degradation of the extracellular matrix,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Invadopodia formation,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Fibronectin matrix formation,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Miscellaneous transport and binding events,CNV,layer_3,1.3137981
+Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.3137981,Signaling by Leptin,CNV,layer_3,1.3137981
+Degradation of GLI1 by the proteasome,mrna,layer_1,1.2735677,Phase I - Functionalization of compounds,mrna,layer_2,1.2735677
+Degradation of GLI1 by the proteasome,mrna,layer_1,1.2735677,Hh mutants abrogate ligand secretion,mrna,layer_2,1.2735677
+Degradation of GLI1 by the proteasome,mrna,layer_1,1.2735677,Aflatoxin activation and detoxification,mrna,layer_2,1.2735677
+Degradation of GLI1 by the proteasome,mrna,layer_1,1.2735677,Phase II - Conjugation of compounds,mrna,layer_2,1.2735677
+Degradation of GLI1 by the proteasome,mrna,layer_1,1.2735677,Transcriptional regulation by small RNAs,mrna,layer_2,1.2735677
+Histidine catabolism,CNV,layer_1,1.2390094,NOSTRIN mediated eNOS trafficking,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Transcriptional regulation of white adipocyte differentiation,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,eNOS activation,CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",CNV,layer_2,1.2390094
+Histidine catabolism,CNV,layer_1,1.2390094,Serine biosynthesis,CNV,layer_2,1.2390094
+Heme signaling,mrna,layer_1,1.2062472,Hh mutants abrogate ligand secretion,mrna,layer_2,1.2062472
+Heme signaling,mrna,layer_1,1.2062472,Phase II - Conjugation of compounds,mrna,layer_2,1.2062472
+Heme signaling,mrna,layer_1,1.2062472,Phase I - Functionalization of compounds,mrna,layer_2,1.2062472
+Heme signaling,mrna,layer_1,1.2062472,Transcriptional regulation by small RNAs,mrna,layer_2,1.2062472
+Heme signaling,mrna,layer_1,1.2062472,Aflatoxin activation and detoxification,mrna,layer_2,1.2062472
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Signaling by NOTCH3,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,FASTK family proteins regulate processing and stability of mitochondrial RNAs,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,M-decay: degradation of maternal mRNAs by maternally stored factors,SNV,layer_2,1.1344457
+Antagonism of Activin by Follistatin,SNV,layer_1,1.1344457,Zygotic genome activation (ZGA),SNV,layer_2,1.1344457
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Elastic fibre formation,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Mitochondrial calcium ion transport,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Protein repair,SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,Nonsense-Mediated Decay (NMD),SNV,layer_3,1.0349644
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,1.0349644,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,1.0349644
+TFF1,mrna,input,0.9219679,Heme signaling,mrna,layer_1,0.9219679
+TFF1,mrna,input,0.9219679,Scavenging by Class A Receptors,mrna,layer_1,0.9219679
+TFF1,mrna,input,0.9219679,Degradation of GLI1 by the proteasome,mrna,layer_1,0.9219679
+TFF1,mrna,input,0.9219679,ABC transporters in lipid homeostasis,mrna,layer_1,0.9219679
+TFF1,mrna,input,0.9219679,Choline catabolism,mrna,layer_1,0.9219679
+RPS4Y1,mrna,input,0.921486,Degradation of GLI1 by the proteasome,mrna,layer_1,0.921486
+RPS4Y1,mrna,input,0.921486,Choline catabolism,mrna,layer_1,0.921486
+RPS4Y1,mrna,input,0.921486,Scavenging by Class A Receptors,mrna,layer_1,0.921486
+RPS4Y1,mrna,input,0.921486,Heme signaling,mrna,layer_1,0.921486
+RPS4Y1,mrna,input,0.921486,ABC transporters in lipid homeostasis,mrna,layer_1,0.921486
+SHH,mrna,input,0.9201105,Heme signaling,mrna,layer_1,0.9201105
+SHH,mrna,input,0.9201105,ABC transporters in lipid homeostasis,mrna,layer_1,0.9201105
+SHH,mrna,input,0.9201105,Degradation of GLI1 by the proteasome,mrna,layer_1,0.9201105
+SHH,mrna,input,0.9201105,Choline catabolism,mrna,layer_1,0.9201105
+SHH,mrna,input,0.9201105,Scavenging by Class A Receptors,mrna,layer_1,0.9201105
+MUC5AC,mrna,input,0.9115459,ABC transporters in lipid homeostasis,mrna,layer_1,0.9115459
+MUC5AC,mrna,input,0.9115459,Scavenging by Class A Receptors,mrna,layer_1,0.9115459
+MUC5AC,mrna,input,0.9115459,Choline catabolism,mrna,layer_1,0.9115459
+MUC5AC,mrna,input,0.9115459,Degradation of GLI1 by the proteasome,mrna,layer_1,0.9115459
+MUC5AC,mrna,input,0.9115459,Heme signaling,mrna,layer_1,0.9115459
+GJB3,mrna,input,0.90566784,ABC transporters in lipid homeostasis,mrna,layer_1,0.90566784
+GJB3,mrna,input,0.90566784,Scavenging by Class A Receptors,mrna,layer_1,0.90566784
+GJB3,mrna,input,0.90566784,Choline catabolism,mrna,layer_1,0.90566784
+GJB3,mrna,input,0.90566784,Degradation of GLI1 by the proteasome,mrna,layer_1,0.90566784
+GJB3,mrna,input,0.90566784,Heme signaling,mrna,layer_1,0.90566784
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Protein localization,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Developmental Biology,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Cell Cycle,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Extracellular matrix organization,CNV,layer_4,0.8932734
+Miscellaneous transport and binding events,CNV,layer_3,0.8932734,Programmed Cell Death,CNV,layer_4,0.8932734
+Signaling by Leptin,CNV,layer_3,0.89106035,Extracellular matrix organization,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Programmed Cell Death,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Protein localization,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Cell Cycle,CNV,layer_4,0.89106035
+Signaling by Leptin,CNV,layer_3,0.89106035,Developmental Biology,CNV,layer_4,0.89106035
+TP53,SNV,input,0.87824124,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Acetylcholine regulates insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Free fatty acids regulate insulin secretion,SNV,layer_1,0.87824124
+TP53,SNV,input,0.87824124,Antagonism of Activin by Follistatin,SNV,layer_1,0.87824124
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Sensory Perception,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Metabolism,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Extracellular matrix organization,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Developmental Biology,SNV,layer_4,0.8660008
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.8660008,Digestion and absorption,SNV,layer_4,0.8660008
+TTN,SNV,input,0.8319866,Free fatty acids regulate insulin secretion,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Antagonism of Activin by Follistatin,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Acetylcholine regulates insulin secretion,SNV,layer_1,0.8319866
+TTN,SNV,input,0.8319866,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.8319866
+MUC16,SNV,input,0.82636964,Acetylcholine regulates insulin secretion,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Antagonism of Activin by Follistatin,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.82636964
+MUC16,SNV,input,0.82636964,Free fatty acids regulate insulin secretion,SNV,layer_1,0.82636964
+Transcriptional regulation by small RNAs,mrna,layer_2,0.8163062,Diseases of programmed cell death,mrna,layer_3,0.8163062
+Transcriptional regulation by small RNAs,mrna,layer_2,0.8163062,Metabolism of vitamins and cofactors,mrna,layer_3,0.8163062
+Transcriptional regulation by small RNAs,mrna,layer_2,0.8163062,SLC-mediated transmembrane transport,mrna,layer_3,0.8163062
+Transcriptional regulation by small RNAs,mrna,layer_2,0.8163062,Intracellular oxygen transport,mrna,layer_3,0.8163062
+Transcriptional regulation by small RNAs,mrna,layer_2,0.8163062,Ion channel transport,mrna,layer_3,0.8163062
+RYR2,SNV,input,0.81284267,Free fatty acids regulate insulin secretion,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Acetylcholine regulates insulin secretion,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Antagonism of Activin by Follistatin,SNV,layer_1,0.81284267
+RYR2,SNV,input,0.81284267,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.81284267
+FASLG,CNV,input,0.79586786,Histidine catabolism,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Amino acids regulate mTORC1,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,ABC transporters in lipid homeostasis,CNV,layer_1,0.79586786
+FASLG,CNV,input,0.79586786,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79586786
+RGSL1,CNV,input,0.79434747,Histidine catabolism,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,ABC transporters in lipid homeostasis,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79434747
+RGSL1,CNV,input,0.79434747,Amino acids regulate mTORC1,CNV,layer_1,0.79434747
+NPL,CNV,input,0.79429585,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,ABC transporters in lipid homeostasis,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Histidine catabolism,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Amino acids regulate mTORC1,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Apoptosis induced DNA fragmentation,CNV,layer_1,0.79429585
+DHX9,CNV,input,0.79429585,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Histidine catabolism,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,ABC transporters in lipid homeostasis,CNV,layer_1,0.79429585
+NPL,CNV,input,0.79429585,Amino acids regulate mTORC1,CNV,layer_1,0.79429585
+TSEN15,CNV,input,0.7941866,Amino acids regulate mTORC1,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Apoptosis induced DNA fragmentation,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Post-chaperonin tubulin folding pathway,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,Histidine catabolism,CNV,layer_1,0.7941866
+TSEN15,CNV,input,0.7941866,ABC transporters in lipid homeostasis,CNV,layer_1,0.7941866
+Invadopodia formation,CNV,layer_3,0.73855776,Programmed Cell Death,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Extracellular matrix organization,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Developmental Biology,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Protein localization,CNV,layer_4,0.73855776
+Invadopodia formation,CNV,layer_3,0.73855776,Cell Cycle,CNV,layer_4,0.73855776
+XIRP2,SNV,input,0.7272863,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Acetylcholine regulates insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Free fatty acids regulate insulin secretion,SNV,layer_1,0.7272863
+XIRP2,SNV,input,0.7272863,Antagonism of Activin by Follistatin,SNV,layer_1,0.7272863
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Elastic fibre formation,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Nonsense-Mediated Decay (NMD),SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Protein repair,SNV,layer_3,0.39040858
+Signaling by NOTCH3,SNV,layer_2,0.39040858,Mitochondrial calcium ion transport,SNV,layer_3,0.39040858
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Developmental Biology,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Extracellular matrix organization,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Metabolism,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Digestion and absorption,SNV,layer_4,0.37058643
+Nonsense-Mediated Decay (NMD),SNV,layer_3,0.37058643,Sensory Perception,SNV,layer_4,0.37058643
+Intracellular oxygen transport,mrna,layer_3,0.28100255,Disease,mrna,layer_4,0.28100255
+Intracellular oxygen transport,mrna,layer_3,0.28100255,Circadian Clock,mrna,layer_4,0.28100255
+Intracellular oxygen transport,mrna,layer_3,0.28100255,Developmental Biology,mrna,layer_4,0.28100255
+Intracellular oxygen transport,mrna,layer_3,0.28100255,Metabolism of RNA,mrna,layer_4,0.28100255
+Intracellular oxygen transport,mrna,layer_3,0.28100255,Signal Transduction,mrna,layer_4,0.28100255
+Diseases of programmed cell death,mrna,layer_3,0.1600018,Metabolism of RNA,mrna,layer_4,0.1600018
+Diseases of programmed cell death,mrna,layer_3,0.1600018,Disease,mrna,layer_4,0.1600018
+Diseases of programmed cell death,mrna,layer_3,0.1600018,Circadian Clock,mrna,layer_4,0.1600018
+Diseases of programmed cell death,mrna,layer_3,0.1600018,Developmental Biology,mrna,layer_4,0.1600018
+Diseases of programmed cell death,mrna,layer_3,0.1600018,Signal Transduction,mrna,layer_4,0.1600018
+Metabolism of vitamins and cofactors,mrna,layer_3,0.14657539,Metabolism of RNA,mrna,layer_4,0.14657539
+Metabolism of vitamins and cofactors,mrna,layer_3,0.14657539,Developmental Biology,mrna,layer_4,0.14657539
+Metabolism of vitamins and cofactors,mrna,layer_3,0.14657539,Disease,mrna,layer_4,0.14657539
+Metabolism of vitamins and cofactors,mrna,layer_3,0.14657539,Signal Transduction,mrna,layer_4,0.14657539
+Metabolism of vitamins and cofactors,mrna,layer_3,0.14657539,Circadian Clock,mrna,layer_4,0.14657539
+Protein repair,SNV,layer_3,0.1253109,Sensory Perception,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Extracellular matrix organization,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Developmental Biology,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Digestion and absorption,SNV,layer_4,0.1253109
+Protein repair,SNV,layer_3,0.1253109,Metabolism,SNV,layer_4,0.1253109
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Metabolism,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Digestion and absorption,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Sensory Perception,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Extracellular matrix organization,SNV,layer_4,0.120039806
+Mitochondrial calcium ion transport,SNV,layer_3,0.120039806,Developmental Biology,SNV,layer_4,0.120039806

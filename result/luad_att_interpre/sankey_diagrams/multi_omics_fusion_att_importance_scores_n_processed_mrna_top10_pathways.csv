@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Peptide chain elongation,mrna,layer_1,9.755493,Wax and plasmalogen biosynthesis,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Signaling by NOTCH1,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Proteasome assembly,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,trans-Golgi Network Vesicle Budding,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Effects of PIP2 hydrolysis,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Signaling by ERBB4,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Mitochondrial translation,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Amyloid fiber formation,mrna,layer_2,9.755493
+Peptide chain elongation,mrna,layer_1,9.755493,Signaling by FGFR,mrna,layer_2,9.755493
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,trans-Golgi Network Vesicle Budding,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Signaling by ERBB4,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Wax and plasmalogen biosynthesis,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Effects of PIP2 hydrolysis,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Amyloid fiber formation,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Signaling by NOTCH1,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Proteasome assembly,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Mitochondrial translation,mrna,layer_2,9.268203
+"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,9.268203,Signaling by FGFR,mrna,layer_2,9.268203
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Proteasome assembly,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Amyloid fiber formation,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Signaling by ERBB4,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Signaling by FGFR,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Mitochondrial translation,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Wax and plasmalogen biosynthesis,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Signaling by NOTCH1,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,Effects of PIP2 hydrolysis,mrna,layer_2,8.956236
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,8.956236,trans-Golgi Network Vesicle Budding,mrna,layer_2,8.956236
+Mitochondrial translation,mrna,layer_2,8.768768,Cell Cycle Checkpoints,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Innate Immune System,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Cytokine Signaling in Immune system,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Disorders of transmembrane transporters,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Mitochondrial calcium ion transport,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Diseases of programmed cell death,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Mitochondrial RNA degradation,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Invadopodia formation,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,SLC-mediated transmembrane transport,mrna,layer_3,8.768768
+Mitochondrial translation,mrna,layer_2,8.768768,Elastic fibre formation,mrna,layer_3,8.768768
+G alpha (s) signalling events,mrna,layer_1,8.451381,Wax and plasmalogen biosynthesis,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Signaling by NOTCH1,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Mitochondrial translation,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Signaling by ERBB4,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Signaling by FGFR,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Effects of PIP2 hydrolysis,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,trans-Golgi Network Vesicle Budding,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Proteasome assembly,mrna,layer_2,8.451381
+G alpha (s) signalling events,mrna,layer_1,8.451381,Amyloid fiber formation,mrna,layer_2,8.451381
+Signaling by Hippo,mrna,layer_1,7.7498856,Mitochondrial translation,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,trans-Golgi Network Vesicle Budding,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Effects of PIP2 hydrolysis,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Signaling by NOTCH1,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Wax and plasmalogen biosynthesis,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Proteasome assembly,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Signaling by ERBB4,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Amyloid fiber formation,mrna,layer_2,7.7498856
+Signaling by Hippo,mrna,layer_1,7.7498856,Signaling by FGFR,mrna,layer_2,7.7498856
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,trans-Golgi Network Vesicle Budding,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Mitochondrial translation,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Signaling by FGFR,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Wax and plasmalogen biosynthesis,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Amyloid fiber formation,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Signaling by NOTCH1,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Proteasome assembly,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Signaling by ERBB4,mrna,layer_2,6.2880535
+Reduction of cytosolic Ca++ levels,mrna,layer_1,6.2880535,Effects of PIP2 hydrolysis,mrna,layer_2,6.2880535
+Signaling by FGFR,mrna,layer_2,5.3198357,Elastic fibre formation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Innate Immune System,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Mitochondrial RNA degradation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Invadopodia formation,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Mitochondrial calcium ion transport,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,SLC-mediated transmembrane transport,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Cell Cycle Checkpoints,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Cytokine Signaling in Immune system,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Disorders of transmembrane transporters,mrna,layer_3,5.3198357
+Signaling by FGFR,mrna,layer_2,5.3198357,Diseases of programmed cell death,mrna,layer_3,5.3198357
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Amyloid fiber formation,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Signaling by NOTCH1,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Wax and plasmalogen biosynthesis,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Effects of PIP2 hydrolysis,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,trans-Golgi Network Vesicle Budding,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Signaling by ERBB4,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Signaling by FGFR,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Mitochondrial translation,mrna,layer_2,5.1739006
+Class B/2 (Secretin family receptors),mrna,layer_1,5.1739006,Proteasome assembly,mrna,layer_2,5.1739006
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Amyloid fiber formation,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Wax and plasmalogen biosynthesis,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,trans-Golgi Network Vesicle Budding,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Effects of PIP2 hydrolysis,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Signaling by FGFR,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Signaling by NOTCH1,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Proteasome assembly,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Signaling by ERBB4,mrna,layer_2,4.546027
+Serotonin Neurotransmitter Release Cycle,mrna,layer_1,4.546027,Mitochondrial translation,mrna,layer_2,4.546027
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Signaling by FGFR,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Signaling by ERBB4,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,trans-Golgi Network Vesicle Budding,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Effects of PIP2 hydrolysis,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Wax and plasmalogen biosynthesis,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Proteasome assembly,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Signaling by NOTCH1,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Amyloid fiber formation,mrna,layer_2,4.2261114
+"GABA synthesis, release, reuptake and degradation",mrna,layer_1,4.2261114,Mitochondrial translation,mrna,layer_2,4.2261114
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,trans-Golgi Network Vesicle Budding,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Wax and plasmalogen biosynthesis,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Signaling by ERBB4,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Amyloid fiber formation,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Proteasome assembly,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Signaling by NOTCH1,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Effects of PIP2 hydrolysis,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Mitochondrial translation,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,Signaling by FGFR,mrna,layer_2,4.121613
+Antagonism of Activin by Follistatin,mrna,layer_1,4.121613,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,4.121613
+Signaling by ERBB4,mrna,layer_2,3.2972925,Cell Cycle Checkpoints,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Mitochondrial calcium ion transport,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,SLC-mediated transmembrane transport,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Invadopodia formation,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Innate Immune System,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Mitochondrial RNA degradation,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Disorders of transmembrane transporters,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Cytokine Signaling in Immune system,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Diseases of programmed cell death,mrna,layer_3,3.2972925
+Signaling by ERBB4,mrna,layer_2,3.2972925,Elastic fibre formation,mrna,layer_3,3.2972925
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Elastic fibre formation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Innate Immune System,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,SLC-mediated transmembrane transport,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Invadopodia formation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Mitochondrial RNA degradation,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Diseases of programmed cell death,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Disorders of transmembrane transporters,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Cytokine Signaling in Immune system,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Cell Cycle Checkpoints,mrna,layer_3,3.23259
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",mrna,layer_2,3.23259,Mitochondrial calcium ion transport,mrna,layer_3,3.23259
+Innate Immune System,mrna,layer_3,2.7005868,Cell-Cell communication,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Digestion and absorption,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Organelle biogenesis and maintenance,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Transport of small molecules,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Developmental Biology,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Cellular responses to stimuli,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Neuronal System,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Extracellular matrix organization,mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Gene expression (Transcription),mrna,layer_4,2.7005868
+Innate Immune System,mrna,layer_3,2.7005868,Metabolism,mrna,layer_4,2.7005868
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,SLC-mediated transmembrane transport,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Invadopodia formation,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Mitochondrial RNA degradation,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Mitochondrial calcium ion transport,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Diseases of programmed cell death,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Disorders of transmembrane transporters,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Cytokine Signaling in Immune system,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Cell Cycle Checkpoints,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Innate Immune System,mrna,layer_3,2.6200352
+trans-Golgi Network Vesicle Budding,mrna,layer_2,2.6200352,Elastic fibre formation,mrna,layer_3,2.6200352
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Cytokine Signaling in Immune system,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Cell Cycle Checkpoints,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Mitochondrial RNA degradation,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Mitochondrial calcium ion transport,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Diseases of programmed cell death,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Disorders of transmembrane transporters,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Innate Immune System,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Elastic fibre formation,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,SLC-mediated transmembrane transport,mrna,layer_3,2.2393403
+Effects of PIP2 hydrolysis,mrna,layer_2,2.2393403,Invadopodia formation,mrna,layer_3,2.2393403
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,SLC-mediated transmembrane transport,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Invadopodia formation,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Mitochondrial RNA degradation,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Mitochondrial calcium ion transport,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Cell Cycle Checkpoints,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Cytokine Signaling in Immune system,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Innate Immune System,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Elastic fibre formation,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Diseases of programmed cell death,mrna,layer_3,1.9022936
+Wax and plasmalogen biosynthesis,mrna,layer_2,1.9022936,Disorders of transmembrane transporters,mrna,layer_3,1.9022936
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Elastic fibre formation,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Innate Immune System,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Invadopodia formation,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,SLC-mediated transmembrane transport,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Cytokine Signaling in Immune system,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Cell Cycle Checkpoints,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Disorders of transmembrane transporters,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Diseases of programmed cell death,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Mitochondrial calcium ion transport,mrna,layer_3,1.7024046
+Signaling by NOTCH1,mrna,layer_2,1.7024046,Mitochondrial RNA degradation,mrna,layer_3,1.7024046
+Proteasome assembly,mrna,layer_2,1.4593059,Elastic fibre formation,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Innate Immune System,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Invadopodia formation,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,SLC-mediated transmembrane transport,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Mitochondrial calcium ion transport,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Mitochondrial RNA degradation,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Disorders of transmembrane transporters,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Diseases of programmed cell death,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Cell Cycle Checkpoints,mrna,layer_3,1.4593059
+Proteasome assembly,mrna,layer_2,1.4593059,Cytokine Signaling in Immune system,mrna,layer_3,1.4593059
+Amyloid fiber formation,mrna,layer_2,1.3283418,Invadopodia formation,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,SLC-mediated transmembrane transport,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Mitochondrial calcium ion transport,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Mitochondrial RNA degradation,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Elastic fibre formation,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Innate Immune System,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Disorders of transmembrane transporters,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Diseases of programmed cell death,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Cytokine Signaling in Immune system,mrna,layer_3,1.3283418
+Amyloid fiber formation,mrna,layer_2,1.3283418,Cell Cycle Checkpoints,mrna,layer_3,1.3283418
+RPS4Y1,mrna,input,0.93352044,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Signaling by Hippo,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,G alpha (s) signalling events,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Peptide chain elongation,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Antagonism of Activin by Follistatin,mrna,layer_1,0.93352044
+RPS4Y1,mrna,input,0.93352044,Class B/2 (Secretin family receptors),mrna,layer_1,0.93352044
+GSTM1,mrna,input,0.9177601,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Peptide chain elongation,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,G alpha (s) signalling events,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Signaling by Hippo,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Class B/2 (Secretin family receptors),mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,Antagonism of Activin by Follistatin,mrna,layer_1,0.9177601
+GSTM1,mrna,input,0.9177601,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.9177601
+Elastic fibre formation,mrna,layer_3,0.91622835,Digestion and absorption,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Organelle biogenesis and maintenance,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Metabolism,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Gene expression (Transcription),mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Neuronal System,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Cellular responses to stimuli,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Developmental Biology,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Extracellular matrix organization,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Cell-Cell communication,mrna,layer_4,0.91622835
+Elastic fibre formation,mrna,layer_3,0.91622835,Transport of small molecules,mrna,layer_4,0.91622835
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Developmental Biology,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Cellular responses to stimuli,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Neuronal System,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Extracellular matrix organization,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Organelle biogenesis and maintenance,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Digestion and absorption,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Cell-Cell communication,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Transport of small molecules,mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Gene expression (Transcription),mrna,layer_4,0.9091531
+SLC-mediated transmembrane transport,mrna,layer_3,0.9091531,Metabolism,mrna,layer_4,0.9091531
+CLDN10,mrna,input,0.88517916,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Antagonism of Activin by Follistatin,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Class B/2 (Secretin family receptors),mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Peptide chain elongation,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,G alpha (s) signalling events,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.88517916
+CLDN10,mrna,input,0.88517916,Signaling by Hippo,mrna,layer_1,0.88517916
+KDM5D,mrna,input,0.87311095,Signaling by Hippo,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Class B/2 (Secretin family receptors),mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Antagonism of Activin by Follistatin,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,G alpha (s) signalling events,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,Peptide chain elongation,mrna,layer_1,0.87311095
+KDM5D,mrna,input,0.87311095,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.87311095
+UTY,mrna,input,0.87271327,Signaling by Hippo,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Class B/2 (Secretin family receptors),mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Antagonism of Activin by Follistatin,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,G alpha (s) signalling events,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.87271327
+UTY,mrna,input,0.87271327,Peptide chain elongation,mrna,layer_1,0.87271327
+GALNT14,mrna,input,0.8674935,G alpha (s) signalling events,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Antagonism of Activin by Follistatin,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Signaling by Hippo,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Class B/2 (Secretin family receptors),mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.8674935
+GALNT14,mrna,input,0.8674935,Peptide chain elongation,mrna,layer_1,0.8674935
+IGF2BP3,mrna,input,0.86249244,Antagonism of Activin by Follistatin,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Class B/2 (Secretin family receptors),mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Signaling by Hippo,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Peptide chain elongation,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,G alpha (s) signalling events,mrna,layer_1,0.86249244
+IGF2BP3,mrna,input,0.86249244,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.86249244
+MMP12,mrna,input,0.8619122,Class B/2 (Secretin family receptors),mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Peptide chain elongation,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Signaling by Hippo,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Antagonism of Activin by Follistatin,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.8619122
+MMP12,mrna,input,0.8619122,G alpha (s) signalling events,mrna,layer_1,0.8619122
+NGEF,mrna,input,0.8605345,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Signaling by Hippo,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Class B/2 (Secretin family receptors),mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,G alpha (s) signalling events,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Antagonism of Activin by Follistatin,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,Peptide chain elongation,mrna,layer_1,0.8605345
+NGEF,mrna,input,0.8605345,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.8605345
+B3GNT6,mrna,input,0.85670346,Reduction of cytosolic Ca++ levels,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Signaling by Hippo,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,G alpha (s) signalling events,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Class B/2 (Secretin family receptors),mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Serotonin Neurotransmitter Release Cycle,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,"GABA synthesis, release, reuptake and degradation",mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Antagonism of Activin by Follistatin,mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,"Cell death signalling via NRAGE, NRIF and NADE",mrna,layer_1,0.85670346
+B3GNT6,mrna,input,0.85670346,Peptide chain elongation,mrna,layer_1,0.85670346
+Invadopodia formation,mrna,layer_3,0.8486458,Developmental Biology,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Extracellular matrix organization,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Neuronal System,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Cellular responses to stimuli,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Transport of small molecules,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Cell-Cell communication,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Digestion and absorption,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Organelle biogenesis and maintenance,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Metabolism,mrna,layer_4,0.8486458
+Invadopodia formation,mrna,layer_3,0.8486458,Gene expression (Transcription),mrna,layer_4,0.8486458
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Developmental Biology,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Extracellular matrix organization,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Organelle biogenesis and maintenance,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Digestion and absorption,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Cellular responses to stimuli,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Neuronal System,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Cell-Cell communication,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Transport of small molecules,mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Gene expression (Transcription),mrna,layer_4,0.79652244
+Mitochondrial RNA degradation,mrna,layer_3,0.79652244,Metabolism,mrna,layer_4,0.79652244
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Digestion and absorption,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Organelle biogenesis and maintenance,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Developmental Biology,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Extracellular matrix organization,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Neuronal System,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Cellular responses to stimuli,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Gene expression (Transcription),mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Metabolism,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Cell-Cell communication,mrna,layer_4,0.6145862
+Mitochondrial calcium ion transport,mrna,layer_3,0.6145862,Transport of small molecules,mrna,layer_4,0.6145862
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Gene expression (Transcription),mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Metabolism,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Digestion and absorption,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Organelle biogenesis and maintenance,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Extracellular matrix organization,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Developmental Biology,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Cell-Cell communication,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Transport of small molecules,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Cellular responses to stimuli,mrna,layer_4,0.49501103
+Diseases of programmed cell death,mrna,layer_3,0.49501103,Neuronal System,mrna,layer_4,0.49501103
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Gene expression (Transcription),mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Metabolism,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Cell-Cell communication,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Transport of small molecules,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Digestion and absorption,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Organelle biogenesis and maintenance,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Cellular responses to stimuli,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Neuronal System,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Developmental Biology,mrna,layer_4,0.47821447
+Disorders of transmembrane transporters,mrna,layer_3,0.47821447,Extracellular matrix organization,mrna,layer_4,0.47821447
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Metabolism,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Gene expression (Transcription),mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Extracellular matrix organization,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Developmental Biology,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Organelle biogenesis and maintenance,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Digestion and absorption,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Neuronal System,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Cellular responses to stimuli,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Transport of small molecules,mrna,layer_4,0.3774081
+Cytokine Signaling in Immune system,mrna,layer_3,0.3774081,Cell-Cell communication,mrna,layer_4,0.3774081
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Neuronal System,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Cellular responses to stimuli,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Organelle biogenesis and maintenance,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Digestion and absorption,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Cell-Cell communication,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Transport of small molecules,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Developmental Biology,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Extracellular matrix organization,mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Gene expression (Transcription),mrna,layer_4,0.3752674
+Cell Cycle Checkpoints,mrna,layer_3,0.3752674,Metabolism,mrna,layer_4,0.3752674

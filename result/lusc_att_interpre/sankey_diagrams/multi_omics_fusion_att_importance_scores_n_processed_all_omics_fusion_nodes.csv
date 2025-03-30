@@ -1,0 +1,76 @@
+id,name,layer,omics,importance
+CNV_layer_1_610,SDK interactions,layer_1,CNV,6.277917
+CNV_layer_2_349,Signaling by PDGF,layer_2,CNV,2.1119068
+mrna_layer_1_189,Melanin biosynthesis,layer_1,mrna,1.760116
+CNV_layer_1_32,Protein repair,layer_1,CNV,1.6238905
+mrna_layer_1_86,Generation of second messenger molecules,layer_1,mrna,1.2283707
+mrna_layer_1_411,Activation of the pre-replicative complex,layer_1,mrna,1.1583506
+CNV_layer_1_33,HuR (ELAVL1) binds and stabilizes mRNA,layer_1,CNV,1.0622523
+CNV_layer_1_19,Formation of WDR5-containing histone-modifying complexes,layer_1,CNV,1.0443113
+mrna_input_5559,NKX2-5,input,mrna,0.91324323
+mrna_input_6627,PITX2,input,mrna,0.89572895
+mrna_layer_1_311,Interleukin-6 family signaling,layer_1,mrna,0.89170057
+mrna_input_186,ADH7,input,mrna,0.8830627
+CNV_layer_3_118,Nucleotide Excision Repair,layer_3,CNV,0.88054943
+mrna_input_6374,PCDH19,input,mrna,0.8796126
+mrna_input_1309,CDKN2A,input,mrna,0.87849814
+SNV_input_4736,MUC16,input,SNV,0.85501844
+SNV_input_8329,TTN,input,SNV,0.8526961
+SNV_input_4769,MYD88,input,SNV,0.84696454
+SNV_input_7771,SYNE1,input,SNV,0.8421981
+SNV_input_6905,RYR2,input,SNV,0.8389722
+CNV_input_7057,RAPGEF2,input,CNV,0.8308964
+CNV_input_5058,MTNR1A,input,CNV,0.81487536
+CNV_input_3333,GUCY1A3,input,CNV,0.81426525
+CNV_input_5410,NOCT,input,CNV,0.8124129
+CNV_input_1780,CTSO,input,CNV,0.8101576
+CNV_layer_2_19,HuR (ELAVL1) binds and stabilizes mRNA,layer_2,CNV,0.7762631
+CNV_layer_2_18,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",layer_2,CNV,0.7293185
+mrna_layer_1_33,Protein repair,layer_1,mrna,0.68282443
+CNV_layer_1_11,Synthesis of dolichyl-phosphate mannose,layer_1,CNV,0.65085256
+SNV_layer_1_60,NOTCH2 intracellular domain regulates transcription,layer_1,SNV,0.4948604
+CNV_layer_2_331,Fcgamma receptor (FCGR) dependent phagocytosis,layer_2,CNV,0.48245603
+CNV_layer_3_7,Invadopodia formation,layer_3,CNV,0.43503958
+CNV_layer_2_351,Signaling by VEGF,layer_2,CNV,0.4204194
+mrna_layer_2_212,ESR-mediated signaling,layer_2,mrna,0.39910072
+SNV_layer_1_600,Unwinding of DNA,layer_1,SNV,0.36548373
+mrna_layer_2_85,Nephron development,layer_2,mrna,0.33558404
+SNV_layer_1_313,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,layer_1,SNV,0.32762083
+CNV_layer_4_24,Digestion and absorption,layer_4,CNV,0.32286844
+SNV_layer_1_32,Protein repair,layer_1,SNV,0.32001543
+SNV_layer_2_39,Dissolution of Fibrin Clot,layer_2,SNV,0.28304157
+SNV_layer_1_0,G0 and Early G1,layer_1,SNV,0.281467
+CNV_layer_4_0,Hemostasis,layer_4,CNV,0.25369248
+mrna_layer_2_107,Replacement of protamines by nucleosomes in the male pronucleus,layer_2,mrna,0.2417699
+mrna_layer_2_189,Activation of anterior HOX genes in hindbrain development during early embryogenesis,layer_2,mrna,0.20636247
+mrna_layer_2_53,Metabolism of fat-soluble vitamins,layer_2,mrna,0.18989255
+CNV_layer_3_121,DNA Damage Reversal,layer_3,CNV,0.18159088
+SNV_layer_2_177,Intrinsic Pathway for Apoptosis,layer_2,SNV,0.17851141
+SNV_layer_3_19,Mitochondrial RNA degradation,layer_3,SNV,0.17110755
+CNV_layer_3_115,Response to metal ions,layer_3,CNV,0.17088261
+mrna_layer_3_81,Keratinization,layer_3,mrna,0.16852027
+CNV_layer_3_108,Peroxisomal protein import,layer_3,CNV,0.167366
+CNV_layer_4_20,DNA Repair,layer_4,CNV,0.15529051
+mrna_layer_3_76,Regulation of beta-cell development,layer_3,mrna,0.14043878
+SNV_layer_2_239,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,layer_2,SNV,0.13082112
+mrna_layer_3_115,Response to metal ions,layer_3,mrna,0.12528269
+SNV_layer_2_170,"Synthesis, secretion, and deacylation of Ghrelin",layer_2,SNV,0.12070301
+SNV_layer_2_131,Platelet calcium homeostasis,layer_2,SNV,0.1206814
+SNV_layer_3_92,Signal regulatory protein family interactions,layer_3,SNV,0.11617867
+SNV_layer_3_0,Degradation of the extracellular matrix,layer_3,SNV,0.11251826
+SNV_layer_3_5,Laminin interactions,layer_3,SNV,0.10133158
+mrna_layer_3_86,Cardiogenesis,layer_3,mrna,0.10063936
+SNV_layer_3_72,RNA Polymerase III Transcription,layer_3,SNV,0.099703416
+mrna_layer_3_34,Inositol phosphate metabolism,layer_3,mrna,0.09165201
+SNV_layer_4_13,Metabolism of proteins,layer_4,SNV,0.07053175
+CNV_layer_4_12,Transport of small molecules,layer_4,CNV,0.058737352
+mrna_layer_4_18,Vesicle-mediated transport,layer_4,mrna,0.054556984
+CNV_layer_4_23,Cellular responses to stimuli,layer_4,CNV,0.042634435
+SNV_layer_4_14,Muscle contraction,layer_4,SNV,0.033469398
+mrna_layer_4_7,Signal Transduction,layer_4,mrna,0.026539268
+SNV_layer_4_26,Autophagy,layer_4,SNV,0.021202505
+SNV_layer_4_1,Neuronal System,layer_4,SNV,0.017893478
+SNV_layer_4_15,Circadian Clock,layer_4,SNV,0.015410136
+mrna_layer_4_4,Reproduction,layer_4,mrna,0.014396157
+mrna_layer_4_11,Organelle biogenesis and maintenance,layer_4,mrna,0.011518694
+mrna_layer_4_15,Circadian Clock,layer_4,mrna,0.001450444

@@ -1,0 +1,401 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Unwinding of DNA,SNV,layer_1,36.949947,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Cellular response to chemical stress,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Signaling by ERBB4,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,RAB geranylgeranylation,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,SLC transporter disorders,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,eNOS activation,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Protein lipoylation,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Signaling by ERBB2,SNV,layer_2,36.949947
+Unwinding of DNA,SNV,layer_1,36.949947,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,36.949947
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Muscle contraction,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Circadian Clock,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Disease,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Drug ADME,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Developmental Biology,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Signal Transduction,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,DNA Replication,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Cell Cycle,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Digestion and absorption,SNV,layer_4,33.366055
+Nucleotide Excision Repair,SNV,layer_3,33.366055,Metabolism,SNV,layer_4,33.366055
+Signaling by ERBB4,SNV,layer_2,33.235867,Fertilization,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,tRNA processing,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Deadenylation-dependent mRNA decay,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Nucleotide Excision Repair,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Metabolism of amino acids and derivatives,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Chromatin modifying enzymes,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Biological oxidations,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Metabolism of vitamins and cofactors,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,33.235867
+Signaling by ERBB4,SNV,layer_2,33.235867,mRNA Editing,SNV,layer_3,33.235867
+SSR1,SNV,input,6.9477673,Processing and activation of SUMO,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Protein hydroxylation,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Ion transport by P-type ATPases,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Protein hydroxylation,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Ion transport by P-type ATPases,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Unwinding of DNA,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,AKT phosphorylates targets in the cytosol,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Transport of organic anions,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Digestion of dietary lipid,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Synthesis of Ketone Bodies,SNV,layer_1,6.9477673
+SSR1,SNV,input,6.9477673,Transport of fatty acids,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Unwinding of DNA,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,AKT phosphorylates targets in the cytosol,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Transport of organic anions,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Digestion of dietary lipid,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Synthesis of Ketone Bodies,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Transport of fatty acids,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Processing and activation of SUMO,SNV,layer_1,6.9477673
+SDHD,SNV,input,6.9477673,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,6.9477673
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,RAB geranylgeranylation,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,SLC transporter disorders,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Signaling by ERBB2,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Cellular response to chemical stress,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Signaling by ERBB4,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,Protein lipoylation,SNV,layer_2,6.1929207
+AKT phosphorylates targets in the cytosol,SNV,layer_1,6.1929207,eNOS activation,SNV,layer_2,6.1929207
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Chromatin modifying enzymes,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Nucleotide Excision Repair,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Deadenylation-dependent mRNA decay,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,mRNA Editing,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Biological oxidations,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,tRNA processing,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Metabolism of amino acids and derivatives,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Metabolism of vitamins and cofactors,SNV,layer_3,5.4256043
+TYSND1 cleaves peroxisomal proteins,SNV,layer_2,5.4256043,Fertilization,SNV,layer_3,5.4256043
+IGLV1-51,SNV,input,4.945095,Transport of organic anions,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Synthesis of Ketone Bodies,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Unwinding of DNA,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Ion transport by P-type ATPases,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Protein hydroxylation,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Transport of fatty acids,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Processing and activation of SUMO,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,4.945095
+IGLV1-51,SNV,input,4.945095,Digestion of dietary lipid,SNV,layer_1,4.945095
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Metabolism,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Signal Transduction,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Digestion and absorption,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Drug ADME,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Developmental Biology,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Circadian Clock,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Disease,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,DNA Replication,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Cell Cycle,SNV,layer_4,4.4983697
+Deadenylation-dependent mRNA decay,SNV,layer_3,4.4983697,Muscle contraction,SNV,layer_4,4.4983697
+Transport of organic anions,SNV,layer_1,4.094295,Cellular response to chemical stress,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Protein lipoylation,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,eNOS activation,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Signaling by ERBB2,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,Signaling by ERBB4,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,SLC transporter disorders,SNV,layer_2,4.094295
+Transport of organic anions,SNV,layer_1,4.094295,RAB geranylgeranylation,SNV,layer_2,4.094295
+EPOR,SNV,input,4.04126,Unwinding of DNA,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Digestion of dietary lipid,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Transport of organic anions,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Ion transport by P-type ATPases,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Protein hydroxylation,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Processing and activation of SUMO,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Transport of fatty acids,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Synthesis of Ketone Bodies,SNV,layer_1,4.04126
+EPOR,SNV,input,4.04126,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,4.04126
+MSRB2,SNV,input,4.0186253,Transport of organic anions,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,AKT phosphorylates targets in the cytosol,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Synthesis of Ketone Bodies,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Digestion of dietary lipid,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Transport of fatty acids,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Processing and activation of SUMO,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Unwinding of DNA,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Ion transport by P-type ATPases,SNV,layer_1,4.0186253
+MSRB2,SNV,input,4.0186253,Protein hydroxylation,SNV,layer_1,4.0186253
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Signaling by ERBB4,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,eNOS activation,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Protein lipoylation,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,SLC transporter disorders,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,RAB geranylgeranylation,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Cellular response to chemical stress,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Signaling by ERBB2,SNV,layer_2,3.8552582
+Digestion of dietary lipid,SNV,layer_1,3.8552582,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.8552582
+MFN2,SNV,input,3.5225139,Ion transport by P-type ATPases,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Protein hydroxylation,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Unwinding of DNA,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,AKT phosphorylates targets in the cytosol,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Transport of organic anions,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Digestion of dietary lipid,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Unwinding of DNA,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,AKT phosphorylates targets in the cytosol,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Unwinding of DNA,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,AKT phosphorylates targets in the cytosol,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Protein hydroxylation,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Ion transport by P-type ATPases,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Processing and activation of SUMO,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Synthesis of Ketone Bodies,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Transport of fatty acids,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Processing and activation of SUMO,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Synthesis of Ketone Bodies,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Transport of fatty acids,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Transport of organic anions,SNV,layer_1,3.5225139
+OAZ1,SNV,input,3.5225139,Digestion of dietary lipid,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Synthesis of Ketone Bodies,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Transport of fatty acids,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Ion transport by P-type ATPases,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Protein hydroxylation,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,3.5225139
+OR1E2,SNV,input,3.5225139,Processing and activation of SUMO,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Unwinding of DNA,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,AKT phosphorylates targets in the cytosol,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Transport of organic anions,SNV,layer_1,3.5225139
+MFN2,SNV,input,3.5225139,Digestion of dietary lipid,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Transport of organic anions,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Digestion of dietary lipid,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Synthesis of Ketone Bodies,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Transport of fatty acids,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Processing and activation of SUMO,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Protein hydroxylation,SNV,layer_1,3.5225139
+UGT1A7,SNV,input,3.5225139,Ion transport by P-type ATPases,SNV,layer_1,3.5225139
+BICD1,SNV,input,3.5221825,Digestion of dietary lipid,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Transport of organic anions,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,AKT phosphorylates targets in the cytosol,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Unwinding of DNA,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Processing and activation of SUMO,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Transport of fatty acids,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Synthesis of Ketone Bodies,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Protein hydroxylation,SNV,layer_1,3.5221825
+BICD1,SNV,input,3.5221825,Ion transport by P-type ATPases,SNV,layer_1,3.5221825
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,mRNA Editing,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Fertilization,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,tRNA processing,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Deadenylation-dependent mRNA decay,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Nucleotide Excision Repair,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Metabolism of amino acids and derivatives,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Chromatin modifying enzymes,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Metabolism of vitamins and cofactors,SNV,layer_3,3.3055232
+Receptor-type tyrosine-protein phosphatases,SNV,layer_2,3.3055232,Biological oxidations,SNV,layer_3,3.3055232
+tRNA processing,SNV,layer_3,2.7448013,Developmental Biology,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Circadian Clock,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Drug ADME,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Disease,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Muscle contraction,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Signal Transduction,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,DNA Replication,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Cell Cycle,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Metabolism,SNV,layer_4,2.7448013
+tRNA processing,SNV,layer_3,2.7448013,Digestion and absorption,SNV,layer_4,2.7448013
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Signaling by ERBB4,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Cellular response to chemical stress,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Signaling by ERBB2,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,eNOS activation,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,Protein lipoylation,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,SLC transporter disorders,SNV,layer_2,2.413732
+Synthesis of Ketone Bodies,SNV,layer_1,2.413732,RAB geranylgeranylation,SNV,layer_2,2.413732
+Transport of fatty acids,SNV,layer_1,2.0767972,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,Signaling by ERBB2,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,Cellular response to chemical stress,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,eNOS activation,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,Protein lipoylation,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,RAB geranylgeranylation,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,SLC transporter disorders,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,Signaling by ERBB4,SNV,layer_2,2.0767972
+Transport of fatty acids,SNV,layer_1,2.0767972,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,2.0767972
+Signaling by ERBB2,SNV,layer_2,2.0053294,Nucleotide Excision Repair,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Deadenylation-dependent mRNA decay,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,tRNA processing,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Fertilization,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Metabolism of amino acids and derivatives,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Chromatin modifying enzymes,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,mRNA Editing,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Metabolism of vitamins and cofactors,SNV,layer_3,2.0053294
+Signaling by ERBB2,SNV,layer_2,2.0053294,Biological oxidations,SNV,layer_3,2.0053294
+Processing and activation of SUMO,SNV,layer_1,1.8747699,Protein lipoylation,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,eNOS activation,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,Cellular response to chemical stress,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,SLC transporter disorders,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,RAB geranylgeranylation,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,Signaling by ERBB2,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,Signaling by ERBB4,SNV,layer_2,1.8747699
+Processing and activation of SUMO,SNV,layer_1,1.8747699,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,1.8747699
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,Signaling by ERBB2,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,Cellular response to chemical stress,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,SLC transporter disorders,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,RAB geranylgeranylation,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,eNOS activation,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,Protein lipoylation,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,1.801974
+Signaling by CSF1 (M-CSF) in myeloid cells,SNV,layer_1,1.801974,Signaling by ERBB4,SNV,layer_2,1.801974
+Protein hydroxylation,SNV,layer_1,1.765726,Signaling by ERBB2,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,Signaling by ERBB4,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,eNOS activation,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,Protein lipoylation,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,SLC transporter disorders,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,RAB geranylgeranylation,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,Cellular response to chemical stress,SNV,layer_2,1.765726
+Protein hydroxylation,SNV,layer_1,1.765726,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.765726
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,SLC transporter disorders,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,RAB geranylgeranylation,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,eNOS activation,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,Protein lipoylation,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,Cellular response to chemical stress,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,Signaling by ERBB2,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,Receptor-type tyrosine-protein phosphatases,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,Signaling by ERBB4,SNV,layer_2,1.5769297
+Ion transport by P-type ATPases,SNV,layer_1,1.5769297,TYSND1 cleaves peroxisomal proteins,SNV,layer_2,1.5769297
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Biological oxidations,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Metabolism of vitamins and cofactors,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,mRNA Editing,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Metabolism of amino acids and derivatives,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Chromatin modifying enzymes,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Nucleotide Excision Repair,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Deadenylation-dependent mRNA decay,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,tRNA processing,SNV,layer_3,1.5146831
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,SNV,layer_2,1.5146831,Fertilization,SNV,layer_3,1.5146831
+Fertilization,SNV,layer_3,1.4004573,DNA Replication,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Cell Cycle,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Digestion and absorption,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Metabolism,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Circadian Clock,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Muscle contraction,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Developmental Biology,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Signal Transduction,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Disease,SNV,layer_4,1.4004573
+Fertilization,SNV,layer_3,1.4004573,Drug ADME,SNV,layer_4,1.4004573
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Drug ADME,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Disease,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,DNA Replication,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Cell Cycle,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Circadian Clock,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Muscle contraction,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Signal Transduction,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Developmental Biology,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Metabolism,SNV,layer_4,1.0108771
+Metabolism of vitamins and cofactors,SNV,layer_3,1.0108771,Digestion and absorption,SNV,layer_4,1.0108771
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Chromatin modifying enzymes,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Metabolism of amino acids and derivatives,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Metabolism of vitamins and cofactors,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Biological oxidations,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Deadenylation-dependent mRNA decay,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Nucleotide Excision Repair,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Fertilization,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,tRNA processing,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,mRNA Editing,SNV,layer_3,0.9896886
+Cellular response to chemical stress,SNV,layer_2,0.9896886,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.9896886
+eNOS activation,SNV,layer_2,0.86260545,Deadenylation-dependent mRNA decay,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Nucleotide Excision Repair,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Fertilization,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,tRNA processing,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Biological oxidations,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Metabolism of vitamins and cofactors,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,mRNA Editing,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Chromatin modifying enzymes,SNV,layer_3,0.86260545
+eNOS activation,SNV,layer_2,0.86260545,Metabolism of amino acids and derivatives,SNV,layer_3,0.86260545
+Protein lipoylation,SNV,layer_2,0.7074024,Biological oxidations,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Metabolism of vitamins and cofactors,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Metabolism of amino acids and derivatives,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Chromatin modifying enzymes,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,mRNA Editing,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Nucleotide Excision Repair,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Deadenylation-dependent mRNA decay,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,tRNA processing,SNV,layer_3,0.7074024
+Protein lipoylation,SNV,layer_2,0.7074024,Fertilization,SNV,layer_3,0.7074024
+Biological oxidations,SNV,layer_3,0.6189016,Muscle contraction,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Circadian Clock,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Signal Transduction,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Developmental Biology,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Disease,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Drug ADME,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Digestion and absorption,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Metabolism,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,Cell Cycle,SNV,layer_4,0.6189016
+Biological oxidations,SNV,layer_3,0.6189016,DNA Replication,SNV,layer_4,0.6189016
+SLC transporter disorders,SNV,layer_2,0.5692661,Biological oxidations,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Metabolism of vitamins and cofactors,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,mRNA Editing,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Chromatin modifying enzymes,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Metabolism of amino acids and derivatives,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Deadenylation-dependent mRNA decay,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Nucleotide Excision Repair,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,tRNA processing,SNV,layer_3,0.5692661
+SLC transporter disorders,SNV,layer_2,0.5692661,Fertilization,SNV,layer_3,0.5692661
+RAB geranylgeranylation,SNV,layer_2,0.43872857,tRNA processing,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Fertilization,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Biological oxidations,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Metabolism of vitamins and cofactors,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Deadenylation-dependent mRNA decay,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Nucleotide Excision Repair,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Chromatin modifying enzymes,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Metabolism of amino acids and derivatives,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.43872857
+RAB geranylgeranylation,SNV,layer_2,0.43872857,mRNA Editing,SNV,layer_3,0.43872857
+mRNA Editing,SNV,layer_3,0.3526349,Disease,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Drug ADME,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Digestion and absorption,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Metabolism,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Cell Cycle,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,DNA Replication,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Circadian Clock,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Muscle contraction,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Signal Transduction,SNV,layer_4,0.3526349
+mRNA Editing,SNV,layer_3,0.3526349,Developmental Biology,SNV,layer_4,0.3526349
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Muscle contraction,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Circadian Clock,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Signal Transduction,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Developmental Biology,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Drug ADME,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Disease,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Digestion and absorption,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Metabolism,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,Cell Cycle,SNV,layer_4,0.2280402
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.2280402,DNA Replication,SNV,layer_4,0.2280402
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Drug ADME,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Disease,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Cell Cycle,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,DNA Replication,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Metabolism,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Digestion and absorption,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Muscle contraction,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Circadian Clock,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Signal Transduction,SNV,layer_4,0.21850754
+Chromatin modifying enzymes,SNV,layer_3,0.21850754,Developmental Biology,SNV,layer_4,0.21850754
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Cell Cycle,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,DNA Replication,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Digestion and absorption,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Metabolism,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Developmental Biology,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Signal Transduction,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Muscle contraction,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Circadian Clock,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Disease,SNV,layer_4,0.17662464
+Metabolism of amino acids and derivatives,SNV,layer_3,0.17662464,Drug ADME,SNV,layer_4,0.17662464

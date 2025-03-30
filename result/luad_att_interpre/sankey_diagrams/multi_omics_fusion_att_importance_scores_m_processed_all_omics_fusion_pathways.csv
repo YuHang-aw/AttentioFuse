@@ -1,0 +1,301 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by VEGF,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by NOTCH3,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by EGFR,CNV,layer_2,13.475426
+AKT phosphorylates targets in the cytosol,CNV,layer_1,13.475426,Signaling by NTRKs,CNV,layer_2,13.475426
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Collagen biosynthesis and modifying enzymes,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,Aflatoxin activation and detoxification,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,ROS and RNS production in phagocytes,mrna,layer_2,5.5115533
+Downregulation of ERBB2 signaling,mrna,layer_1,5.5115533,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,5.5115533
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Aflatoxin activation and detoxification,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Signaling by Hippo,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Collagen biosynthesis and modifying enzymes,SNV,layer_2,5.365706
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,5.365706,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,5.365706
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Aflatoxin activation and detoxification,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Collagen biosynthesis and modifying enzymes,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Signaling by Hippo,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,5.1374965
+Type I hemidesmosome assembly,SNV,layer_1,5.1374965,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,5.1374965
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,ROS and RNS production in phagocytes,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Aflatoxin activation and detoxification,mrna,layer_2,5.135726
+Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,5.135726,Collagen biosynthesis and modifying enzymes,mrna,layer_2,5.135726
+Signaling by NOTCH3,CNV,layer_2,5.0235596,RNA Polymerase III Transcription,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Mitochondrial calcium ion transport,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,SLC-mediated transmembrane transport,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Base Excision Repair,CNV,layer_3,5.0235596
+Signaling by NOTCH3,CNV,layer_2,5.0235596,Nonsense-Mediated Decay (NMD),CNV,layer_3,5.0235596
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Collagen biosynthesis and modifying enzymes,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Signaling by Hippo,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Aflatoxin activation and detoxification,SNV,layer_2,4.515871
+Antagonism of Activin by Follistatin,SNV,layer_1,4.515871,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,4.515871
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Signaling by Hippo,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Aflatoxin activation and detoxification,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Collagen biosynthesis and modifying enzymes,SNV,layer_2,3.9457285
+Post-chaperonin tubulin folding pathway,SNV,layer_1,3.9457285,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,3.9457285
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Metabolism of nucleotides,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Ion channel transport,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Metabolism of porphyrins,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,Reversible hydration of carbon dioxide,mrna,layer_3,3.9159877
+Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.9159877,RNA Polymerase II Transcription,mrna,layer_3,3.9159877
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by NTRKs,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by NOTCH3,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by EGFR,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Signaling by VEGF,CNV,layer_2,3.8938522
+Glycogen breakdown (glycogenolysis),CNV,layer_1,3.8938522,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,3.8938522
+Processing and activation of SUMO,mrna,layer_1,3.7495847,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,ROS and RNS production in phagocytes,mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,3.7495847
+Processing and activation of SUMO,mrna,layer_1,3.7495847,Aflatoxin activation and detoxification,mrna,layer_2,3.7495847
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Collagen biosynthesis and modifying enzymes,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Aflatoxin activation and detoxification,SNV,layer_2,3.679177
+HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.679177,Signaling by Hippo,SNV,layer_2,3.679177
+DTX4,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+GGPS1,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+STAP2,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+RAB42,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,HHAT G278V doesn't palmitoylate Hh-Np,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Type I hemidesmosome assembly,SNV,layer_1,3.474787
+DTX4,SNV,input,3.474787,Post-chaperonin tubulin folding pathway,SNV,layer_1,3.474787
+NDUFB4,SNV,input,3.474787,Antagonism of Activin by Follistatin,SNV,layer_1,3.474787
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Collagen biosynthesis and modifying enzymes,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,Aflatoxin activation and detoxification,mrna,layer_2,3.3306644
+Catecholamine biosynthesis,mrna,layer_1,3.3306644,ROS and RNS production in phagocytes,mrna,layer_2,3.3306644
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Synthesis of DNA,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Ion channel transport,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,Digestion,SNV,layer_3,3.1630075
+mRNA decay by 3' to 5' exoribonuclease,SNV,layer_2,3.1630075,ABC-family proteins mediated transport,SNV,layer_3,3.1630075
+Signaling by Hippo,SNV,layer_2,2.9253187,Synthesis of DNA,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,ABC-family proteins mediated transport,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Ion channel transport,SNV,layer_3,2.9253187
+Signaling by Hippo,SNV,layer_2,2.9253187,Digestion,SNV,layer_3,2.9253187
+Base Excision Repair,CNV,layer_3,2.8931248,Cell Cycle,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Protein localization,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Digestion and absorption,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Sensory Perception,CNV,layer_4,2.8931248
+Base Excision Repair,CNV,layer_3,2.8931248,Developmental Biology,CNV,layer_4,2.8931248
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,ROS and RNS production in phagocytes,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Aflatoxin activation and detoxification,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,2.868753
+Role of phospholipids in phagocytosis,mrna,layer_1,2.868753,Collagen biosynthesis and modifying enzymes,mrna,layer_2,2.868753
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by NTRKs,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by NOTCH3,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by EGFR,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.6601214
+Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,2.6601214,Signaling by VEGF,CNV,layer_2,2.6601214
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Synthesis of DNA,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Digestion,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,ABC-family proteins mediated transport,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,Ion channel transport,SNV,layer_3,2.6212556
+Collagen biosynthesis and modifying enzymes,SNV,layer_2,2.6212556,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.6212556
+Synthesis of DNA,SNV,layer_3,2.6077116,Hemostasis,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Organelle biogenesis and maintenance,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Neuronal System,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Developmental Biology,SNV,layer_4,2.6077116
+Synthesis of DNA,SNV,layer_3,2.6077116,Signal Transduction,SNV,layer_4,2.6077116
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,ABC-family proteins mediated transport,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Synthesis of DNA,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Digestion,SNV,layer_3,2.4754577
+Aflatoxin activation and detoxification,SNV,layer_2,2.4754577,Ion channel transport,SNV,layer_3,2.4754577
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by VEGF,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by NTRKs,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by NOTCH3,CNV,layer_2,2.4014041
+Establishment of Sister Chromatid Cohesion,CNV,layer_1,2.4014041,Signaling by EGFR,CNV,layer_2,2.4014041
+Signaling by VEGF,CNV,layer_2,2.3717237,Nonsense-Mediated Decay (NMD),CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,RNA Polymerase III Transcription,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Mitochondrial calcium ion transport,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,SLC-mediated transmembrane transport,CNV,layer_3,2.3717237
+Signaling by VEGF,CNV,layer_2,2.3717237,Base Excision Repair,CNV,layer_3,2.3717237
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Ion channel transport,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,ABC-family proteins mediated transport,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Digestion,SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.3281958
+Neurotransmitter receptors and postsynaptic signal transmission,SNV,layer_2,2.3281958,Synthesis of DNA,SNV,layer_3,2.3281958
+Signaling by EGFR,CNV,layer_2,2.1774814,RNA Polymerase III Transcription,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Nonsense-Mediated Decay (NMD),CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,SLC-mediated transmembrane transport,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Base Excision Repair,CNV,layer_3,2.1774814
+Signaling by EGFR,CNV,layer_2,2.1774814,Mitochondrial calcium ion transport,CNV,layer_3,2.1774814
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Reversible hydration of carbon dioxide,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Metabolism of nucleotides,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Metabolism of porphyrins,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,Ion channel transport,mrna,layer_3,2.1599991
+"tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",mrna,layer_2,2.1599991,RNA Polymerase II Transcription,mrna,layer_3,2.1599991
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Ion channel transport,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,RNA Polymerase II Transcription,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Metabolism of nucleotides,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Reversible hydration of carbon dioxide,mrna,layer_3,2.1352499
+Aflatoxin activation and detoxification,mrna,layer_2,2.1352499,Metabolism of porphyrins,mrna,layer_3,2.1352499
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Signal Transduction,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Organelle biogenesis and maintenance,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Hemostasis,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Neuronal System,SNV,layer_4,2.0158865
+"Plasma lipoprotein assembly, remodeling, and clearance",SNV,layer_3,2.0158865,Developmental Biology,SNV,layer_4,2.0158865
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by EGFR,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by NOTCH3,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by NTRKs,CNV,layer_2,1.9433588
+ABC transporters in lipid homeostasis,CNV,layer_1,1.9433588,Signaling by VEGF,CNV,layer_2,1.9433588
+Signaling by NTRKs,CNV,layer_2,1.8046869,RNA Polymerase III Transcription,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Base Excision Repair,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,Mitochondrial calcium ion transport,CNV,layer_3,1.8046869
+Signaling by NTRKs,CNV,layer_2,1.8046869,SLC-mediated transmembrane transport,CNV,layer_3,1.8046869
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Cell Cycle,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Protein localization,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Sensory Perception,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Digestion and absorption,CNV,layer_4,1.7979919
+Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7979919,Developmental Biology,CNV,layer_4,1.7979919
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,RNA Polymerase II Transcription,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Reversible hydration of carbon dioxide,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Metabolism of nucleotides,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Ion channel transport,mrna,layer_3,1.720786
+SRP-dependent cotranslational protein targeting to membrane,mrna,layer_2,1.720786,Metabolism of porphyrins,mrna,layer_3,1.720786
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,SLC-mediated transmembrane transport,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Mitochondrial calcium ion transport,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Nonsense-Mediated Decay (NMD),CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,Base Excision Repair,CNV,layer_3,1.7040555
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.7040555,RNA Polymerase III Transcription,CNV,layer_3,1.7040555
+HSD3B1,mrna,input,1.7011398,Processing and activation of SUMO,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Downregulation of ERBB2 signaling,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Catecholamine biosynthesis,mrna,layer_1,1.7011398
+HSD3B1,mrna,input,1.7011398,Role of phospholipids in phagocytosis,mrna,layer_1,1.7011398
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Ion channel transport,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Reversible hydration of carbon dioxide,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,RNA Polymerase II Transcription,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Metabolism of porphyrins,mrna,layer_3,1.6843464
+ROS and RNS production in phagocytes,mrna,layer_2,1.6843464,Metabolism of nucleotides,mrna,layer_3,1.6843464
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Hemostasis,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Neuronal System,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Developmental Biology,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Organelle biogenesis and maintenance,SNV,layer_4,1.5753723
+ABC-family proteins mediated transport,SNV,layer_3,1.5753723,Signal Transduction,SNV,layer_4,1.5753723
+Digestion,SNV,layer_3,1.4445627,Organelle biogenesis and maintenance,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Hemostasis,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Neuronal System,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Developmental Biology,SNV,layer_4,1.4445627
+Digestion,SNV,layer_3,1.4445627,Signal Transduction,SNV,layer_4,1.4445627
+Ion channel transport,SNV,layer_3,1.4344095,Developmental Biology,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Organelle biogenesis and maintenance,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Signal Transduction,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Hemostasis,SNV,layer_4,1.4344095
+Ion channel transport,SNV,layer_3,1.4344095,Neuronal System,SNV,layer_4,1.4344095
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Extracellular matrix organization,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Developmental Biology,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Disease,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Metabolism of RNA,mrna,layer_4,1.3873042
+Reversible hydration of carbon dioxide,mrna,layer_3,1.3873042,Metabolism of proteins,mrna,layer_4,1.3873042
+Ion channel transport,mrna,layer_3,1.3260831,Disease,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Metabolism of RNA,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Developmental Biology,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Metabolism of proteins,mrna,layer_4,1.3260831
+Ion channel transport,mrna,layer_3,1.3260831,Extracellular matrix organization,mrna,layer_4,1.3260831
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Developmental Biology,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Extracellular matrix organization,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Metabolism of RNA,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Disease,mrna,layer_4,1.2379097
+Metabolism of porphyrins,mrna,layer_3,1.2379097,Metabolism of proteins,mrna,layer_4,1.2379097
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Disease,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Metabolism of proteins,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Extracellular matrix organization,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Metabolism of RNA,mrna,layer_4,1.2232261
+Metabolism of nucleotides,mrna,layer_3,1.2232261,Developmental Biology,mrna,layer_4,1.2232261
+KCNK18,mrna,input,1.2080522,Catecholamine biosynthesis,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Downregulation of ERBB2 signaling,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Role of phospholipids in phagocytosis,mrna,layer_1,1.2080522
+KCNK18,mrna,input,1.2080522,Processing and activation of SUMO,mrna,layer_1,1.2080522
+SLC12A3,mrna,input,1.1983293,Role of phospholipids in phagocytosis,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Downregulation of ERBB2 signaling,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Catecholamine biosynthesis,mrna,layer_1,1.1983293
+SLC12A3,mrna,input,1.1983293,Processing and activation of SUMO,mrna,layer_1,1.1983293
+L1CAM,mrna,input,1.1872488,Processing and activation of SUMO,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Downregulation of ERBB2 signaling,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Catecholamine biosynthesis,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Role of phospholipids in phagocytosis,mrna,layer_1,1.1872488
+L1CAM,mrna,input,1.1872488,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1872488
+TRPM1,mrna,input,1.1542009,Catecholamine biosynthesis,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Processing and activation of SUMO,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Downregulation of ERBB2 signaling,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Role of phospholipids in phagocytosis,mrna,layer_1,1.1542009
+TRPM1,mrna,input,1.1542009,Acetylcholine Neurotransmitter Release Cycle,mrna,layer_1,1.1542009
+AUTS2,CNV,input,1.064971,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,ABC transporters in lipid homeostasis,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.064971
+AUTS2,CNV,input,1.064971,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.064971
+ZNF224,CNV,input,1.0550985,ABC transporters in lipid homeostasis,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0550985
+ZNF224,CNV,input,1.0550985,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0550985
+TOMM40,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+TOMM40,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Regulation of MITF-M-dependent genes involved in apoptosis,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,AKT phosphorylates targets in the cytosol,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,ABC transporters in lipid homeostasis,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Establishment of Sister Chromatid Cohesion,CNV,layer_1,1.0246193
+APOE,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+APOC1,CNV,input,1.0246193,Glycogen breakdown (glycogenolysis),CNV,layer_1,1.0246193
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Developmental Biology,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Metabolism of RNA,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Disease,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Extracellular matrix organization,mrna,layer_4,0.9853394
+RNA Polymerase II Transcription,mrna,layer_3,0.9853394,Metabolism of proteins,mrna,layer_4,0.9853394
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Sensory Perception,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Cell Cycle,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Digestion and absorption,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Protein localization,CNV,layer_4,0.95128125
+RNA Polymerase III Transcription,CNV,layer_3,0.95128125,Developmental Biology,CNV,layer_4,0.95128125
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Digestion and absorption,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Protein localization,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Cell Cycle,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Developmental Biology,CNV,layer_4,0.8439629
+Mitochondrial calcium ion transport,CNV,layer_3,0.8439629,Sensory Perception,CNV,layer_4,0.8439629
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Sensory Perception,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Developmental Biology,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Digestion and absorption,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Protein localization,CNV,layer_4,0.6441749
+SLC-mediated transmembrane transport,CNV,layer_3,0.6441749,Cell Cycle,CNV,layer_4,0.6441749

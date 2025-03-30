@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+SNV_layer_1_19,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,layer_1,SNV,5.365706
+SNV_layer_1_24,Type I hemidesmosome assembly,layer_1,SNV,5.1374965
+SNV_layer_1_13,Antagonism of Activin by Follistatin,layer_1,SNV,4.515871
+SNV_layer_1_23,Post-chaperonin tubulin folding pathway,layer_1,SNV,3.9457285
+SNV_layer_1_29,HHAT G278V doesn't palmitoylate Hh-Np,layer_1,SNV,3.679177
+SNV_input_7746,STAP2,input,SNV,3.474787
+SNV_input_2829,GGPS1,input,SNV,3.474787
+SNV_input_2072,DTX4,input,SNV,3.474787
+SNV_input_4947,NDUFB4,input,SNV,3.474787
+SNV_input_6564,RAB42,input,SNV,3.474787
+SNV_input_8166,TNFRSF13B,input,SNV,3.474787
+SNV_input_4770,MTX1,input,SNV,3.344403
+SNV_input_5871,PELI3,input,SNV,3.344403
+SNV_input_1036,CCND3,input,SNV,3.344403
+SNV_layer_2_98,mRNA decay by 3' to 5' exoribonuclease,layer_2,SNV,3.1630075
+SNV_layer_1_0,Serotonin Neurotransmitter Release Cycle,layer_1,SNV,2.95281
+SNV_layer_2_14,Signaling by Hippo,layer_2,SNV,2.9253187
+SNV_layer_1_188,Transport of Mature mRNAs Derived from Intronless Transcripts,layer_1,SNV,2.842104
+SNV_layer_4_2,Developmental Biology,layer_4,SNV,2.6778862
+SNV_layer_2_0,Collagen biosynthesis and modifying enzymes,layer_2,SNV,2.6212556
+SNV_layer_3_33,Synthesis of DNA,layer_3,SNV,2.6077116
+SNV_input_1000,CBX4,input,SNV,2.5516267
+SNV_layer_2_34,Aflatoxin activation and detoxification,layer_2,SNV,2.4754577
+SNV_layer_1_67,Regulation of actin dynamics for phagocytic cup formation,layer_1,SNV,2.3689857
+SNV_layer_1_185,G alpha (s) signalling events,layer_1,SNV,2.3417013
+SNV_layer_2_13,Neurotransmitter receptors and postsynaptic signal transmission,layer_2,SNV,2.3281958
+SNV_layer_2_3,FASTK family proteins regulate processing and stability of mitochondrial RNAs,layer_2,SNV,2.239131
+SNV_layer_1_321,Glucuronidation,layer_1,SNV,2.2318995
+SNV_layer_3_5,"Plasma lipoprotein assembly, remodeling, and clearance",layer_3,SNV,2.0158865
+SNV_layer_4_7,Signal Transduction,layer_4,SNV,1.5956308
+SNV_layer_2_181,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,layer_2,SNV,1.5843726
+SNV_layer_3_6,ABC-family proteins mediated transport,layer_3,SNV,1.5753723
+SNV_layer_2_72,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",layer_2,SNV,1.5642328
+SNV_layer_3_0,Digestion,layer_3,SNV,1.4445627
+SNV_layer_3_13,Ion channel transport,layer_3,SNV,1.4344095
+SNV_layer_2_12,Neurotransmitter uptake and metabolism In glial cells,layer_2,SNV,1.1123307
+SNV_layer_3_55,Nephrin family interactions,layer_3,SNV,1.0856321
+SNV_layer_2_108,tRNA processing in the mitochondrion,layer_2,SNV,1.0736017
+SNV_layer_3_2,Meiosis,layer_3,SNV,1.0299466
+SNV_layer_3_25,Fibronectin matrix formation,layer_3,SNV,0.97309065
+SNV_layer_4_11,Organelle biogenesis and maintenance,layer_4,SNV,0.7080744
+SNV_layer_3_37,RNA Polymerase I Transcription,layer_3,SNV,0.63719845
+SNV_layer_3_102,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,layer_3,SNV,0.2606946
+SNV_layer_4_1,Neuronal System,layer_4,SNV,0.12256631
+SNV_layer_4_0,Hemostasis,layer_4,SNV,0.11587669
+SNV_layer_4_26,Autophagy,layer_4,SNV,0.081523284
+SNV_layer_4_28,Drug ADME,layer_4,SNV,0.07080847
+SNV_layer_4_3,Metabolism,layer_4,SNV,0.06859456
+SNV_layer_4_13,Metabolism of proteins,layer_4,SNV,0.049040016
+SNV_layer_4_17,Programmed Cell Death,layer_4,SNV,0.010134409

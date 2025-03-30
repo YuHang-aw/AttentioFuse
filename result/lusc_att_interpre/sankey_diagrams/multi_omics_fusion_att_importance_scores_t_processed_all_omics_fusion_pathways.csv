@@ -1,0 +1,301 @@
+Source_Molecule,Source_Omics,Source_Layer,Source_Importance,Target_Molecule,Target_Omics,Target_Layer,Connection_Strength
+Protein repair,SNV,layer_1,7.898846,Protein repair,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,ChREBP activates metabolic gene expression,SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,7.898846
+Protein repair,SNV,layer_1,7.898846,Zygotic genome activation (ZGA),SNV,layer_2,7.898846
+Protein repair,SNV,layer_2,7.472781,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Platelet homeostasis,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Activation of HOX genes during differentiation,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Transcriptional regulation of granulopoiesis,SNV,layer_3,7.472781
+Protein repair,SNV,layer_2,7.472781,Metabolism of vitamins and cofactors,SNV,layer_3,7.472781
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Lysosomal oligosaccharide catabolism,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Formation of the posterior neural plate,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,ChREBP activates metabolic gene expression,mrna,layer_2,3.3368754
+Synthesis of dolichyl-phosphate mannose,mrna,layer_1,3.3368754,Hedgehog 'off' state,mrna,layer_2,3.3368754
+Protein repair,CNV,layer_1,3.3116498,Threonine catabolism,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Specification of the neural plate border,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Class I MHC mediated antigen processing & presentation,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,3.3116498
+Protein repair,CNV,layer_1,3.3116498,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,3.3116498
+Heme signaling,CNV,layer_1,2.550514,Threonine catabolism,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Specification of the neural plate border,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.550514
+Heme signaling,CNV,layer_1,2.550514,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.550514
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Specification of the neural plate border,CNV,layer_2,2.4231083
+Synthesis of dolichyl-phosphate mannose,CNV,layer_1,2.4231083,Threonine catabolism,CNV,layer_2,2.4231083
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Class I MHC mediated antigen processing & presentation,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Specification of the neural plate border,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Threonine catabolism,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,2.4121141
+Estrogen-dependent gene expression,CNV,layer_1,2.4121141,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,2.4121141
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,LGI-ADAM interactions,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Mitochondrial calcium ion transport,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Gastrulation,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,Activation of HOX genes during differentiation,mrna,layer_3,2.3676603
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.3676603,mRNA Editing,mrna,layer_3,2.3676603
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Formation of the posterior neural plate,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Hedgehog 'off' state,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,Lysosomal oligosaccharide catabolism,mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,2.1277492
+Class I peroxisomal membrane protein import,mrna,layer_1,2.1277492,ChREBP activates metabolic gene expression,mrna,layer_2,2.1277492
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Transcriptional regulation of granulopoiesis,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Platelet homeostasis,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Metabolism of vitamins and cofactors,SNV,layer_3,2.041478
+Zygotic genome activation (ZGA),SNV,layer_2,2.041478,Activation of HOX genes during differentiation,SNV,layer_3,2.041478
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Zygotic genome activation (ZGA),SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Protein repair,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.9070525
+NCAM signaling for neurite out-growth,SNV,layer_1,1.9070525,ChREBP activates metabolic gene expression,SNV,layer_2,1.9070525
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Metabolism of proteins,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Muscle contraction,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Neuronal System,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Extracellular matrix organization,SNV,layer_4,1.9016198
+Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,1.9016198,Signal Transduction,SNV,layer_4,1.9016198
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Collagen formation,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Laminin interactions,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Invadopodia formation,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,LGI-ADAM interactions,CNV,layer_3,1.5934303
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5934303,Class I peroxisomal membrane protein import,CNV,layer_3,1.5934303
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Cell-Cell communication,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Cell Cycle,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Vesicle-mediated transport,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Programmed Cell Death,mrna,layer_4,1.575412
+Mitochondrial calcium ion transport,mrna,layer_3,1.575412,Digestion and absorption,mrna,layer_4,1.575412
+Invadopodia formation,CNV,layer_3,1.5381664,Vesicle-mediated transport,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Hemostasis,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Developmental Biology,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,Circadian Clock,CNV,layer_4,1.5381664
+Invadopodia formation,CNV,layer_3,1.5381664,DNA Repair,CNV,layer_4,1.5381664
+SDK interactions,CNV,layer_1,1.5257174,Specification of the neural plate border,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Threonine catabolism,CNV,layer_2,1.5257174
+SDK interactions,CNV,layer_1,1.5257174,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.5257174
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Hedgehog 'off' state,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,ChREBP activates metabolic gene expression,mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.4342505
+AKT phosphorylates targets in the cytosol,mrna,layer_1,1.4342505,Formation of the posterior neural plate,mrna,layer_2,1.4342505
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Gastrulation,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Mitochondrial calcium ion transport,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,LGI-ADAM interactions,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,Activation of HOX genes during differentiation,mrna,layer_3,1.3774551
+Formation of the posterior neural plate,mrna,layer_2,1.3774551,mRNA Editing,mrna,layer_3,1.3774551
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Activation of HOX genes during differentiation,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,LGI-ADAM interactions,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,mRNA Editing,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Gastrulation,mrna,layer_3,1.3654375
+ChREBP activates metabolic gene expression,mrna,layer_2,1.3654375,Mitochondrial calcium ion transport,mrna,layer_3,1.3654375
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Hedgehog 'off' state,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,ChREBP activates metabolic gene expression,mrna,layer_2,1.2809865
+"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,1.2809865,Formation of the posterior neural plate,mrna,layer_2,1.2809865
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Collagen formation,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Laminin interactions,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Class I peroxisomal membrane protein import,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,Invadopodia formation,CNV,layer_3,1.2434442
+Class I MHC mediated antigen processing & presentation,CNV,layer_2,1.2434442,LGI-ADAM interactions,CNV,layer_3,1.2434442
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Vesicle-mediated transport,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Developmental Biology,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,DNA Repair,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Hemostasis,CNV,layer_4,1.2227539
+Class I peroxisomal membrane protein import,CNV,layer_3,1.2227539,Circadian Clock,CNV,layer_4,1.2227539
+Platelet homeostasis,SNV,layer_3,1.1834747,Muscle contraction,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Metabolism of proteins,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Extracellular matrix organization,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Signal Transduction,SNV,layer_4,1.1834747
+Platelet homeostasis,SNV,layer_3,1.1834747,Neuronal System,SNV,layer_4,1.1834747
+Inflammasomes,mrna,layer_1,1.1818775,Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Hedgehog 'off' state,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,Formation of the posterior neural plate,mrna,layer_2,1.1818775
+Inflammasomes,mrna,layer_1,1.1818775,ChREBP activates metabolic gene expression,mrna,layer_2,1.1818775
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,ChREBP activates metabolic gene expression,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Zygotic genome activation (ZGA),SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Protein repair,SNV,layer_2,1.1485258
+MDK and PTN in ALK signaling,SNV,layer_1,1.1485258,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.1485258
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Vesicle-mediated transport,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Developmental Biology,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Hemostasis,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,Circadian Clock,CNV,layer_4,1.1171663
+LGI-ADAM interactions,CNV,layer_3,1.1171663,DNA Repair,CNV,layer_4,1.1171663
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Gastrulation,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,LGI-ADAM interactions,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Activation of HOX genes during differentiation,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,Mitochondrial calcium ion transport,mrna,layer_3,1.1038301
+Lysosomal oligosaccharide catabolism,mrna,layer_2,1.1038301,mRNA Editing,mrna,layer_3,1.1038301
+HSPA5,SNV,input,1.0661184,Protein repair,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,ChREBP activates metabolic gene expression,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,MDK and PTN in ALK signaling,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,NCAM signaling for neurite out-growth,SNV,layer_1,1.0661184
+HSPA5,SNV,input,1.0661184,Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0661184
+Specification of the neural plate border,CNV,layer_2,1.0660768,Invadopodia formation,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Class I peroxisomal membrane protein import,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Collagen formation,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,Laminin interactions,CNV,layer_3,1.0660768
+Specification of the neural plate border,CNV,layer_2,1.0660768,LGI-ADAM interactions,CNV,layer_3,1.0660768
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,ChREBP activates metabolic gene expression,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Zygotic genome activation (ZGA),SNV,layer_2,1.0613879
+ChREBP activates metabolic gene expression,SNV,layer_1,1.0613879,Protein repair,SNV,layer_2,1.0613879
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Protein repair,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Zygotic genome activation (ZGA),SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,ChREBP activates metabolic gene expression,SNV,layer_2,1.0519735
+Common Pathway of Fibrin Clot Formation,SNV,layer_1,1.0519735,Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,1.0519735
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Invadopodia formation,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Class I peroxisomal membrane protein import,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,LGI-ADAM interactions,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Collagen formation,CNV,layer_3,1.0044355
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,CNV,layer_2,1.0044355,Laminin interactions,CNV,layer_3,1.0044355
+GTF2H2,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+GTF2H2,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Heme signaling,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,SDK interactions,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Protein repair,CNV,layer_1,0.90467757
+OCLN,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Estrogen-dependent gene expression,CNV,layer_1,0.90467757
+SMN1,CNV,input,0.90467757,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.90467757
+TALDO1,mrna,input,0.8955433,Class I peroxisomal membrane protein import,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8955433
+TALDO1,mrna,input,0.8955433,Inflammasomes,mrna,layer_1,0.8955433
+CDC25A,CNV,input,0.8951812,Estrogen-dependent gene expression,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Protein repair,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,SDK interactions,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Heme signaling,CNV,layer_1,0.8951812
+CDC25A,CNV,input,0.8951812,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.8951812
+UTP15,CNV,input,0.88464177,Protein repair,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Synthesis of dolichyl-phosphate mannose,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Heme signaling,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,SDK interactions,CNV,layer_1,0.88464177
+UTP15,CNV,input,0.88464177,Estrogen-dependent gene expression,CNV,layer_1,0.88464177
+CA12,mrna,input,0.8830236,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Class I peroxisomal membrane protein import,mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8830236
+CA12,mrna,input,0.8830236,Inflammasomes,mrna,layer_1,0.8830236
+KRT78,mrna,input,0.87917686,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Inflammasomes,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.87917686
+KRT78,mrna,input,0.87917686,Class I peroxisomal membrane protein import,mrna,layer_1,0.87917686
+HIC1,mrna,input,0.8744218,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Class I peroxisomal membrane protein import,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,Inflammasomes,mrna,layer_1,0.8744218
+HIC1,mrna,input,0.8744218,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8744218
+AKR1C1,mrna,input,0.8739628,Inflammasomes,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Class I peroxisomal membrane protein import,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,Synthesis of dolichyl-phosphate mannose,mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,"Synthesis of IP2, IP, and Ins in the cytosol",mrna,layer_1,0.8739628
+AKR1C1,mrna,input,0.8739628,AKT phosphorylates targets in the cytosol,mrna,layer_1,0.8739628
+Threonine catabolism,CNV,layer_2,0.8493982,Collagen formation,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Invadopodia formation,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,LGI-ADAM interactions,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Laminin interactions,CNV,layer_3,0.8493982
+Threonine catabolism,CNV,layer_2,0.8493982,Class I peroxisomal membrane protein import,CNV,layer_3,0.8493982
+Hedgehog 'off' state,mrna,layer_2,0.84003025,LGI-ADAM interactions,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Mitochondrial calcium ion transport,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,mRNA Editing,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Activation of HOX genes during differentiation,mrna,layer_3,0.84003025
+Hedgehog 'off' state,mrna,layer_2,0.84003025,Gastrulation,mrna,layer_3,0.84003025
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Platelet homeostasis,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Metabolism of vitamins and cofactors,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.8264431
+AMPK inhibits chREBP transcriptional activation activity,SNV,layer_2,0.8264431,Activation of HOX genes during differentiation,SNV,layer_3,0.8264431
+TTN,SNV,input,0.8250226,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,Protein repair,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,NCAM signaling for neurite out-growth,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,MDK and PTN in ALK signaling,SNV,layer_1,0.8250226
+TTN,SNV,input,0.8250226,ChREBP activates metabolic gene expression,SNV,layer_1,0.8250226
+MUC16,SNV,input,0.80891997,NCAM signaling for neurite out-growth,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,ChREBP activates metabolic gene expression,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,MDK and PTN in ALK signaling,SNV,layer_1,0.80891997
+MUC16,SNV,input,0.80891997,Protein repair,SNV,layer_1,0.80891997
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Activation of HOX genes during differentiation,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Platelet homeostasis,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.8020207
+ChREBP activates metabolic gene expression,SNV,layer_2,0.8020207,Metabolism of vitamins and cofactors,SNV,layer_3,0.8020207
+RYR2,SNV,input,0.79244906,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,Protein repair,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,MDK and PTN in ALK signaling,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,ChREBP activates metabolic gene expression,SNV,layer_1,0.79244906
+RYR2,SNV,input,0.79244906,NCAM signaling for neurite out-growth,SNV,layer_1,0.79244906
+SYNE1,SNV,input,0.7708104,Protein repair,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,NCAM signaling for neurite out-growth,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,ChREBP activates metabolic gene expression,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,MDK and PTN in ALK signaling,SNV,layer_1,0.7708104
+SYNE1,SNV,input,0.7708104,Common Pathway of Fibrin Clot Formation,SNV,layer_1,0.7708104
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Transcriptional regulation of granulopoiesis,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Activation of HOX genes during differentiation,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Metabolism of nitric oxide: NOS3 activation and regulation,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Platelet homeostasis,SNV,layer_3,0.76343024
+Chromatin modifications during the maternal to zygotic transition (MZT),SNV,layer_2,0.76343024,Metabolism of vitamins and cofactors,SNV,layer_3,0.76343024
+Gastrulation,mrna,layer_3,0.69819427,Programmed Cell Death,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Cell Cycle,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Vesicle-mediated transport,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Digestion and absorption,mrna,layer_4,0.69819427
+Gastrulation,mrna,layer_3,0.69819427,Cell-Cell communication,mrna,layer_4,0.69819427
+Collagen formation,CNV,layer_3,0.6706505,DNA Repair,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Hemostasis,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Circadian Clock,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Vesicle-mediated transport,CNV,layer_4,0.6706505
+Collagen formation,CNV,layer_3,0.6706505,Developmental Biology,CNV,layer_4,0.6706505
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Cell-Cell communication,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Vesicle-mediated transport,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Cell Cycle,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Programmed Cell Death,mrna,layer_4,0.670486
+Activation of HOX genes during differentiation,mrna,layer_3,0.670486,Digestion and absorption,mrna,layer_4,0.670486
+mRNA Editing,mrna,layer_3,0.6230577,Programmed Cell Death,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Cell-Cell communication,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Digestion and absorption,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Cell Cycle,mrna,layer_4,0.6230577
+mRNA Editing,mrna,layer_3,0.6230577,Vesicle-mediated transport,mrna,layer_4,0.6230577
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Cell Cycle,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Digestion and absorption,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Vesicle-mediated transport,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Programmed Cell Death,mrna,layer_4,0.62016845
+LGI-ADAM interactions,mrna,layer_3,0.62016845,Cell-Cell communication,mrna,layer_4,0.62016845
+Laminin interactions,CNV,layer_3,0.54454464,Vesicle-mediated transport,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,DNA Repair,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Circadian Clock,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Hemostasis,CNV,layer_4,0.54454464
+Laminin interactions,CNV,layer_3,0.54454464,Developmental Biology,CNV,layer_4,0.54454464
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Muscle contraction,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Extracellular matrix organization,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Neuronal System,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Metabolism of proteins,SNV,layer_4,0.542905
+Activation of HOX genes during differentiation,SNV,layer_3,0.542905,Signal Transduction,SNV,layer_4,0.542905
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Signal Transduction,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Extracellular matrix organization,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Neuronal System,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Metabolism of proteins,SNV,layer_4,0.4716169
+Transcriptional regulation of granulopoiesis,SNV,layer_3,0.4716169,Muscle contraction,SNV,layer_4,0.4716169
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Extracellular matrix organization,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Metabolism of proteins,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Neuronal System,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Muscle contraction,SNV,layer_4,0.303492
+Metabolism of vitamins and cofactors,SNV,layer_3,0.303492,Signal Transduction,SNV,layer_4,0.303492

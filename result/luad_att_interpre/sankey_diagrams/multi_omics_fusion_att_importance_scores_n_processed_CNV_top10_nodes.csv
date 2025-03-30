@@ -1,0 +1,51 @@
+id,name,layer,omics,importance
+CNV_layer_1_610,AKT phosphorylates targets in the cytosol,layer_1,CNV,12.719019
+CNV_layer_1_254,Retrograde transport at the Trans-Golgi-Network,layer_1,CNV,7.601614
+CNV_layer_1_32,Amino acids regulate mTORC1,layer_1,CNV,7.585529
+CNV_layer_1_273,Acetylcholine inhibits contraction of outer hair cells,layer_1,CNV,7.1635475
+CNV_layer_2_184,Mitochondrial protein import,layer_2,CNV,7.100907
+CNV_layer_1_115,ERBB2 Activates PTK6 Signaling,layer_1,CNV,7.0017896
+CNV_layer_1_11,"Cell death signalling via NRAGE, NRIF and NADE",layer_1,CNV,4.5235248
+CNV_layer_2_208,G1/S DNA Damage Checkpoints,layer_2,CNV,4.4516015
+CNV_layer_1_271,Depurination,layer_1,CNV,4.186216
+CNV_layer_2_209,Mitotic Spindle Checkpoint,layer_2,CNV,3.7834098
+CNV_layer_2_38,Signaling by ERBB2,layer_2,CNV,3.6448824
+CNV_layer_1_19,Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,layer_1,CNV,3.3468125
+CNV_layer_1_119,Inhibition of DNA recombination at telomere,layer_1,CNV,3.203757
+CNV_layer_1_372,Downstream signal transduction,layer_1,CNV,2.9151173
+CNV_layer_3_13,Ion channel transport,layer_3,CNV,2.6784925
+CNV_layer_2_331,Phase 1 - inactivation of fast Na+ channels,layer_2,CNV,2.4762864
+CNV_layer_2_32,Phase I - Functionalization of compounds,layer_2,CNV,2.2816525
+CNV_layer_2_94,Cellular response to chemical stress,layer_2,CNV,2.035798
+CNV_layer_2_243,Activation of Matrix Metalloproteinases,layer_2,CNV,1.892169
+CNV_layer_2_9,Presynaptic depolarization and calcium channel opening,layer_2,CNV,1.8721968
+CNV_layer_2_21,Azathioprine ADME,layer_2,CNV,1.5242026
+CNV_layer_3_2,Meiosis,layer_3,CNV,1.4412332
+CNV_layer_3_5,"Plasma lipoprotein assembly, remodeling, and clearance",layer_3,CNV,1.1448022
+CNV_layer_3_150,Chaperone Mediated Autophagy,layer_3,CNV,0.96052957
+CNV_layer_3_35,Epigenetic regulation of gene expression,layer_3,CNV,0.8271499
+CNV_input_1465,CLEC4G,input,CNV,0.7992292
+CNV_input_8350,STXBP2,input,CNV,0.7983854
+CNV_input_4660,MCEMP1,input,CNV,0.7983854
+CNV_input_6167,PCP2,input,CNV,0.7983854
+CNV_input_6250,PET100,input,CNV,0.7983854
+CNV_input_8873,TRAPPC5,input,CNV,0.7983854
+CNV_input_9436,XAB2,input,CNV,0.7983854
+CNV_input_2678,FCER2,input,CNV,0.7983854
+CNV_input_7136,RETN,input,CNV,0.7983854
+CNV_input_167,ADGRE1,input,CNV,0.79778963
+CNV_layer_3_114,Infectious disease,layer_3,CNV,0.6643886
+CNV_layer_3_118,Diseases of DNA repair,layer_3,CNV,0.66431427
+CNV_layer_3_45,Metabolism of vitamins and cofactors,layer_3,CNV,0.6489928
+CNV_layer_3_10,Mitochondrial calcium ion transport,layer_3,CNV,0.6340768
+CNV_layer_4_20,DNA Repair,layer_4,CNV,0.6029624
+CNV_layer_3_142,Signaling by Erythropoietin,layer_3,CNV,0.5698218
+CNV_layer_4_15,Circadian Clock,layer_4,CNV,0.49660355
+CNV_layer_4_21,Gene expression (Transcription),layer_4,CNV,0.13292941
+CNV_layer_4_5,Extracellular matrix organization,layer_4,CNV,0.078083746
+CNV_layer_4_16,Chromatin organization,layer_4,CNV,0.06785825
+CNV_layer_4_2,Developmental Biology,layer_4,CNV,0.019667728
+CNV_layer_4_8,Cell Cycle,layer_4,CNV,0.0133183105
+CNV_layer_4_22,Metabolism of RNA,layer_4,CNV,0.013167203
+CNV_layer_4_26,Autophagy,layer_4,CNV,0.012001714
+CNV_layer_4_1,Neuronal System,layer_4,CNV,0.009994839
