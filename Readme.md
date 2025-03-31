@@ -1,7 +1,7 @@
 # AttentioFuse: Multi-Omics Cancer Stage Prediction
 
 A Python project exploring multi-omics data fusion techniques, primarily using attention mechanisms, for predicting cancer staging (TNM) based on TCGA LUSC and LUAD datasets. This project includes implementations for both early and mid-fusion strategies and compares them with classical machine learning models. It also incorporates biological pathway information from Reactome using masked MLP layers.
-
+![Project Architecture Diagram](attfusion figure1-2_02.png "My Project Flow")
 ## Introduction
 
 Predicting cancer stage accurately is crucial for treatment planning and prognosis. Multi-omics data (e.g., mRNA expression, CNV, SNV) provides a comprehensive view of the tumor biology. This project investigates how to effectively fuse these different data types to improve TNM stage prediction. We explore:
