@@ -31,3 +31,138 @@ The primary datasets used are TCGA-LUSC and TCGA-LUAD.
 * Configurable dataset selection (LUSC/LUAD) via `config.py`.
 
 ## Project Structure
+
+  **├── config.py # Configuration settings (dataset selection, paths)**
+├── data/ # Raw data directory (Add to .gitignore if large/private)
+│ ├── LUSC/
+│ └── LUAD/
+├── dataprocess/ # Data processing scripts
+│ ├── **init**.py
+│ ├── data_cleaning.py
+│ ├── data_loader.py
+│ ├── label_processor.py
+│ ├── tnm_matrix_generator.py
+│ └── workflow_processor.py # Early/Mid fusion specific processing
+├── model/ # Model definitions and training scripts
+│ ├── **init**.py
+│ ├── model_builder.py # Model class definitions (MLP, Fusion Nets)
+│ ├── model_utils.py # Training loops, evaluation, analysis functions
+│ ├── reactome_utils.py # Reactome data handling
+│ └── train.py # Main training script orchestrator
+├── results/ # Directory for saving models and analysis outputs (Add to .gitignore)
+├── analyze.py # Script to run analysis on trained models
+├── requirements.txt # Project dependencies
+├── setup.py # Script for packaging (optional)
+├── README.md # This file
+└── .gitignore # Specifies intentionally untracked files
+
+## Installation
+
+1. **Clone the repository:**
+
+   git clone <你的项目 GitHub URL>
+   cd attentiofuse
+2. **Create and activate a virtual environment (Recommended):**
+
+   ```bash
+   python -m venv venv
+   # On Windows:
+   # venv\Scripts\activate
+   # On Linux/macOS:
+   # source venv/bin/activate
+   ```
+3. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   * **Note on PyTorch:** `requirements.txt` lists `torch`. You might need to install a specific version compatible with your system (CPU/GPU CUDA version). Check the [PyTorch website](https://pytorch.org/get-started/locally/) for the correct command.
+   * **Note on GMT:** Ensure the `gmt-python` package (or the correct name for your GMT library) in `requirements.txt` is installable via pip or provide separate installation instructions if needed.
+4. **(Optional) Install in editable mode for development:**
+
+   ```bash
+   pip install -e .
+   ```
+
+## Data Setup
+
+**Data is NOT included in this repository.**
+
+1. Download the required TCGA LUSC and LUAD datasets.
+2. Create the `./data/` directory in the project root if it doesn't exist.
+3. Organize the data files within `./data/` according to the paths expected by `config.py` and `dataprocess/data_loader.py`. The expected structure and filenames (based on the code) are:
+   ```
+   data/
+   ├── LUSC/
+   │   ├── LUSC_clinical_SE.csv
+   │   ├── TCGA-LUSC_mrna_expr_tpm.csv
+   │   ├── all_data_by_genes.txt
+   │   └── LUSC_snv.csv
+   └── LUAD/
+       ├── clinIndexData.csv
+       ├── TCGA-LUAD_mrna_expr_tpm.csv
+       ├── cnv_grouped_by_patient.csv
+       └── LUAD_snv_mtx.csv
+   ```
+4. It is strongly recommended to add the `data/` directory to your `.gitignore` file, especially if the data is large or subject to access restrictions.
+
+## Configuration
+
+Project settings are managed in `config.py`. Key settings include:
+
+* `dataset`: Set to `'LUSC'` or `'LUAD'` to select the dataset for processing and training.
+* `data_path`: Path to the base data directory.
+* Other parameters related to data processing and model training can also be added here.
+
+## Usage
+
+### Training
+
+The main training script is `model/train.py`. It orchestrates data loading, preprocessing (based on selected workflow), model building, and training.
+
+1. **Configure:** Edit `config.py` to select the desired `dataset` ('LUSC' or 'LUAD').
+2. **Configure `model/train.py`:**
+
+   * Set the `WORKFLOW` variable (e.g., `'mid_fusion'` or `'early_fusion'`) if you re-introduce workflow switching logic. (The last provided code focused on mid-fusion).
+   * Set the `TARGET_STAGE_KEY` (e.g., `'T'`, `'N'`, `'M'`) to specify which TNM stage to train models for.
+   * Adjust other hyperparameters (epochs, batch size, learning rate) as needed.
+3. **Run Training:** Execute from the project root directory:
+
+   ```bash
+   python model/train.py
+   ```
+
+   Trained models will be saved (by default) in the project root or potentially in the `./results/` directory, depending on the final code modifications.
+
+### Analysis
+
+After training and saving a model (e.g., `attention_fusion_LUSC_T.pth`), you can run the analysis script:
+
+1. **Run Analysis:** Execute `analyze.py` from the project root, providing the path to the saved model, the target stage it was trained for, and an output directory for analysis results:
+
+   ```bash
+   python analyze.py <path/to/saved_model.pth> -s <TNM_STAGE> -o <output_directory_path>
+
+   # Example:
+   python analyze.py ./attn_fusion_model_LUSC_T.pth -s T -o ./results/LUSC_T_attn_analysis
+   ```
+
+   This will perform analyses like fusion layer contribution, Integrated Gradients, and pathway contribution, saving plots and potentially results to the specified output directory.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a Pull Request.
+
+Please open an issue first to discuss major changes.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details, or state it here.
