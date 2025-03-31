@@ -30,37 +30,11 @@ The primary datasets used are TCGA-LUSC and TCGA-LUAD.
 * Model interpretation and analysis utilities (Fusion layer analysis, Integrated Gradients, Pathway contribution).
 * Configurable dataset selection (LUSC/LUAD) via `config.py`.
 
-## Project Structure
-
-  **├── config.py # Configuration settings (dataset selection, paths)**
-├── data/ # Raw data directory (Add to .gitignore if large/private)
-│ ├── LUSC/
-│ └── LUAD/
-├── dataprocess/ # Data processing scripts
-│ ├── **init**.py
-│ ├── data_cleaning.py
-│ ├── data_loader.py
-│ ├── label_processor.py
-│ ├── tnm_matrix_generator.py
-│ └── workflow_processor.py # Early/Mid fusion specific processing
-├── model/ # Model definitions and training scripts
-│ ├── **init**.py
-│ ├── model_builder.py # Model class definitions (MLP, Fusion Nets)
-│ ├── model_utils.py # Training loops, evaluation, analysis functions
-│ ├── reactome_utils.py # Reactome data handling
-│ └── train.py # Main training script orchestrator
-├── results/ # Directory for saving models and analysis outputs (Add to .gitignore)
-├── analyze.py # Script to run analysis on trained models
-├── requirements.txt # Project dependencies
-├── setup.py # Script for packaging (optional)
-├── README.md # This file
-└── .gitignore # Specifies intentionally untracked files
-
 ## Installation
 
 1. **Clone the repository:**
 
-   git clone <你的项目 GitHub URL>
+   git clone [<GitHub URL>](https://github.com/YuHang-aw/AttentioFuse.git)
    cd attentiofuse
 2. **Create and activate a virtual environment (Recommended):**
 
